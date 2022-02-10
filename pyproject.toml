@@ -1,0 +1,4 @@
+[project]
+name = "dicos_document"
+authors = [{name = "Mike Yang", email = "mike.yang@twgrid.org"}]
+dynamic = ["version", "description"]

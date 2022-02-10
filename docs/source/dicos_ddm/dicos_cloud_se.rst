@@ -1,0 +1,2 @@
+DiCOS Cloud Storage (ceph)
+============================
