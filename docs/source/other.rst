@@ -8,5 +8,5 @@ Other Articles
   - :doc:`Available Computing Sites <other/available_computing_sites>`
   - :doc:`What is the transformation script? <other/what_is_the_transformation_script>`
 
-* :doc:`Data Management Command Line Tool (Obsolete) <other/data_management_command_line_tool>`
+* :doc:`Data Management Command Line Tool <other/data_management_command_line_tool>` (Obsolete)
 * :doc:`CryoEM priority user guide <other/cryoem_priority_user_guide>` (Obsolete)
