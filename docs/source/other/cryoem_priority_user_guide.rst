@@ -20,19 +20,21 @@ CryoEM Priority User Guide
 
    - The screenshot below is what it will look like:
 
-     * cisTEM command configuration
 
-     .. image:: cryoem_priority_user_guide/image/Screenshot_20190513_202812.png
+.. figure:: cryoem_priority_user_guide/image/Screenshot_20190513_202812.png
 
-     * Completed cisTEM command configuration
+   cisTEM command configuration
 
-     .. image:: cryoem_priority_user_guide/image/cisTEM_PQ_set.png
+
+.. figure:: cryoem_priority_user_guide/image/cisTEM_PQ_set.png
+
+   Completed cisTEM command configuration
 
 4. Since PQ cluster is isolated resource, so, we need to copy data into cluster storage. The cluster storage is mounted at:
 
    ::
 
-      /cluster_storage/</br>
+      /cluster_storage/
 
    - User can only access their group directory at ``/cluster_storage``
    - Please also be aware, the cluster_storage is not meant for long term storage, so, please remember to copy your output back to your $HOME/data or /cryoem_user/scratch/data/ **
