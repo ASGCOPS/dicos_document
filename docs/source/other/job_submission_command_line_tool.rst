@@ -277,5 +277,5 @@ Practice
         - The taskname "Asize64" will also be the name of output dataset, download this dataset to get the outputs.
 
             - Use :doc:`command-line tool <other/data_management_command_line_tool>`
-            - Use `web UI https://dicos.grid.sinica.edu.tw/ddm/>`_
+            - Use `web UI <https://dicos.grid.sinica.edu.tw/ddm/>`_
     

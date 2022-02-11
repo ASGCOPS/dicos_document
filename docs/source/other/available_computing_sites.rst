@@ -1,2 +1,39 @@
-Available Computing sites
+Available Computing Sites
 ==============================
+
+Available computing sites for different VOs.
+
+=================
+ams02.cern.ch
+=================
+
+- ANALY_TAIWAN_HPC (offline)
+- ANALY_TAIWAN_HPC_QDR2
+- ANALY_TAIWAN_HPC_QDR4
+- ANALY_TAIWAN_HPC_QDR4_MCORE
+- ANALY_TAIWAN_HPC_QDR5
+- ANALY_TAIWAN_HPC_SMP6 (offline)
+- ANALY_TAIWAN_PHYS
+
+=================
+twgrid
+=================
+
+- ANALY_TAIWAN_TWGRID_HPC (offline)
+- ANALY_TAIWAN_TWGRID_HPC_MPI48 (offline)
+- ANALY_TAIWAN_TWGRID_HPC_QDR2
+- ANALY_TAIWAN_TWGRID_HPC_QDR2_MPI64
+- ANALY_TAIWAN_TWGRID_HPC_QDR4
+- ANALY_TAIWAN_TWGRID_HPC_QDR5
+- ANALY_TAIWAN_TWGRID_PHYS
+- ANALY_TAIWAN_TWGRID_PHYS_MPI8
+- ANALY_TAIWAN_TWGRID_PHYS_MPI64
+
+=================
+atlas
+=================
+
+- ANALY_TAIWAN_ATLAS_HPC_QDR2
+- ANALY_TAIWAN_ATLAS_HPC_QDR4
+- ANALY_TAIWAN_ATLAS_HPC_QDR5
+
