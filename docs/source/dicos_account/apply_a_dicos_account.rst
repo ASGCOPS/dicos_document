@@ -8,8 +8,10 @@ Step 1: DiCOS Account Application
 
 .. image:: image/dicos_apply_account_main.jpg
 
-* Select "Apply DiCOS Account" or
-* Select "Academia Sinica SSO sign up" if you have a valid Academia Sinica email account.
+| Method | Who May Apply |
+|:------:|:-------------:|
+| Create New DiCOS account | Normal Users |
+| Sign up with Academia Sincia SSO | If you are Academia Sinica users with SSO access |
 
 Step 2: Personal information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
