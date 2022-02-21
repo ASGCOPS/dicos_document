@@ -1,4 +1,4 @@
 DiCOS Document
 =======================================
 
-ASGC DiCOS Documentation
+ASGC DiCOS Documentation. Adopted from original DiCOS wiki.
