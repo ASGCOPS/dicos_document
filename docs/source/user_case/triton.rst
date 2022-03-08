@@ -4,15 +4,16 @@ Use Triton inference server with DiCOS System
 
 .. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
 
-
 -------------------------------------
 Triton Scheme
 -------------------------------------
-![](/uploads/upload_5ac230455600e32a79c3e1cb295c8df7.png)
+
+.. image:: image/triton_scheme.png
 
 -------------------------------------
 Triton Server
 -------------------------------------
+
 * Using DiCOSAPP to start the Triton server
 * Ports will be revealed when the container is started
   - http port
@@ -25,15 +26,18 @@ Triton Server
   - Memory: 96 GB
 * Usage:
   - Start the Triton DiCOSAPP from DiCOS web
-  ![](/uploads/upload_4deb416680e3d7d2ba599022e14da8db.png =400x)
+
+    .. image:: image/tritonapp1.png
+
   - When the server start running, you will see the following boxes
-  ![](/uploads/upload_8ef756a478a3e452806a7a9c9f1a6af1.png =400x)
+
+    .. image:: image/tritonapp2.png
 
   - Get the API port from the DiCOSAPP web page by press **Open** button, ports will be listed
     - HTTP
     - gRPC
-  ![](/uploads/upload_a7702ca08c26563c76e2484684ef6e37.png =400x)
 
+    .. image:: image/tritonapp3.png
 
   - Run your Triton client (see next section) to communicate with the server
   - Note:
