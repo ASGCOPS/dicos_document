@@ -10,5 +10,6 @@ Welcome to the 2022 DiCOS Documentation!
    dicos_ddm
    user_case
    faq
+   acknowledgement_and_documents
    other
 
