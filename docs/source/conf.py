@@ -4,7 +4,7 @@
 
 project = 'DiCOS Document'
 copyright = '2022, ASGC'
-author = 'Jing-Ya You, Felix Lee, Mike Yang'
+author = 'Jing-Ya You, Felix Lee, Mike Yang, Chih-Ting Chao'
 
 release = '1'
 version = '0.3.0'
