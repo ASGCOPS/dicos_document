@@ -5,8 +5,8 @@ DiCOS Job System
 DiCOS job submission (batch GPU jobs)
   - Using dicos submit to submit batch jobs to GPU resources
 
-DiCOS UI
-^^^^^^^^^^^^^^
+DiCOS User Interfaces (UIs)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table:: DiCOS UI
    :header-rows: 1
