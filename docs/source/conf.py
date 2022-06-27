@@ -40,5 +40,5 @@ html_context = {
     'display_github': False,
 }
 html_theme_options = {
-    'style_nav_header_background' : "#7fb4ba"
+    'style_nav_header_background' : "#CCCCCC"
 }
