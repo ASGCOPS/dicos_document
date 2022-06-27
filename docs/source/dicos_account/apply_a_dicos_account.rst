@@ -1,6 +1,10 @@
 Apply for a DiCOS Account
 ==========================
 
+.. image:: image/dicos_account.png
+   :width: 800
+   :alt: DiCOS Account Flowchart
+
 Step 1: DiCOS Account Application
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -8,11 +12,15 @@ Step 1: DiCOS Account Application
 
 .. image:: image/dicos_apply_account_main.jpg
 
+.. list-table:: DiCOS Account Application
+   :header-rows: 1
 
-| Method | Who May Apply |
-|:------:|:-------------:|
-| Create New DiCOS account | Normal Users |
-| Sign up with Academia Sincia SSO | If you are Academia Sinica users with SSO access |
+   * - Method
+     - Applicant
+   * - Create New DiCOS account
+     - Normal Users 
+   * - Sign up with Academia Sincia SSO
+     - If you are Academia Sinica users with SSO access
 
 
 Step 2: Personal information
