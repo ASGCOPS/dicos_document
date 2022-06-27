@@ -1,5 +1,5 @@
 **********************
-Slurm job submission
+Slurm Batch System
 **********************
 
 Slurm UI
