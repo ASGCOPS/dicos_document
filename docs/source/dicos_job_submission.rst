@@ -19,7 +19,7 @@ The available DiCOS UI are listed below. DiCOS users could login with the DiCOS 
 DiCOS Queues
 ^^^^^^^^^^^^^^^^^^^
 
-Currently (after 7/13, 2022), DiCOS job submission only support for batch GPU jobs. The available DiCOS queues could be found in the table below:
+As of 7/13, 2022, DiCOS job submission only support for batch GPU jobs. The available DiCOS queues could be found in the table below:
 
 
 .. list-table::
