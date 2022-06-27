@@ -4,10 +4,9 @@ Frequent Asked Questions (FAQ)
 
 **Q1: How could I know the computing environment (including the library, compiler, etc.) of DiCOS ?**
 
-::
+.. code-block:: text
 
-   Please contact us by e-mail (DiCOS-Support@twgrid.org) or fill the form in
-   https://dicos.grid.sinica.edu.tw/contact for any required system software.
+   Please contact us by e-mail (DiCOS-Support@twgrid.org) or fill the form in https://dicos.grid.sinica.edu.tw/contact for any required system software.
 
 **Q2: How to use the Command Line Interface in DiCOS?**
 
