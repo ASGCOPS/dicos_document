@@ -10,7 +10,7 @@ Frequent Asked Questions (FAQ)
 
 **Q2: How to use the Command Line Interface in DiCOS?**
 
-::
+.. note::
 
    Login to "dicos-ui05.grid.sinica.edu.tw" by using the account/password used 
    in the DiCOS Web User Interface.
