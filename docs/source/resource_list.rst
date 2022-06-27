@@ -122,3 +122,7 @@ The image below is the whole scheme of current DiCOS system at ASGC. Various ent
 .. image:: image/dicos_scheme.png
    :width: 800
    :alt: DiCOS System Scheme
+
+.. note::
+
+   Update in 20220627
