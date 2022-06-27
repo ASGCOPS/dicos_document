@@ -12,10 +12,20 @@ The available DiCOS UI are listed below. DiCOS users could login with the DiCOS 
    :header-rows: 1
 
    * - User Interface Node
+     - OS
+     - Purpose
    * - dicos-ui02.grid.sinica.edu.tw
+     - SLC 6
+     - File download/upload
    * - dicos-ui04.grid.sinica.edu.tw
+     - CentOS 7
+     - File download/upload
    * - dicos-ui05.grid.sinica.edu.tw
+     - CentOS 7
+     - Job submission, File download/upload
    * - dicos-ui06.grid.sinica.edu.tw
+     - CentOS 7
+     - Job submission, File download/upload
 
 -----------------------------
 DiCOS Queues
@@ -28,11 +38,17 @@ As of 2022-07-13, DiCOS job submission only support for batch GPU jobs. The avai
    :header-rows: 1
 
    * - Queue Name
+     - GPU
    * - ANALY_TAIWAN_TWGRID_V100_GPU_QCD
+     - V100
    * - ANALY_TAIWAN_TWGRID_V100_GPU
+     - V100
    * - ANALY_TAIWAN_TWGRID_SPECFEM3D_GPU
+     - V100
    * - ANALY_TAIWAN_TWGRID_KAGRA_GPU
+     - V100
    * - ANALY_TAIWAN_TWGRID_AUTODOCK_GPU
+     - V100
 
 
 -----------------------------
