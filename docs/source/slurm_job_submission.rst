@@ -27,7 +27,7 @@ Slurm users need to login one of the following user interface nodes to use the s
 Slurm Queues and Hardware
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. list-table:: Slurm Partitions
+.. list-table::
    :header-rows: 1
 
    * - Partition
