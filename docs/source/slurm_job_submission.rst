@@ -2,6 +2,8 @@
 Slurm Batch System
 **********************
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+
 Slurm User Interfaces (UIs)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
