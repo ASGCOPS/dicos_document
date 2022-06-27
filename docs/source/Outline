@@ -1,0 +1,45 @@
+---------------------------------
+Outlines of DiCOS Document (MKY)
+---------------------------------
+About DiCOS
+DiCOS account
+  - Account application
+    - AS-SSO
+    - Non-AS users
+  - Edit password/profile
+    - edit password
+    - edit group
+    - edit other information
+  - Extend account lifetime
+Resources List
+  - GPUs
+  - FDR5
+  - HDR1
+DiCOS job submission (batch GPU jobs)
+  - Using dicos submit to submit batch jobs to GPU resources
+Slurm job submission (batch jobs)
+  - User interfaces
+  - Queuing policy
+  - How to use slurm
+  - Request for specific software installation
+Dicosapps (web application using GPU or CPU)
+  - How to use applications A
+  - How to use applications B
+  - Request for specific software/application installation
+User cases document
+  - lammps
+  - triton
+Accounting Information
+  - Monthly accounting
+  - Accounting/usage dashboard
+Accounting regulation and rate
+  - CE
+  - SE
+  - Power
+Frequent asked questions
+Acknowledgement and publication
+Contact us
+  - e-mail
+  - Web
+
+
