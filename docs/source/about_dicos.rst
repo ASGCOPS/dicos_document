@@ -1,6 +1,6 @@
+***************
 About DiCOS
-==============
-
+***************
 
 DiCOS is the operating system for the distributed Cloud environment, to provide scalable infrastructure, flexible platform as well as intelligent data and job tools for high performance scientific and generic computing purposes.
 
