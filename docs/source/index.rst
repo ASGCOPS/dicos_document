@@ -10,6 +10,7 @@
    slurm_job_submission
    dicosapp
    user_case
+   accounting
    faq
    publication_acknowledgement
    contact_us
