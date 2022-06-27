@@ -2,6 +2,7 @@
 Resources List
 *******************
 
+
 .. list-table:: ASGC Resources
    :header-rows: 1
 
@@ -104,3 +105,7 @@ Resources List
      - A100
      - 8
      - DiCOSApp
+
+.. note::
+
+   Update in 20220627
