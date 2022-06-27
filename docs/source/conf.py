@@ -7,7 +7,7 @@ copyright = '2022, ASGC'
 author = 'Jing-Ya You, Felix Lee, Mike Yang'
 
 release = '1'
-version = '0.2.0'
+version = '0.3.0'
 
 # -- General configuration
 
@@ -40,5 +40,5 @@ html_context = {
     'display_github': False,
 }
 html_theme_options = {
-    'style_nav_header_background' : "#e8e09b"
+    'style_nav_header_background' : "#7fb4ba"
 }

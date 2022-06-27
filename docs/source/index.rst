@@ -13,10 +13,10 @@
    faq
    publication_acknowledgement
    contact_us
-   other
 
 ..
 
+   other
    index_old
    dicos_environment
    dicos_djm
