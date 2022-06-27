@@ -2,10 +2,6 @@
 Resources List
 *******************
 
-- GPUs
-- FDR5
-- HDR1
-
 .. list-table:: ASGC Resources
    :header-rows: 1
 
@@ -28,8 +24,8 @@ Resources List
      - 125GB
      - 2TB (System: 400GB)
      - 10GbE
-     - 
-     - 
+     - N/A
+     - N/A
      - Slurm
    * - HPC_HDR1
      - 2
@@ -39,8 +35,8 @@ Resources List
      - 1520GB
      - 1TB (System: 20GB)
      - 100GbE
-     -
-     - 
+     - N/A
+     - N/A
      - Slurm
    * - GPU_GTX-1080Ti
      - 8
