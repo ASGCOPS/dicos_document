@@ -1,4 +1,4 @@
-Welcome to the 2022 DiCOS Documentation!
+2022 DiCOS Documentation
 =============================================
 
 .. toctree::
@@ -11,9 +11,11 @@ Welcome to the 2022 DiCOS Documentation!
    dicosapp
    user_case
    faq
-   acknowledgement_and_documents
+   publication_acknowledgement
    contact_us
    other
+
+..
 
    index_old
    dicos_environment
