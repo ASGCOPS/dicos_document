@@ -28,3 +28,9 @@ There are some reasons cause this issue:
 
 * There is no enough resources left for your application
 * The application is now in maintenance mode (please see relative announcements)
+
+-------------------------------------------------------------------------------------------------------
+What happened that I cannot launch specific DiCOSApp even if the launch button is clickable?
+-------------------------------------------------------------------------------------------------------
+
+There show be some technical issues of our microservice, please contact DiCOS-Support@twgrid.org for quick solution.
