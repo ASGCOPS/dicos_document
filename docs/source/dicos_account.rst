@@ -19,10 +19,10 @@ Step 1: DiCOS Account Application
 
    * - Method
      - Applicant
-   * - Create New DiCOS account
-     - Normal Users 
-   * - Sign up with Academia Sincia SSO
-     - If you are Academia Sinica users with SSO access
+   * - Apply DiCOS Account
+     - Non-Academia Sinica Users 
+   * - Academia Sinica SSO User
+   * - Academia Sinica Users
 
 .. note::
 
