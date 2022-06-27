@@ -21,7 +21,7 @@ Step 1: DiCOS Account Application
      - Applicant
    * - Apply DiCOS Account
      - Non-Academia Sinica Users 
-   * - Academia Sinica SSO User
+   * - Academia Sinica SSO
      - Academia Sinica Users
 
 .. note::
