@@ -20,7 +20,6 @@ Frequent Asked Questions (FAQ)
 ::
 
 .. admonition:: Answer
-   :class: myOwnStyle
 
    CryoSPARC™ and cryoSPARC Live™ are available free of charge for non-profit 
    academic use. Please go to https://cryosparc.com/download to apply your own 
