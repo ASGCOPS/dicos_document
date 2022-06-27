@@ -2,10 +2,14 @@
 Slurm job submission
 **********************
 
-Slurm Queues
+Slurm UI
 ^^^^^^^^^^^^^^^^^^^^^
 
 * :doc:`Login<slurm_job_submission/slurmui>`
+
+Slurm Queues
+^^^^^^^^^^^^^^^^^^^^^
+
 * :doc:`Resources & Specifications<slurm_job_submission/QDR4_intro>`
 
 Slurm Tutorials
@@ -13,15 +17,7 @@ Slurm Tutorials
 
 * :doc:`Tutorial<slurm_job_submission/slurm_docs>`
 
-..
+Request for specific software installation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   Slurm job submission (batch jobs)
-     - User interfaces
-     - Queuing policy
-     - How to use slurm
-     - Request for specific software installation
-
-.. toctree::
-
-   dicos_djm/slurm
-
+If you have special requirement for the software installation, please contact to DiCOS-Support@twgrid.org
