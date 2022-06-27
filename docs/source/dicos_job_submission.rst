@@ -2,13 +2,12 @@
 DiCOS Job System
 **********************
 
-DiCOS job submission (batch GPU jobs)
-  - Using dicos submit to submit batch jobs to GPU resources
-
 DiCOS User Interfaces (UIs)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. list-table:: DiCOS UI
+The available DiCOS UI are listed below. DiCOS users could login with the DiCOS account to access our resources.
+
+.. list-table::
    :header-rows: 1
 
    * - User Interface Node
@@ -20,7 +19,10 @@ DiCOS User Interfaces (UIs)
 DiCOS Queues
 ^^^^^^^^^^^^^^^^^^^
 
-.. list-table:: DiCOS queues
+Currently (after 7/13, 2022), DiCOS job submission only support for batch GPU jobs. The available DiCOS queues could be found in the table below:
+
+
+.. list-table::
    :header-rows: 1
 
    * - Queue Name
