@@ -9,6 +9,7 @@
    dicos_job_submission
    slurm_job_submission
    dicosapp
+   data_storage_transfer
    user_case
    accounting
    faq
