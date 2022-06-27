@@ -2,6 +2,10 @@
 DiCOS Resources
 *******************
 
+===================
+DiCOS Resources
+===================
+
 .. list-table:: ASGC Resources
    :header-rows: 1
 
@@ -108,3 +112,13 @@ DiCOS Resources
 .. note::
 
    Update in 20220627
+
+====================
+DiCOS in a Nutshell
+====================
+
+The image below is the whole scheme of current DiCOS system at ASGC. Various entry points are provided for the users with different requirements.
+
+.. image:: image/dicos_scheme.png
+   :width: 800
+   :alt: DiCOS System Scheme
