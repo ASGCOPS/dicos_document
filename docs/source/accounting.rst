@@ -1,11 +1,11 @@
-**************
-Accounting
-**************
+***********************
+Accounting and Charge
+***********************
 
-Accounting Information
+* Accounting Information
   - Monthly accounting
   - Accounting/usage dashboard
-Accounting regulation and rate
+* Accounting regulation and rate
   - CE
   - SE
   - Power

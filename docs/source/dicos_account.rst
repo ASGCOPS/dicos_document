@@ -3,13 +3,14 @@ DiCOS Account
 ********************************************
 
 * Account Application
-   :doc:`dicos_account/apply_a_dicos_account`
-* Account application
   - AS-SSO
   - Non-AS users
+  - :doc:`dicos_account/apply_a_dicos_account`
+
 * Edit password/profile
-  - edit password
-  - edit group
-  - edit other information
+  - Edit password
+  - Edit group
+  - Edit other information
+
 * Extend account lifetime
 

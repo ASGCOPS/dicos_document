@@ -1,7 +1,6 @@
 *******************
-Resources List
+DiCOS Resources
 *******************
-
 
 .. list-table:: ASGC Resources
    :header-rows: 1
