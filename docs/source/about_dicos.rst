@@ -6,3 +6,6 @@ DiCOS is the operating system for the distributed Cloud environment, to provide 
 
 In addition, together with the fanless rack system, DiCOS also serve as the building block of various levels of resource centers for the distributed Cloud.
 
+.. image:: image/dicos_scheme.png
+   :width: 800
+   :alt: DiCOS System Scheme
