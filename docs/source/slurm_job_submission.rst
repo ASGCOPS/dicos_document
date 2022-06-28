@@ -4,8 +4,9 @@ Slurm Batch System
 
 .. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
 
+-------------------------------
 Slurm User Interfaces (UIs)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 Slurm users need to login one of the following user interface nodes to use the slurm batch job system.
 
@@ -24,8 +25,9 @@ Slurm users need to login one of the following user interface nodes to use the s
 
 * :doc:`Login<slurm_job_submission/slurmui>`
 
+-------------------------------
 Slurm Queues and Hardware
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 .. list-table::
    :header-rows: 1
@@ -73,20 +75,24 @@ Slurm Queues and Hardware
 
 * :doc:`Resources & Specifications<slurm_job_submission/QDR4_intro>`
 
+-------------------------------
 Slurm Software
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 * modules
 * ssinfo
 * CVMFS
-* :doc:`MPI / Compilers / software & libraries <dicos_environment/available_software>`
 
+* :doc:`MPI / Compilers / software & libraries <slurm_job_submission/available_software>`
+
+-------------------------------
 Slurm Tutorials
-^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 * :doc:`Tutorial<slurm_job_submission/slurm_docs>`
 
+-------------------------------------------
 Request for specific software installation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 If you have special requirement for the software installation, please contact to DiCOS-Support@twgrid.org

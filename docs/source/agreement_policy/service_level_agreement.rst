@@ -1,5 +1,5 @@
 *************************************
-ASGC COMMON SERVICE LEVEL AGREEMENT
+ASGC Common Service Level Agreement
 *************************************
 
 Document Status and Date: FINAL version on 28 Sep. 2019

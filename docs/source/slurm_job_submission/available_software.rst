@@ -68,4 +68,3 @@ User can always find a setup script: setup.sh at software directory respectively
 
 If you don't find software you need, please contact our dicos support team. We will try to install those software for you.
 
-==================
