@@ -73,6 +73,11 @@ Slurm Queues and Hardware
      - N/A
      - 6
 
+.. note::
+
+   The resources are shared with different queues, so some of the resources are mutually exclusive with different queues.
+
+
 * :doc:`Resources & Specifications<slurm_job_submission/QDR4_intro>`
 
 -------------------------------
@@ -82,30 +87,33 @@ Slurm Software
 environment-modules
 ^^^^^^^^^^^^^^^^^^^^^^
 
-You could use use environment-modules for easy setup of your environment with our predefined configurations. See below for some examples:
-
-Find predefined module by:
+You could use use environment-modules for easy setup of your environment with our predefined configurations. Users could find predefined module by:
 
 .. code-block:: bash
 
    module avail
 
-
-MPICH2 + gcc48:
+Load MPICH2 + gcc48:
 
 .. code-block:: bash
 
    module load gcc/4.8.5
    module load mpich
 
-Openmpi + Intel2018:
+Unload all loaded modules:
+
+.. code-block:: bash
+
+   module purge
+
+Load Openmpi + Intel2018:
 
 .. code-block:: bash
 
    module load intel/2018
    module load openmpi
 
-OpenMPI + gcc48:
+Load OpenMPI + gcc48:
 
 .. code-block:: bash
 
@@ -119,9 +127,9 @@ OpenMPI + gcc48:
 ssinfo
 ^^^^^^^^^^
 
-**ssinfo** is made by DiCOS administrator, and available in **slurm-uis**. It could help users to know some system informations, including accounting, news, and documentation, etc.
+``ssinfo`` is made by DiCOS administrator, and available in **slurm-ui**. It could help users to know some system informations, including accounting, news, and documentation, etc.
 
-* Show document of QDR4 cluster
+* Show document of slurm
 
 .. code-block:: bash
 
@@ -133,7 +141,7 @@ ssinfo
 
    ssinfo me
 
-* Show news of QDR4 cluster
+* Show news of slurm and DiCOS
 
 .. code-block:: bash
 
@@ -155,7 +163,7 @@ ssinfo
 CVMFS
 ^^^^^^^^
 
-CVMFS represented for CernVM-FS. It's originally used in the grid computing, and try to deliver the updated software for the computation. The file system is read-only, so it is very suitable for the software delivery. In DiCOS system, CVMFS file system is for the software repository for users, and mounted in _/cvmfs_. The __modules__ environment in slurm system help user to setup the environment for specifically software, and the software is located in CVMFS.
+CVMFS represented for CernVM-FS. It's originally used in the grid computing, and try to deliver the updated software for the computation. The file system is read-only, so it is very suitable for the software delivery. In DiCOS system, CVMFS file system is for the software repository for users, and mounted in ``/cvmfs``. The ``modules`` environment in slurm system help user to setup the environment for specifically software, and the software is located in CVMFS.
 
 .. seealso::
 
