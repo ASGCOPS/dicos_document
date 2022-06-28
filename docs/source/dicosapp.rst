@@ -3,14 +3,16 @@ DiCOSApps
 ************
 
 ======================
-How to Use DiCOSApp
-======================
-
-======================
 DiCOSApp Introduction
 ======================
 
 DiCOSApp is web based micro-service that handles different application individually. Here is the document to introduce its SPEC for each APP.
+
+----------------------
+Use DiCOSApp
+----------------------
+
+Login in to `DiCOS web <https://dicos.grid.sinica.edu.tw>`_ and then go to https://dicos.grid.sinica.edu.tw/dockerapps/ to start using DiCOSApps. The remaining resources are displayed for each DiCOSApp. Click ``launch`` button and then start using the App.
 
 ------------------------
 CryoEM Specific APPs
