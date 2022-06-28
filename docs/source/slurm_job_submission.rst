@@ -26,7 +26,7 @@ Slurm users need to login one of the following user interface nodes to use the s
 * :doc:`Login<slurm_job_submission/slurmui>`
 
 -------------------------------
-Slurm Queues and Hardware
+Slurm Queues and Resources
 -------------------------------
 
 .. list-table::
@@ -37,41 +37,49 @@ Slurm Queues and Hardware
      - CPU Cores
      - GPU Boards
      - Nodes
+     - Resource
    * - large
      - 14-00:00:0
      - 840
      - N/A
      - 42
+     - QDR4
    * - long_serial
      - 14-00:00:0
      - 100
      - N/A
      - 5
+     - QDR4
    * - short
      - 3-00:00:0
      - 1000
      - N/A
      - 50
+     - QDR4
    * - development
      - 1:00:0
      - 20
      - N/A
      - 1
+     - QDR4
    * - a100
      - 5-00:00:0
      - 64
      - 8*A100
      - 50
+     - A100
    * - v100
      - 5-00:00:0
      - 48
      - 8*V100
      - 50
+     - V100
    * - amd
      - 5-00:00:0
      - 768
      - N/A
      - 6
+     - HDR1
 
 .. note::
 
