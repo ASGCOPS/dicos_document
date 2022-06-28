@@ -96,7 +96,7 @@ DiCOS Resources
      - 10GbE
      - V100
      - 8
-     - DiCOSApp, DiCOS job submit
+     - DiCOSApp, Slurm, DiCOS job submit
    * - GPU_A100
      - 2
      - 128
@@ -107,7 +107,7 @@ DiCOS Resources
      - 100GbE
      - A100
      - 8
-     - DiCOSApp
+     - DiCOSApp, Slurm
 
 .. note::
 
