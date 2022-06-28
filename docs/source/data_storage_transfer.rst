@@ -53,7 +53,7 @@ Ceph pool in DiCOS system plays an important role. In general, ceph provides cap
    * `Ceph <https://docs.ceph.com/>`_
 
 ----------------------
-CVMFS
+CernVM-FS (CVMFS)
 ----------------------
 
 CVMFS represented for CernVM-FS. It's originally used in the grid computing, and try to deliver the updated software for the computation. The file system is read-only, so it is very suitable for the software delivery. In DiCOS system, CVMFS file system is for the software repository for users, and mounted in ``/cvmfs``. The ``modules`` environment in slurm system help user to setup the environment for specifically software, and the software is located in CVMFS.
@@ -66,7 +66,7 @@ CVMFS represented for CernVM-FS. It's originally used in the grid computing, and
 DiCOSBox
 ----------
 
-DiCOSBOX is derived from `CERNBox <https://swan.docs.cern.ch/intro/cernbox/>`_, which is a `Dropbox™ <https://www.dropbox.com>`_-like cloud storage system. DiCOS users could use DiCOSBox to share data/files to the collaborators seamlessly through the sharing web URL.
+`DiCOSBox <https://dicosbox.twgrid.org/>`_ is derived from `CERNBox <https://swan.docs.cern.ch/intro/cernbox/>`_, which is a `Dropbox™ <https://www.dropbox.com>`_-like cloud storage system. DiCOS users could use DiCOSBox to share data/files to the collaborators seamlessly through the sharing web URL.
 
 .. note::
 
@@ -80,9 +80,9 @@ DiCOSBOX is derived from `CERNBox <https://swan.docs.cern.ch/intro/cernbox/>`_, 
 Transfer data from/to DiCOS
 ==================================
 
-------------------
+-------------------
 scp (command line)
-------------------
+-------------------
 
 If your are Linux or Mac users, just simply open a terminal with command line interface and use ``scp`` to copy the files/directories between the DiCOS UI and your computer. For users using newer Windows system, you could use `WSL2 <https://docs.microsoft.com/en-us/windows/wsl/install>` to open a terminal.
 
@@ -97,31 +97,32 @@ For example:
    scp my_input.txt jack@dicos-ui05.grid.sinica.edu.tw:
 
 --------------------------------
-filezilla (Windows/MacOS/Linux)
+filezilla™ (Windows/MacOS/Linux)
 --------------------------------
 
-`FileZilla <https://filezilla-project.org/>`_ have file manager like UI. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload.
+`FileZilla™ <https://filezilla-project.org/>`_ have file manager like UI. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload.
 
 .. seealso::
 
-   * `filezilla <https://filezilla-project.org/>`_
+   * `filezilla™ <https://filezilla-project.org/>`_
 
 -------------------------
-MobaXterm (Windows)
+MobaXterm™ (Windows)
 -------------------------
 
-`MobaXterm <https://mobaxterm.mobatek.net/>`_ has a built-in function for SFTP. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload.
+`MobaXterm™ <https://mobaxterm.mobatek.net/>`_ has a built-in function for SFTP. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload.
 
 .. seealso::
 
-   * `MobaXterm <https://mobaxterm.mobatek.net/>`_
+   * `MobaXterm™ <https://mobaxterm.mobatek.net/>`_
 
 -------------------------
-winscp (Windows)
+WinSCP™ (Windows)
 -------------------------
 
-`WinSCP <https://winscp.net/eng/index.php>`_ and `FileZilla <https://filezilla-project.org/>`_ have file manager like UI. You could install one of them and login with SFTP/SCP protocol to our user interface, then you could drag to copy your files/directories between the UI and your computer.
+`WinSCP™ <https://winscp.net/eng/index.php>`_ have file manager like UI. You could install one of them and login with SFTP/SCP protocol to our user interface, then you could drag to copy your files/directories between the UI and your computer.
 
 .. seealso::
 
-   * `winscp <https://winscp.net/eng/index.php>`_
+   * `WinSCP™ <https://winscp.net/eng/index.php>`_
+
