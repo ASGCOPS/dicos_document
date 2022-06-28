@@ -14,6 +14,8 @@ Use DiCOSApp
 
 Login in to `DiCOS web <https://dicos.grid.sinica.edu.tw>`_ and then go to https://dicos.grid.sinica.edu.tw/dockerapps/ to start using DiCOSApps. The remaining resources are displayed for each DiCOSApp. Click ``launch`` button and then start using the App.
 
+.. image:: image/dicos_app_list.png
+
 ------------------------
 CryoEM Specific APPs
 ------------------------
