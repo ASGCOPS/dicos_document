@@ -97,9 +97,10 @@ Please follow the procedure to extend the account lifetime if you would like to 
 DiCOS Account Flowchart
 ==========================
 
+The following flowchart presents the application of the DiCOS account and the flows of the state change of the DiCOS accounts. For your potential interests.
+
 .. image:: image/dicos_account.png
    :width: 800
    :alt: DiCOS Account Flowchart
-
 
 
