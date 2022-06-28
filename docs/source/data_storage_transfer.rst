@@ -110,15 +110,15 @@ For example:
    # Copy my_input.txt from my computer to DiCOS UI home
    scp my_input.txt jack@dicos-ui05.grid.sinica.edu.tw:
 
---------------------------------
-filezilla™ (Windows/MacOS/Linux)
---------------------------------
+----------------------------------
+FileZilla™ (Windows/MacOS/Linux)
+----------------------------------
 
 `FileZilla™ <https://filezilla-project.org/>`_ have file manager like UI. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload.
 
 .. seealso::
 
-   * `filezilla™ <https://filezilla-project.org/>`_
+   * `FileZilla™ <https://filezilla-project.org/>`_
 
 -------------------------
 MobaXterm™ (Windows)
