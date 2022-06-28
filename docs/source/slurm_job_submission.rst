@@ -87,7 +87,7 @@ Slurm Software
 environment-modules
 ^^^^^^^^^^^^^^^^^^^^^^
 
-You could use use environment-modules for easy setup of your environment with our predefined configurations. Users could find predefined module by:
+You could use use environment-modules (in ``module`` command) for easy setup of your environment with our predefined configurations. Users could find predefined module by:
 
 .. code-block:: bash
 
@@ -120,9 +120,101 @@ Load OpenMPI + gcc48:
    module load gcc/4.8.5
    module load openmpi
 
+.. note::
+
+   ``module`` software tree (version: 20211130a)
+
+   ── Compiler
+   │   ├── gcc
+   │   │   ├── 10.3.0
+   │   │   ├── 11.1.0
+   │   │   ├── 4.6.2
+   │   │   ├── 4.8.1
+   │   │   ├── 4.8.5
+   │   │   │   ├── mpich
+   │   │   │   │   └── 3.4.1
+   │   │   │   ├── mvapich2
+   │   │   │   │   └── 2.3.5
+   │   │   │   └── openmpi
+   │   │   │       ├── 2.1.6
+   │   │   │       └── 4.1.0
+   │   │   └── 9.3.0
+   │   └── intel
+   │       ├── 2017
+   │       ├── 2018
+   │       │   ├── mpich
+   │       │   │   └── 3.4.1
+   │       │   ├── mvapich2
+   │       │   │   └── 2.3.5
+   │       │   └── openmpi
+   │       │       ├── 2.1.6
+   │       │       └── 4.1.0
+   │       └── 2020
+   │           ├── lammaps
+   │           │   └── jct
+   │           │       └── 3Mar2020
+   │           ├── lammps
+   │           │   └── jct
+   │           │       └── 3Mar2020
+   │           ├── mpich
+   │           │   └── 3.4.1
+   │           ├── mvapich2
+   │           │   └── 2.3.5
+   │           └── openmpi
+   │               ├── 2.1.6
+   │               ├── 3.1.6
+   │               └── 4.1.0
+   ├── CompilerMPI
+   │   ├── gcc
+   │   │   └── 4.8.5
+   │   │       └── openmpi
+   │   │           ├── 2.1.6
+   │   │           │   └── hdf5
+   │   │           │       ├── 1.12.0
+   │   │           │       └── 1.8.21
+   │   │           └── 4.1.0
+   │   └── intel
+   │       └── 2020
+   │           └── openmpi
+   │               ├── 2.1.6
+   │               ├── 3.1.6
+   │               └── 4.1.0
+   ├── Core
+   │   ├── app
+   │   │   ├── anaconda3
+   │   │   │   ├── 4.10.3
+   │   │   │   └── 4.9.2
+   │   │   ├── binutils
+   │   │   │   └── 2.35.2
+   │   │   ├── cmake
+   │   │   │   └── 3.20.3
+   │   │   ├── make
+   │   │   │   └── 4.3
+   │   │   └── root
+   │   │       └── 6.24
+   │   ├── gcc
+   │   │   ├── 10.3.0
+   │   │   ├── 11.1.0
+   │   │   ├── 4.8.5
+   │   │   └── 9.3.0
+   │   ├── glibc
+   │   ├── intel
+   │   │   ├── 2017
+   │   │   ├── 2018
+   │   │   └── 2020
+   │   ├── nvhpc_sdk
+   │   │   └── 20.11
+   │   ├── pgi -> nvhpc_sdk/
+   │   └── python
+   │       └── 3.9.5
+   └── VERSION
+
+
+
 .. seealso::
 
    * `environment-modules <https://modules.readthedocs.io/en/latest/index.html>`_
+
 
 ssinfo
 ^^^^^^^^^^
