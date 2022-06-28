@@ -12,7 +12,7 @@ DiCOSApp is web based micro-service that handles different application individua
 Use DiCOSApp
 ----------------------
 
-Login in to `DiCOS web <https://dicos.grid.sinica.edu.tw>`_ and then go to https://dicos.grid.sinica.edu.tw/dockerapps/ to start using DiCOSApps. The remaining resources are displayed for each DiCOSApp. Click ``launch`` button and then start using the App.
+Login in to `DiCOS web <https://dicos.grid.sinica.edu.tw>`_ and then go to https://dicos.grid.sinica.edu.tw/dockerapps/ to start using DiCOSApps. The remaining resources are displayed for each DiCOSApp. Like the image below, click ``launch`` button (and proper lifetime of the application), and then start to use the application.
 
 .. image:: image/dicos_app_list.png
 
