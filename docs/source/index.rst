@@ -15,14 +15,7 @@
    faq
    publication_acknowledgement
    terms_of_use
+   user_policy
    privacy_policy
    contact_us
-
-..
-
-   other
-   index_old
-   dicos_environment
-   dicos_djm
-   dicos_ddm
 
