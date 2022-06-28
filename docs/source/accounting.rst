@@ -13,7 +13,7 @@ Accounting/Usage Dashboard
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -------------------------------------------
-Accounting Regulation and Pricing Rate
+Accounting Regulations
 -------------------------------------------
 
 ASGC 研究型服務收費 (ASGC Pricing)
@@ -44,13 +44,17 @@ ASGC 研究型服務收費 (ASGC Pricing)
    4. ⾃⾏提供設備或設備費，併入網格中⼼共享資源者，該單位使⽤費將可扣減(每年扣除該設 備購置費⽤五分之⼀)。且提供單位有該設備優先使⽤權。
    5. 此計費辦法將每年與使⽤社群討論更新。
 
-* 中研院冷凍電顯大數據分析與資料儲存資源使用說明 (ASCEM‐ASGC Big Data Analysis Resource Usage for CryoEM Data Storage and Computing)
+
+中研院冷凍電顯大數據分析與資料儲存資源使用說明 (ASCEM‐ASGC Big Data Analysis Resource Usage for CryoEM Data Storage and Computing)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 本院冷凍電顯核心設施與網格中心(ASGC)合作提供冷凍電顯設施使用者穩定且高效能的大數據處理與運算資源。依據研究需求，客製化從取得數據到完成分析與資料備份保存整體資料處理流程，如同使用專屬設施般，便利的使用 CryoSparc, Relion, CisTEM, JupyterLab 等工具，於整合的高效能雲端計算與儲存資源完成所需分析。使用者可依據需要選擇分析環境與不同效能的 GPU (V100, 3090, P100) 或 CPU 計算資源。每位使用者於計算環境中可使用最大儲存空間為 60TB，另並提供預設儲存二份的備份與長期保存空間。 為維持整體雲端系統的穩定與效能，計算與儲存資源均依據用量列計使用費，每年一月需繳付前一年的使用費。所收取費用均優先改善冷凍電顯大數據分析資源與效能。冷凍電顯計算與儲存資源之管理均以群組為單位，PI 為該群組負責人。各群組間資料均獨立。網格中心每月將提供每位主持人前一月份的使用量與費用報表，並於每年一月寄送繳費通知。服務內容與計費模式均將透過冷凍電顯定期的使用者委員會議中，持續檢討改善。 使用運算資源者，應於學術發表中致謝 TPP、ASCEM、及 ASGC。 使用帳號申請、計費模式、服務內容以及任何問題與建議，均請參見網格中心網站，或逕與網格中心聯繫。
 
 ASGC provides big data computing and storage resource and services for ASCEM users in collaboration with ASCEM. According to the research needs, customized data analysis pipeline is provisioned over the science cloud integrating high-performance GPU, CPU clusters as well as data storage system. CryoSparc, Relion, CisTEM, and JupyterLab are all available over the cloud right as dedicated computing environment. User could choose a variety of GPU or CPU resource for his analysis based on performance requirements. Each user account has 60TB disk space quota. Services for backup and long-term storage with two-copy by default are also provided. In order to maintain the reliability and efficiency of the ASCEM computing system evolutionarily, resource usage fee is a must according to the consumption. Resource usage fee is paid based on PI group annually in January. These payment will be used to enhance the reliability and efficiency of ASCEM computing system precedently. Monthly accounting report will be delivered to each PI including usage of every member account. Any improvement of the services, pricing model and resource policy will be discussed in regular ASCEM User Committee meeting. In addition to ASCEM (Academia Sinica Cryo-EM Facility) and TPP (Taiwan Protein Project (Grant No. AS-KPQ-109-TPP2)), please also include ASGC (Academia Sinica Grid-computing Center) in the acknowledgement when research outcomes that relied on ASGC resources, services or expertise are presented in your research. User account application, pricing model, services and any comment or question, please refer to ASGC web site or contact ASGC directly. 
 
+---------------
+Pricing Rate
+---------------
 
 Computing Resource (CE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
