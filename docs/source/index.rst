@@ -14,8 +14,6 @@
    accounting
    faq
    publication_acknowledgement
-   terms_of_use
-   user_policy
-   privacy_policy
+   agreement_policy
    contact_us
 
