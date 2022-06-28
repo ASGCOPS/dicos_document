@@ -6,7 +6,18 @@ Publications and Acknowledgement
 Copyright License
 ====================
 
-This work by ASGC is licensed under a Creative Common Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.  Work that cannot be reused without explicit permission. (Copyright © 2019 Academia Sinica Grid Computing Centre)
+Work That Can be Freely Reused 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This work by ASGC is licensed under a Creative Common Attribution 4.0 International License |cc|. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.  
+
+.. |cc| image:: image/cc.png
+
+
+Work That Cannot be Reused without Explicit Permission
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Copyright © 2019 Academia Sinica Grid Computing Centre
 
 =============================
 Acknowledgement to ASGC
