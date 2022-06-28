@@ -14,7 +14,7 @@ They are capable, under the terms of the law applicable to them, to be legally b
 
 Their use of the Website will be carried out in accordance with all applicable laws and regulations.
 
-In the event of doubts concerning the Terms of Use, ASGC may be contacted at: info@twgrid.org.
+In the event of doubts concerning the Terms of Use, ASGC may be contacted at: DiCOS-Support@twgrid.org.
 
 For information on the processing of personal data on users which is carried out via the Website, please see the Privacy Policy
 
@@ -29,7 +29,7 @@ For information on the processing of personal data on users which is carried out
 
 3. User support
 
-    Any questions concerning the Website and its services in general can be addressed to https://icomcot.twgrid.org via the general enquiry channel: info@twgrid.org. Registered users can address questions specifically referring to the operation and use of the Website by writing an email to info@twgrid.org.
+    Any questions concerning the Website and its services in general can be addressed to https://icomcot.twgrid.org via the general enquiry channel: DiCOS-Support@twgrid.org. Registered users can address questions specifically referring to the operation and use of the Website by writing an email to DiCOS-Support@twgrid.org.
 
 4. Responsibility of Website Users
 
