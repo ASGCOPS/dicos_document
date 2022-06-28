@@ -9,10 +9,14 @@ DiCOSApps
    - :doc:`RELION job configuration<dicos/dicosapp_faq/relion_job_configuration>`
 
 ======================
+How to Use DiCOSApp
+======================
+
+======================
 DiCOSAPP Introduction
 ======================
 
-DiCOSAPP is web based micro-service that handles different application individually. Here is the page to introduce its SPEC for each APP.
+DiCOSAPP is web based micro-service that handles different application individually. Here is the document to introduce its SPEC for each APP.
 
 ------------------------
 CryoEM Specific APPs
@@ -51,6 +55,31 @@ CryoEM Specific APPs
      - 1 (1080Ti)
      - 380GB
      - yes
+
+-----------------------------
+RELION Job Configuration
+-----------------------------
+
+What's the ideal MPI number and thread number with current RELION APP?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*4 MPI* with *4 threads*. If it's GPU accelerated process, please use *5 MPI* with *4 threads*
+
+What's the ideal MPI number and thread number with Premium RELION v100 app?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The v100 GPU is relatively powerful GPU against GTX-1080Ti. So, it can bear much load than 1080ti. In principle, with following job setup, user can get pretty nice speed up when dealing 2D and 3D classifications:
+
+* *2D*: Number of *MPI procs: 16*, Number of *Threads: 1*
+* *3D*: Number of *MPI procs: 9*, Number of *Threads: 2*
+
+What if RELION encounters error?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+RELION is often stable. When error occurs, it would usually caused by:
+
+1. Memory or resources are not enough. For such error, simply reducing Thread number would just help. If the error lasts, then try reducing MPI number.
+2. Input file error. Checking log and removing problematic file indicated in log may just solve this issue.
 
 ------------------------
 Jupyter Notebooks
@@ -143,10 +172,8 @@ The DiCOSAPP is ephemeral and isolated application, everything changed or create
 
 
 
-How to Use 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+====================================================
 Request for Specific Application Installation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+====================================================
 
 If you have special requirement for the application installation, please contact to DiCOS-Support@twgrid.org.
