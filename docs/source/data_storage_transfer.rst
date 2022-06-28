@@ -91,7 +91,7 @@ You could login in one of the following UIs: dicos-ui02.grid.sinica.edu.tw, dico
    * `DiCOSBox <https://dicosbox.twgrid.org/>`_
 
 ==================================
-Transfer data from/to DiCOS
+Transfer Data from/to DiCOS
 ==================================
 
 -------------------
