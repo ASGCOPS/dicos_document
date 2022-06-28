@@ -9,8 +9,12 @@ Accounting Information
 Monthly Accounting
 ^^^^^^^^^^^^^^^^^^^^
 
+The monthly accounting will be calculated and formatted as a bill in group basis. The group PI will receieve the bill and accounting report by the 15th of next month. The accounting bill is also viewable in the DiCOS web.
+
 Accounting/Usage Dashboard
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+We are arranging for some dashboard for user's accounting information and the usage of the resources. Please wait for the dashboard. Thank you.
 
 -------------------------------------------
 Accounting Regulations
