@@ -2,21 +2,15 @@
 DiCOSApps
 ************
 
-* :doc:`DiCOS APP FAQ<dicos/dicosapp_faq>`
-
-   - :doc:`Introduction and Specs<dicos/dicosapp_faq/dicosapp>`
-   - :doc:`Data handling with DiCOS Apps<dicos/dicosapp_faq/dicos_app_data_handling>`
-   - :doc:`RELION job configuration<dicos/dicosapp_faq/relion_job_configuration>`
-
 ======================
 How to Use DiCOSApp
 ======================
 
 ======================
-DiCOSAPP Introduction
+DiCOSApp Introduction
 ======================
 
-DiCOSAPP is web based micro-service that handles different application individually. Here is the document to introduce its SPEC for each APP.
+DiCOSApp is web based micro-service that handles different application individually. Here is the document to introduce its SPEC for each APP.
 
 ------------------------
 CryoEM Specific APPs
@@ -107,10 +101,10 @@ Jupyter Notebooks
 
 
 =========================
-DiCOSAPP Data Handling
+DiCOSApp Data Handling
 =========================
 
-The DiCOSAPP is ephemeral and isolated application, everything changed or created in APP will be wiped out after the APP is terminated. However, there are three persistent spaces, everything storing there will be kept:
+The DiCOSApp is ephemeral and isolated application, everything changed or created in APP will be wiped out after the APP is terminated. However, there are three persistent spaces, everything storing there will be kept:
 
 **NOTICE: The CryoEM data from ASCEM to ASGC will be stored at /cryoEM/tmp**
 
