@@ -273,7 +273,7 @@ Slurm Tutorials
 * :doc:`Tutorial<slurm_job_submission/slurm_docs>`
 
 -------------------------------------------
-Request for specific software installation
+Request for Specific Software Installation
 -------------------------------------------
 
 If you have special requirement for the software installation, please contact to DiCOS-Support@twgrid.org.

@@ -9,7 +9,7 @@ DiCOSApps
    - :doc:`RELION job configuration<dicos/dicosapp_faq/relion_job_configuration>`
 
 ======================
-DiCOSAPP introduction
+DiCOSAPP Introduction
 ======================
 
 DiCOSAPP is web based micro-service that handles different application individually. Here is the page to introduce its SPEC for each APP.
@@ -75,10 +75,10 @@ Jupyter Notebooks
      - 128GB
      - yes
 
-How to use 
+How to Use 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Request for specific application installation
+Request for Specific Application Installation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you have special requirement for the application installation, please contact to DiCOS-Support@twgrid.org.
