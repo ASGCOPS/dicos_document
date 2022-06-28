@@ -72,7 +72,7 @@ DiCOS user could change the password and update the information of the user prof
 DiCOS Account Lifetime
 ==========================
 
-The default lifetime of DiCOS account is one-year. The DiCOS system will send you a mail to extend your account lifetime 15 days prior to the expiration of the account. Please follow the procedure to extend the account lifetime if you would like to use the DiCOS account.
+The default lifetime of DiCOS account is **1 year**. The DiCOS system will send you a mail to extend your account lifetime **15 days prior to the expiration** of the account. The content of the reminder mail will be like the following paragraphs.
 
 ::
 
@@ -88,6 +88,9 @@ The default lifetime of DiCOS account is one-year. The DiCOS system will send yo
   
        Regards
        DiCOS-Support
+
+
+Please follow the procedure to extend the account lifetime if you would like to use the DiCOS account.
 
 
 ==========================
