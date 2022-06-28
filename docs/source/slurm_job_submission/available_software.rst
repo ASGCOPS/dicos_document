@@ -62,7 +62,7 @@ To setup compiler environment, please source specific setup script at following 
 
 
 ===================================
-Scientific software & libraries
+Scientific Software and Libraries
 ===================================
 
 Some specific scientific softwares and libraries will be installed at following path:
