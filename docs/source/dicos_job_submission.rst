@@ -33,7 +33,6 @@ DiCOS Queues
 
 As of 2022-07-13, DiCOS job submission only support for batch GPU jobs. The available DiCOS queues could be found in the table below:
 
-
 .. list-table::
    :header-rows: 1
 
