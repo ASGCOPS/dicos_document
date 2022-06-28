@@ -11,7 +11,7 @@ As such, this Privacy Policy has been written in order to allow you to understan
 In general, any information and data which you provide to ASGC over the Website, or which is otherwise gathered via the Website by ASGC, in the context of the use of Website’s services (“Services”) as better defined in Section 3 below, will be processed by ASGC in a lawful, fair and transparent manner. To this end, and as further described below, ASGC takes into consideration internationally recognised principles governing the processing of personal data, such as purpose limitation, storage limitation, data minimisation, data quality and confidentiality.
 1. Data controller
 
-ASGC, as identified at the top of this Privacy Policy, is the data controller regarding all personal data processing carried out through the Website. You can contact ASGC with any questions related to this Privacy Policy or the ASGC’s personal data processing practices by sending a written communication to info@twgrid.org.
+ASGC, as identified at the top of this Privacy Policy, is the data controller regarding all personal data processing carried out through the Website. You can contact ASGC with any questions related to this Privacy Policy or the ASGC’s personal data processing practices by sending a written communication to DiCOS-Support@twgrid.org.
 2. Personal Data processed
 
 When you use the Website, ASGC will collect and process information regarding you (as an individual) which allows you to be identified either by itself, or together with other information which has been collected. ASGC may also be able to collect and process information regarding other persons in this same manner, if you choose to provide it to ASGC, also via the Website.
@@ -113,7 +113,7 @@ Personal Data processed for Compliance will be kept by ASGC for the period requi
 
 Personal Data processed for preventing Misuse/Fraud will be kept by ASGC for as long as deemed strictly necessary to fulfil the purposes for which it was collected.
 
-More information on applicable retention periods is available upon written request to the Website Managing Team at the following address: info@twgrid.org.
+More information on applicable retention periods is available upon written request to the Website Managing Team at the following address: DiCOS-Support@twgrid.org.
 5. Data subjects’ rights
 
 As a data subject, you are entitled to exercise the following rights before ASGC, at any time:
@@ -138,7 +138,7 @@ You can also withdraw consent for Marketing (for communications received via e-m
 
 Consent for Profiling carried out by cookies may be withdrawn as described in Section 2(e). Where consent for Profiling was given via a specific tick box, you may withdraw this consent by changing your preferences, at any time, within your user profile created on the Website, where applicable.
 
-Aside from the above means, you can always exercise your rights described above by sending a written request to the Website Managing Team at the following address: info@twgrid.org.
+Aside from the above means, you can always exercise your rights described above by sending a written request to the Website Managing Team at the following address: DiCOS-Support@twgrid.org.
 
 In any case, please note that, as a data subject, you are entitled to file a complaint with the competent supervisory authorities for the protection of Personal Data, if you believe that the processing of your Personal Data carried out through the Website is unlawful.
 6. Amendments
