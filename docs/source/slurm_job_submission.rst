@@ -79,11 +79,92 @@ Slurm Queues and Hardware
 Slurm Software
 -------------------------------
 
-* modules
-* ssinfo
-* CVMFS
+environment-modules
+^^^^^^^^^^^^^^^^^^^^^^
 
-* :doc:`MPI / Compilers / software & libraries <slurm_job_submission/available_software>`
+You could use use environment-modules for easy setup of your environment with our predefined configurations. See below for some examples:
+
+Find predefined module by:
+
+.. code-block:: bash
+
+   module avail
+
+
+MPICH2 + gcc48:
+
+.. code-block:: bash
+
+   module load gcc/4.8.5
+   module load mpich
+
+Openmpi + Intel2018:
+
+.. code-block:: bash
+
+   module load intel/2018
+   module load openmpi
+
+OpenMPI + gcc48:
+
+.. code-block:: bash
+
+   module load gcc/4.8.5
+   module load openmpi
+
+.. seealso::
+
+   * `environment-modules <https://modules.readthedocs.io/en/latest/index.html>`_
+
+ssinfo
+^^^^^^^^^^
+
+**ssinfo** is made by DiCOS administrator, and available in **slurm-uis**. It could help users to know some system informations, including accounting, news, and documentation, etc.
+
+* Show document of QDR4 cluster
+
+.. code-block:: bash
+
+   ssinfo docu
+
+* Show personal information on QDR4 cluster
+
+.. code-block:: bash
+
+   ssinfo me
+
+* Show news of QDR4 cluster
+
+.. code-block:: bash
+
+   ssinfo news
+
+* Show current slurm information
+
+.. code-block:: bash
+
+   ssinfo slurm
+  
+* Show module tree and dependencies
+
+.. code-block:: bash
+
+   ssinfo modules
+
+
+CVMFS
+^^^^^^^^
+
+CVMFS represented for CernVM-FS. It's originally used in the grid computing, and try to deliver the updated software for the computation. The file system is read-only, so it is very suitable for the software delivery. In DiCOS system, CVMFS file system is for the software repository for users, and mounted in _/cvmfs_. The __modules__ environment in slurm system help user to setup the environment for specifically software, and the software is located in CVMFS.
+
+.. seealso::
+
+   * https://cernvm.cern.ch/fs/
+
+Docs
+^^^^^^^^
+
+* :doc:`MPI / Compilers / Software and Libraries <slurm_job_submission/software>`
 
 -------------------------------
 Slurm Tutorials
@@ -95,4 +176,5 @@ Slurm Tutorials
 Request for specific software installation
 -------------------------------------------
 
-If you have special requirement for the software installation, please contact to DiCOS-Support@twgrid.org
+If you have special requirement for the software installation, please contact to DiCOS-Support@twgrid.org.
+
