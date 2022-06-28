@@ -66,7 +66,21 @@ CVMFS represented for CernVM-FS. It's originally used in the grid computing, and
 DiCOSBox
 ----------
 
-`DiCOSBox <https://dicosbox.twgrid.org/>`_ is derived from `CERNBox <https://swan.docs.cern.ch/intro/cernbox/>`_, which is a `Dropbox™ <https://www.dropbox.com>`_-like cloud storage system. DiCOS users could use DiCOSBox to share data/files to the collaborators seamlessly through the sharing web URL.
+`DiCOSBox <https://dicosbox.twgrid.org/>`_ is derived from `CERNBox <https://swan.docs.cern.ch/intro/cernbox/>`_, which is a `Dropbox™ <https://www.dropbox.com>`_-like cloud storage system. DiCOS users could use DiCOSBox to share data/files to the collaborators seamlessly through the sharing web URL. There are two ways to access your DiCOSBox.
+
+1. Web Interface 
+^^^^^^^^^^^^^^^^^
+
+You could use https://dicosbox.twgrid.org/ to manipulate your files in DiCOSBox, and share files.
+
+2. Command Line User Interface
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+You could login in one of the following UIs: dicos-ui02.grid.sinica.edu.tw, dicos-ui04.grid.sinica.edu.tw, dicos-ui05.grid.sinica.edu.tw, dicos-ui06.grid.sinica.edu.tw. A symbolic link ``DiCOSBox`` in your home directory. You can simply access the DiCOSBox with Linux commands, like:
+
+.. code-block:: bash
+
+   cp myfile.txt DiCOSBox/
 
 .. note::
 
