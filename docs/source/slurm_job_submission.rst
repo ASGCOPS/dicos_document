@@ -269,7 +269,7 @@ CVMFS represented for CernVM-FS. It's originally used in the grid computing, and
 
 .. seealso::
 
-   * https://cernvm.cern.ch/fs/
+   * `CernVM-FS <https://cernvm.cern.ch/fs/>`_
 
 Docs
 ^^^^^^^^
