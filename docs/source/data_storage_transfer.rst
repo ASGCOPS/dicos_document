@@ -60,12 +60,12 @@ Different Types of Storage in DiCOS
      - Yes
    * - DiCOS job output space
      - EOS
-     - Access through ``dicos job getoutput`` or ``dicos ddm`` tools
+     - Download: ``dicos job getoutput`` or manage: ``dicos ddm``
      - Space for the job outputs from ``dicos job submit``
      - Yes
    * - Software Repository
      - CVMFS
-     - Direct Access, Readonly
+     - Direct Access, **readonly**
      - Software repository assessible for UIs and worker nodes
      - Yes
    * - DiCOSBOX
