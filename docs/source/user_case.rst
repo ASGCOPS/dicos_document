@@ -25,3 +25,4 @@ Mixed
 ----------------
 
 * :doc:`Use Triton inference server with DiCOS System <user_case/triton>`
+* `Triton inference server on DiCOS <https://docs.twgrid.org/s/PqrGPuMZa#>`_
