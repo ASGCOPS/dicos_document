@@ -12,7 +12,7 @@ Apply for a DiCOS Account
 Step 1: DiCOS Account Application
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `Apply DiCOS Account <http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_
+* Go to `DiCOS Account Page <http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_ to apply DiCOS account.
 
 .. image:: image/dicos_apply_account_main.jpg
 
