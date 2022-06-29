@@ -8,6 +8,7 @@ Data Storage and Transfer
 User/Group Spaces in DiCOS System
 ======================================
 
+
 ----------------------
 DiCOS UI Home (NFS)
 ----------------------
@@ -33,6 +34,31 @@ For the data sharing among the group collaboration, user could make use of the g
 ======================================
 Different Types of Storage in DiCOS
 ======================================
+
+.. list-table:: DiCOS Storages
+   :header-rows: 1
+
+   * - Usage
+     - File system
+     - Note
+   * - DiCOS UI Home
+     - NFS
+     - Space for the home directories of DiCOS users
+   * - User working directory
+     - Ceph
+     - Space for the working directories of DiCOS users
+   * - Group working directory
+     - Ceph
+     - Space for the working directories of DiCOS groups
+   * - DiCOS job output space
+     - EOS
+     - Space for the job outputs from ``dicos job submit``
+   * - Software Repository
+     - CVMFS
+     - Software repository assessible for UIs and worker nodes
+   * - DiCOSBOX
+     - EOS
+     - Easy-to-use user spaces for file storage and sharing
 
 ----------------------
 File Output (EOS)
