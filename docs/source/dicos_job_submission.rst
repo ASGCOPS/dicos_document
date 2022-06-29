@@ -84,9 +84,8 @@ DiCOS Client Tools
 Before using DiCOS CLI Tool
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-----------------------------------------------------
 Preparation: Log in DiCOS command-line UI server
-----------------------------------------------------
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 SSH login one of dicos UI server with your DiCOS account and password.
 
@@ -224,23 +223,22 @@ For example, to see what options of ``dicos job submit`` are available:
 More Tips about DiCOS Subcommands
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--------
+
 ping
--------
+"""""
 
 Ping DiCOS server, check server status and connection.
 
     [users@dicos-ui05 ~]$ dicos ping
 
--------
 job
--------
+"""""
 
 Operations about jobs.
 See its subcommands description below, or use `--help` to see details of options.
 
 submit
-^^^^^^
+"""""""
 
 Submit job(s) to DiCOS server.
 
@@ -267,7 +265,7 @@ Specify the computing resource requirement of your job.
     [users@dicos-ui05 ~]$ dicos job submit -i <FileName> -c '<YourCommand>' --requireCores 20 --requireRAM 1000
 
 status
-^^^^^^^^^
+"""""""
 
 Check status of job. The default subcommand just shows jobs within 240 hours, and 15 jobs at most.
 
@@ -326,7 +324,7 @@ Also, it is able to get job status by specifying <TaskID> (instead of <JobID>).
     [users@dicos-ui05 ~]$ dicos job status -T <TaskID>
 
 cancel
-^^^^^^^^
+"""""""
 
 Cancel submitted job
 
@@ -335,7 +333,7 @@ Cancel submitted job
     [users@dicos-ui05 ~]$ dicos job cancel <JobID>
 
 resubmit
-^^^^^^^^^
+""""""""""
 
 Resubmit submitted job
 
@@ -344,7 +342,7 @@ Resubmit submitted job
     [users@dicos-ui05 ~]$ dicos job resubmit <JobID>
 
 getoutput
-^^^^^^^^^^^^
+""""""""""
 
 Get output files of submitted job
 
