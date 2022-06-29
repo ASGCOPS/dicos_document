@@ -29,6 +29,8 @@ Slurm users need to login one of the following user interface nodes to use the s
 
    * The resources of the user interface node is limited, please don't run your jobs in the user interfaces, or your jobs will be killed without notice.
 
+   * To avoid ssh password guessing attack, IP addresses with multiple login failures in a short time will be banned for hours.
+
    * Installed GUI software in UIs for users to preview files. Please use, for example:
 
      .. code-block:: bash

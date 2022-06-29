@@ -33,6 +33,8 @@ The available DiCOS UI are listed below. DiCOS users could login with the DiCOS 
 
    * The resources of the user interface node is limited, please don't run your jobs in the user interfaces, or your jobs will be killed without notice.
 
+   * To avoid ssh password guessing attack, IP addresses with multiple login failures in a short time will be banned for hours.
+
    * Installed GUI software in UIs for users to preview files. Please use, for example:
 
      .. code-block:: bash
