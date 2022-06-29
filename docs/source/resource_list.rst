@@ -115,6 +115,36 @@ DiCOS Resources
 
    Update in 20220627
 
+==================================
+User Interface Node (Login Node)
+==================================
+
+
+.. list-table::
+   :header-rows: 1
+
+   * - User Interface Node
+     - OS
+     - Purpose
+   * - dicos-ui02.grid.sinica.edu.tw
+     - SLC 6
+     - ``dicos`` | File download/upload
+   * - dicos-ui04.grid.sinica.edu.tw
+     - CentOS 7
+     - ``dicos`` | File download/upload
+   * - dicos-ui05.grid.sinica.edu.tw
+     - CentOS 7
+     - ``dicos`` | Job submission, File download/upload
+   * - dicos-ui06.grid.sinica.edu.tw
+     - CentOS 7
+     - ``dicos`` | Job submission, File download/upload
+   * - slurm-ui01.twgrid.org
+     - CentOS 7
+     - ``slurm`` | Job submission, File download/upload
+   * - slurm-ui02.twgrid.org
+     - CentOS 7
+     - ``slurm`` | Job submission, File download/upload
+
 ====================
 DiCOS in a Nutshell
 ====================
