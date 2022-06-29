@@ -23,8 +23,6 @@ Slurm users need to login one of the following user interface nodes to use the s
      - CentOS 7
      - Job submission, File download/upload
 
-* :doc:`Login<slurm_job_submission/slurmui>`
-
 .. note::
 
    * The resources of the user interface node is limited, please don't run your jobs in the user interfaces, or your jobs will be killed without notice.
@@ -50,10 +48,70 @@ Slurm users need to login one of the following user interface nodes to use the s
           - pdf files
 
 -------------------------------
-Slurm Queues and Resources
+Slurm Resources and Queues
 -------------------------------
 
-.. list-table::
+.. list-table:: Resources 2022-06-27
+   :header-rows: 1
+
+   * - Cluster
+     - Worker Nodes
+     - Total CPU cores
+     - CPU/node
+     - CPU model
+     - Memory/node
+     - Disk space/node
+     - Network
+     - GPU model
+     - GPU/node
+     - Note
+   * - HPC_FDR5
+     - 92
+     - 2208
+     - 24
+     - Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
+     - 125GB
+     - 2TB (System: 400GB)
+     - 10GbE
+     - N/A
+     - N/A
+     - Slurm
+   * - HPC_HDR1
+     - 2
+     - 768
+     - 128
+     - AMD EPYC 7662 64-Core Processor
+     - 1520GB
+     - 1TB (System: 20GB)
+     - 100GbE
+     - N/A
+     - N/A
+     - Slurm
+   * - GPU_V100
+     - 1
+     - 48
+     - 48
+     - Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz
+     - 768GB
+     - 1TB (System: 20GB)
+     - 10GbE
+     - V100
+     - 8
+     - DiCOSApp, Slurm, DiCOS job submit
+   * - GPU_A100
+     - 1
+     - 64
+     - 64
+     - AMD EPYC 7302 16-Core Processor
+     - 1024GB
+     - 1TB (System: 20GB)
+     - 100GbE
+     - A100
+     - 8
+     - DiCOSApp, Slurm
+     
+
+.. list-table:: Queues 2022-06-27
    :header-rows: 1
 
    * - Partition
@@ -110,7 +168,13 @@ Slurm Queues and Resources
    The resources are shared with different queues, so some of the resources are mutually exclusive with different queues.
 
 
-* :doc:`Resources & Specifications<slurm_job_submission/QDR4_intro>`
+-------------------
+System Topography
+-------------------
+
+* The system scheme could be found in the following image. The network connection is majorly in 10G ethernet.
+
+  .. image:: image/qdr4_topology.png
 
 -------------------------------
 Slurm Software
@@ -305,6 +369,23 @@ Slurm Tutorials
 -------------------------------
 
 * :doc:`Tutorial<slurm_job_submission/slurm_docs>`
+
+-------------------------
+On Site Slurm Documents
+-------------------------
+
+User documents for SLURM are located in
+
+::
+
+    /ceph/astro_phys/user_document/
+
+Create a working directory, assume it as mpi_work in your HOME directory. Copy all the scripts from the following directory to start.
+
+::
+
+    /ceph/astro_phys/user_document/scripts/*
+
 
 -------------------------------------------
 Request for Specific Software Installation

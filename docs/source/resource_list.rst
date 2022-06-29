@@ -34,7 +34,7 @@ DiCOS Resources
      - N/A
      - Slurm
    * - HPC_HDR1
-     - 2
+     - 6
      - 768
      - 128
      - AMD EPYC 7662 64-Core Processor
