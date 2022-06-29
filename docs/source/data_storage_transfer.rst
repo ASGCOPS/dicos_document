@@ -60,7 +60,7 @@ Different Types of Storage in DiCOS
      - Yes
    * - DiCOS job output space
      - EOS
-     - Access through ``dicos job getoutput|dicos ddm``
+     - Access through ``dicos job getoutput`` or ``dicos ddm`` tools
      - Space for the job outputs from ``dicos job submit``
      - Yes
    * - Software Repository
