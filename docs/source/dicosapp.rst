@@ -14,7 +14,7 @@ DiCOSApp is web based micro-service that handles different application individua
 Use DiCOSApp
 ----------------------
 
-Login in to `DiCOS web <https://dicos.grid.sinica.edu.tw>`_ and then go to https://dicos.grid.sinica.edu.tw/dockerapps/ to start using DiCOSApps. The remaining resources are displayed for each DiCOSApp. Like the image below, click ``launch`` button (and proper lifetime of the application), and then start to use the application.
+Login in to `DiCOS web <https://dicos.grid.sinica.edu.tw>`_ and then go to https://dicos.grid.sinica.edu.tw/dockerapps/ to start using DiCOSApps. The remaining resources are displayed for each DiCOSApp. Like the image below, click ``launch`` button (and choose proper lifetime of the application if applicable), and then start to use the application.
 
 .. image:: image/dicos_app_list.png
 
@@ -105,15 +105,15 @@ RELION is often stable. When error occurs, it would usually caused by:
 2. Input file error. Checking log and removing problematic file indicated in log may just solve this issue.
 
 
-
-
 =========================
 DiCOSApp Data Handling
 =========================
 
 The DiCOSApp is ephemeral and isolated application, everything changed or created in APP will be wiped out after the APP is terminated. However, there are three persistent spaces, everything storing there will be kept:
 
-**NOTICE: The CryoEM data from ASCEM to ASGC will be stored at /cryoEM/tmp**
+.. note::
+
+   The CryoEM data from ASCEM to ASGC will be stored at ``/cryoEM/tmp``
 
 --------------------------
 1. User HOME space
@@ -125,7 +125,7 @@ The DiCOSApp is ephemeral and isolated application, everything changed or create
 
    -  ~/data/
    -  $HOME/data
-   -  /dicos_ui_home/[ your username ]/data
+   -  /dicos_ui_home/<user_name>/data
 
 - **Please note, the user home space doesn't guarantee any data protection or space for every user. So, please be careful what you store on it. And please make backup by yourself, if you will only use home space.**
 
@@ -141,6 +141,7 @@ The DiCOSApp is ephemeral and isolated application, everything changed or create
 ------------------------------------
 
 - DiCOSBOX is Dropbox-like storage, it is also connected inside the APP by following path:
+
 ::
 
    - ~/DiCOSBox
@@ -169,8 +170,7 @@ The DiCOSApp is ephemeral and isolated application, everything changed or create
    - dicos-ui02.grid.sinica.edu.tw
    - dicos-ui04.grid.sinica.edu.tw
 
-- The path is also */cryoEM/*
-
+- The path is also ``/cryoEM/``
 
 
 ====================================================

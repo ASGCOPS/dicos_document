@@ -46,7 +46,7 @@ Slurm users need to login one of the following user interface nodes to use the s
           - Filetype
         * - `eog <https://wiki.gnome.org/Apps/EyeOfGnome>`_
           - images
-        * - `xpdf https://www.xpdfreader.com/`_
+        * - `xpdf <https://www.xpdfreader.com/>`_
           - pdf files
 
 -------------------------------

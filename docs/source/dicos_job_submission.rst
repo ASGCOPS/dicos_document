@@ -50,7 +50,7 @@ The available DiCOS UI are listed below. DiCOS users could login with the DiCOS 
           - Filetype
         * - `eog <https://wiki.gnome.org/Apps/EyeOfGnome>`_
           - images
-        * - `xpdf https://www.xpdfreader.com/`_
+        * - `xpdf <https://www.xpdfreader.com/>`_
           - pdf files
 
 
