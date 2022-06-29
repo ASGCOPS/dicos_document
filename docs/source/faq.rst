@@ -24,6 +24,16 @@ When I login in ``dicos-ui04.grid.sinica.edu.tw``, I got port:22 connection deni
 It's most likely that you are banned due to multiple login failures with your IP address. Please wait for 2 to 3 hours then try again. Or use other machines to login. If your forget your password, please use `this link <https://canew.twgrid.org/ApplyAccount/nocertModify.php>`_ to reset your password.
 
 ---------------------------
+DiCOS Job System
+---------------------------
+
+
+When I use ``dicos ddm download`` command, it failed with the following messages: ``[2022-04-12 03:35:31,188 ERROR] Failed to download``. What happened?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+There should be something wrong with our DDM subsystem. You can use ``dicos ddm ping`` to check if it returns: ``Ping Rucio OK !`` message. If not, please contact to DiCOS-Support@twgrid.org to report the issue. Thank you.
+
+---------------------------
 Slurm
 ---------------------------
 
@@ -41,7 +51,7 @@ DiCOSApp
 ---------------------------
 
 -------------------------------------------------------------------------------------------------------
-How to get Cryosparc license?
+How to get a Cryosparc license?
 -------------------------------------------------------------------------------------------------------
 
 CryoSPARC™ and cryoSPARC Live™ are available free of charge for non-profit academic use. Please go to https://cryosparc.com/download to apply your own Cryosparc license and then import it when you launch Cryosparc application.  
@@ -52,12 +62,12 @@ Why I cannot click the launch button of specific DiCOSApp?
 
 There are some reasons cause this issue:
 
-* There is no enough resources left for your application
+* There are no sufficient resources left for the requirements of your application
 * The application is now in maintenance mode (please see relative announcements)
 
 -------------------------------------------------------------------------------------------------------
 What happened that I cannot launch specific DiCOSApp even if the launch button is clickable?
 -------------------------------------------------------------------------------------------------------
 
-There show be some technical issues of our microservice, please contact ``DiCOS-Support@twgrid.org`` for quick solution.
+There should be some technical issues of our microservice, please contact ``DiCOS-Support@twgrid.org`` for quick solution.
 
