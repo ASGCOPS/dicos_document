@@ -11,7 +11,9 @@ General
 How could I know the computing environment (including the library, compiler, etc.) of DiCOS ?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Please contact us by e-mail (DiCOS-Support@twgrid.org) or fill the form in https://dicos.grid.sinica.edu.tw/contact for any required system software.
+If you are using ``slurm_ui``, the software stacks are maintained with the environment-modules software. Please follow `this link <https://dicos-document.readthedocs.io/en/latest/slurm_job_submission.html#environment-modules>`_ for the instruction. 
+
+Please contact us by e-mail (DiCOS-Support@twgrid.org) or fill the form in `this link <https://dicos.grid.sinica.edu.tw/contact>`_ for any required system software.
 
 How to use the Command Line Interface in DiCOS?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -27,8 +29,7 @@ It's most likely that you are banned due to multiple login failures with your IP
 DiCOS Job System
 ---------------------------
 
-
-When I use ``dicos ddm download`` command, it failed with the following messages: ``[2022-04-12 03:35:31,188 ERROR] Failed to download``. What happened?
+When I use ``dicos ddm download`` command, it failed with the following messages: **[2022-04-12 03:35:31,188 ERROR] Failed to download**. What happened?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There should be something wrong with our DDM subsystem. You can use ``dicos ddm ping`` to check if it returns: ``Ping Rucio OK !`` message. If not, please contact to DiCOS-Support@twgrid.org to report the issue. Thank you.
