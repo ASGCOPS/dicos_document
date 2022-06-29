@@ -18,9 +18,23 @@ How to use the Command Line Interface in DiCOS?
 
 Login to ``dicos-ui05.grid.sinica.edu.tw`` by using the account/password used in the DiCOS Web User Interface.  
 
+When I login in ``dicos-ui04.grid.sinica.edu.tw``, I got port:22 connection denial. Why?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+It's most likely that you are banned due to multiple login failures with your IP address. Please wait for 2 to 3 hours then try again. Or use other machines to login. If your forget your password, please use `this link <https://canew.twgrid.org/ApplyAccount/nocertModify.php>`_ to reset your password.
+
 ---------------------------
 Slurm
 ---------------------------
+
+How do I know the current usage/vacancy of specific machine of slurm?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+For example, we could use the following command to get the status of hp-teslav01:
+
+.. code-block:: bash
+
+   sinfo --format="%10n %.14C %.10T" -n hp-teslav01
 
 ---------------------------
 DiCOSApp
