@@ -2,6 +2,8 @@
 DiCOS Resources
 *******************
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+
 ===================
 DiCOS Resources
 ===================

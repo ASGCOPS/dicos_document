@@ -1,6 +1,8 @@
 2022 DiCOS Documentation
 ============================
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+
 .. toctree::
 
    about_dicos

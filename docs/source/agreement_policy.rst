@@ -2,6 +2,8 @@
 Agreement and Policies
 ************************
 
+.. sectionauthor:: Eric Yen <Eric.Yen@twgrid.org>
+
 .. toctree::
 
    agreement_policy/terms_of_use

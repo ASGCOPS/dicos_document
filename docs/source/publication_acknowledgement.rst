@@ -2,6 +2,8 @@
 Publications and Acknowledgement
 *********************************
 
+.. sectionauthor:: Eric Yen <Eric.Yen@twgrid.org>, Mike Yang <mike.yang@twgrid.org>
+
 ====================
 Copyright License
 ====================

@@ -2,6 +2,8 @@
 Frequent Asked Questions (FAQ)
 ********************************
 
+.. sectionauthor:: Felix Lee <felix@twgrid.org>, Mike Yang <mike.yang@twgrid.org>
+
 -------------------------------------------------------------------------------------------------------
 How could I know the computing environment (including the library, compiler, etc.) of DiCOS ?
 -------------------------------------------------------------------------------------------------------

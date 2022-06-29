@@ -2,6 +2,8 @@
 DiCOSApps
 ************
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>, Tsung-Hsun Wu <tsung-hsun.wu@twgrid.org>
+
 ======================
 DiCOSApp Introduction
 ======================
@@ -54,6 +56,29 @@ CryoEM Specific APPs
      - 380GB
      - yes
 
+------------------------
+Jupyter Notebooks
+------------------------
+
+.. list-table:: Jupyter Notebooks
+   :header-rows: 1
+
+   * - APP name
+     - CPU coures
+     - GPU
+     - Memory
+     - SSD
+   * - JupyterLab(CPU)
+     - 12
+     - 0
+     - 64GB
+     - yes
+   * - JupyterLab(GPU)
+     - 12
+     - 1 (P100)
+     - 128GB
+     - yes
+
 -----------------------------
 RELION Job Configuration
 -----------------------------
@@ -79,28 +104,6 @@ RELION is often stable. When error occurs, it would usually caused by:
 1. Memory or resources are not enough. For such error, simply reducing Thread number would just help. If the error lasts, then try reducing MPI number.
 2. Input file error. Checking log and removing problematic file indicated in log may just solve this issue.
 
-------------------------
-Jupyter Notebooks
-------------------------
-
-.. list-table:: Jupyter Notebooks
-   :header-rows: 1
-
-   * - APP name
-     - CPU coures
-     - GPU
-     - Memory
-     - SSD
-   * - JupyterLab(CPU)
-     - 12
-     - 0
-     - 64GB
-     - yes
-   * - JupyterLab(GPU)
-     - 12
-     - 1 (P100)
-     - 128GB
-     - yes
 
 
 

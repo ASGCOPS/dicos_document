@@ -2,6 +2,8 @@
 Contact Us
 ************
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+
 There are channels to contact to ASGC/DiCOS staffs/administrators:
 
   - E-mail: DiCOS-Support@twgrid.org

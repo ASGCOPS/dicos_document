@@ -2,6 +2,8 @@
 DiCOS Account
 ****************
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+
 ==========================
 Apply for a DiCOS Account
 ==========================

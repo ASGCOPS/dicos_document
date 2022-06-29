@@ -2,6 +2,8 @@
 Accounting and Pricing
 ***********************
 
+.. sectionauthor:: Eric Yen <Eric.Yen@twgrid.org>, Mike Yang <mike.yang@twgrid.org>
+
 ----------------------------
 Accounting Information
 ----------------------------

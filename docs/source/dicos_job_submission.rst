@@ -2,6 +2,8 @@
 DiCOS Job System
 **********************
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+
 -----------------------------
 DiCOS User Interfaces (UIs)
 -----------------------------

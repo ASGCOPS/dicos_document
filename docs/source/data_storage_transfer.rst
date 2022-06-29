@@ -2,6 +2,8 @@
 Data Storage and Transfer
 ****************************
 
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+
 ======================================
 User/Group Spaces in DiCOS System
 ======================================
