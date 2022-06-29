@@ -29,6 +29,26 @@ The available DiCOS UI are listed below. DiCOS users could login with the DiCOS 
      - CentOS 7
      - Job submission, File download/upload
 
+.. note::
+
+   Installed GUI software in UIs for users to preview files. Please use, for example:
+
+   .. code-block:: bash
+
+      ssh -XY <your_account>@dicos-ui05.grid.sinica.edu.tw
+
+   to login in the UI with X11 forwarding enabled. If you are using Windows system, please install and execute `Xming <https://sourceforge.net/projects/xming/>`_ before connect to the UI.
+
+   .. list-table::
+      :header-rows: 1
+   
+      * - Software
+        - Filetype
+      * - eog
+        - images
+      * - xpdf
+        - pdf files
+
 -----------------------------
 DiCOS Queues
 -----------------------------
