@@ -12,7 +12,7 @@
    slurm_job_submission
    dicosapp
    data_storage_transfer
-   user_case
+   use_case
    accounting
    faq
    publication_acknowledgement

@@ -1,5 +1,5 @@
 ********************************************
-User Cases on DiCOS
+Use Cases of Software with DiCOS
 ********************************************
 
 .. sectionauthor:: Mike Yang <mike.yang@twgrid.org>, Tsung-Hsun Wu <tsung-hsun.wu@twgrid.org>
@@ -24,5 +24,5 @@ DiCOSApp
 Comprehensive Cases
 ----------------------
 
-* :doc:`Use Triton inference server with DiCOS System <user_case/triton>`
+* :doc:`Use Triton inference server with DiCOS System <use_case/triton>`
 * `Triton inference server on DiCOS <https://docs.twgrid.org/s/PqrGPuMZa#>`_
