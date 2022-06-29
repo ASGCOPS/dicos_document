@@ -14,10 +14,10 @@ Please contact us by e-mail (DiCOS-Support@twgrid.org) or fill the form in https
 How to use the Command Line Interface in DiCOS?
 -------------------------------------------------------------------------------------------------------
 
-Login to "dicos-ui05.grid.sinica.edu.tw" by using the account/password used in the DiCOS Web User Interface.  
+Login to ``dicos-ui05.grid.sinica.edu.tw`` by using the account/password used in the DiCOS Web User Interface.  
 
 -------------------------------------------------------------------------------------------------------
-How to get cryosparc license?
+How to get Cryosparc license?
 -------------------------------------------------------------------------------------------------------
 
 CryoSPARC™ and cryoSPARC Live™ are available free of charge for non-profit academic use. Please go to https://cryosparc.com/download to apply your own Cryosparc license and then import it when you launch Cryosparc application.  
@@ -35,4 +35,5 @@ There are some reasons cause this issue:
 What happened that I cannot launch specific DiCOSApp even if the launch button is clickable?
 -------------------------------------------------------------------------------------------------------
 
-There show be some technical issues of our microservice, please contact DiCOS-Support@twgrid.org for quick solution.
+There show be some technical issues of our microservice, please contact ``DiCOS-Support@twgrid.org`` for quick solution.
+
