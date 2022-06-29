@@ -42,29 +42,37 @@ Different Types of Storage in DiCOS
      - File system
      - User Access
      - Note
+     - Data Ensurance
    * - DiCOS UI Home
      - NFS
      - Direct Access
      - Space for the home directories of DiCOS users
+     - No
    * - User working directory
      - Ceph
+     - Direct Access
      - Space for the working directories of DiCOS users
+     - Yes
    * - Group working directory
      - Ceph
      - Direct Access
      - Space for the working directories of DiCOS groups
+     - Yes
    * - DiCOS job output space
      - EOS
      - Access through ``dicos job getoutput|dicos ddm``
      - Space for the job outputs from ``dicos job submit``
+     - Yes
    * - Software Repository
      - CVMFS
      - Direct Access, Readonly
      - Software repository assessible for UIs and worker nodes
+     - Yes
    * - DiCOSBOX
      - EOS
      - UI: symbolic link; Web: user interface
      - Easy-to-use user spaces for file storage and sharing
+     - Yes
 
 ----------------------
 File Output (EOS)
