@@ -51,7 +51,7 @@ Slurm users need to login one of the following user interface nodes to use the s
 Slurm Resources and Queues
 -------------------------------
 
-.. list-table:: Resources 2022-06-27
+.. list-table:: Slurm Resources 2022-06-27
    :header-rows: 1
 
    * - Cluster
@@ -64,7 +64,6 @@ Slurm Resources and Queues
      - Network
      - GPU model
      - GPU/node
-     - Note
    * - HPC_FDR5
      - 92
      - 2208
@@ -75,7 +74,6 @@ Slurm Resources and Queues
      - 10GbE
      - N/A
      - N/A
-     - Slurm
    * - HPC_HDR1
      - 2
      - 768
@@ -86,7 +84,6 @@ Slurm Resources and Queues
      - 100GbE
      - N/A
      - N/A
-     - Slurm
    * - GPU_V100
      - 1
      - 48
@@ -97,7 +94,6 @@ Slurm Resources and Queues
      - 10GbE
      - V100
      - 8
-     - DiCOSApp, Slurm, DiCOS job submit
    * - GPU_A100
      - 1
      - 64
@@ -108,10 +104,9 @@ Slurm Resources and Queues
      - 100GbE
      - A100
      - 8
-     - DiCOSApp, Slurm
      
 
-.. list-table:: Queues 2022-06-27
+.. list-table:: Slurm Partitions 2022-06-27
    :header-rows: 1
 
    * - Partition
