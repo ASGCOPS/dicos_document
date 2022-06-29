@@ -4,17 +4,27 @@ Frequent Asked Questions (FAQ)
 
 .. sectionauthor:: Felix Lee <felix@twgrid.org>, Mike Yang <mike.yang@twgrid.org>
 
--------------------------------------------------------------------------------------------------------
+---------------------------
+General
+---------------------------
+
 How could I know the computing environment (including the library, compiler, etc.) of DiCOS ?
--------------------------------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Please contact us by e-mail (DiCOS-Support@twgrid.org) or fill the form in https://dicos.grid.sinica.edu.tw/contact for any required system software.
 
--------------------------------------------------------------------------------------------------------
 How to use the Command Line Interface in DiCOS?
--------------------------------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Login to ``dicos-ui05.grid.sinica.edu.tw`` by using the account/password used in the DiCOS Web User Interface.  
+
+---------------------------
+Slurm
+---------------------------
+
+---------------------------
+DiCOSApp
+---------------------------
 
 -------------------------------------------------------------------------------------------------------
 How to get Cryosparc license?
