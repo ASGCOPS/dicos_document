@@ -145,6 +145,10 @@ User Interface Node (Login Node)
      - CentOS 7
      - ``slurm`` | Job submission, File download/upload
 
+.. note::
+
+   The resources of the user interface node is limited, please don't run your jobs in the user interfaces, or your jobs will be killed without notice.
+
 ====================
 DiCOS in a Nutshell
 ====================
