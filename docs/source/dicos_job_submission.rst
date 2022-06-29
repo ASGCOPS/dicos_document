@@ -76,7 +76,6 @@ As of 2022-07-13, DiCOS job submission only support for batch GPU jobs. The avai
    * - ANALY_TAIWAN_TWGRID_AUTODOCK_GPU
      - V100
 
-
 -----------------------------
 DiCOS Client Tools
 -----------------------------
@@ -228,6 +227,8 @@ ping
 """""
 
 Ping DiCOS server, check server status and connection.
+
+::
 
     [users@dicos-ui05 ~]$ dicos ping
 
