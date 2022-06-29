@@ -51,24 +51,21 @@ For example, we could use the following command to get the status of hp-teslav01
 DiCOSApp
 ---------------------------
 
--------------------------------------------------------------------------------------------------------
 How to get a Cryosparc license?
--------------------------------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 CryoSPARC™ and cryoSPARC Live™ are available free of charge for non-profit academic use. Please go to https://cryosparc.com/download to apply your own Cryosparc license and then import it when you launch Cryosparc application.  
 
--------------------------------------------------------------------------------------------------------
 Why I cannot click the launch button of specific DiCOSApp?
--------------------------------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are some reasons cause this issue:
 
 * There are no sufficient resources left for the requirements of your application
 * The application is now in maintenance mode (please see relative announcements)
 
--------------------------------------------------------------------------------------------------------
 What happened that I cannot launch specific DiCOSApp even if the launch button is clickable?
--------------------------------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There should be some technical issues of our microservice, please contact ``DiCOS-Support@twgrid.org`` for quick solution.
 
