@@ -48,10 +48,16 @@ The available DiCOS UI are listed below. DiCOS users could login with the DiCOS 
      
         * - Software
           - Filetype
+          - Type
+        * - `vim <https://www.vim.org/>`_ | `nano <https://www.nano-editor.org/>`_
+          - text editor
+          - CLI
         * - `eog <https://wiki.gnome.org/Apps/EyeOfGnome>`_
           - images
+          - GUI
         * - `xpdf <https://www.xpdfreader.com/>`_
           - pdf files
+          - GUI
 
 
 -----------------------------

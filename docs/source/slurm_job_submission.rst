@@ -39,13 +39,20 @@ Slurm users need to login one of the following user interface nodes to use the s
 
      .. list-table::
         :header-rows: 1
-     
+
         * - Software
           - Filetype
+          - Type
+        * - `vim <https://www.vim.org/>`_ | `nano <https://www.nano-editor.org/>`_
+          - text editor
+          - CLI
         * - `eog <https://wiki.gnome.org/Apps/EyeOfGnome>`_
           - images
+          - GUI
         * - `xpdf <https://www.xpdfreader.com/>`_
           - pdf files
+          - GUI
+
 
 -------------------------------
 Slurm Resources and Queues
