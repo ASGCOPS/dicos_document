@@ -46,6 +46,6 @@ For scientific publications. Please include ASGC (Academia Sinica Grid-computing
 Citation Reference
 ====================
 
-If you woule like to cite the document for our DiCOS system, you could cite the following document: https://www.researchgate.net/publication/323894182_Distributed_Cloud_Operating_System_DiCOS_Development_at_Academia_Sinica.
+If you woule like to cite the document for our DiCOS system, you could cite `the document <https://www.researchgate.net/publication/323894182_Distributed_Cloud_Operating_System_DiCOS_Development_at_Academia_Sinica>`_ as reference.
 
 
