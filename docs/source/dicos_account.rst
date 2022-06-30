@@ -156,3 +156,37 @@ The following flowchart presents the application of the DiCOS account and the fl
    :alt: DiCOS Account Flowchart
 
 
+==========================================
+DiCOS Group
+==========================================
+
+If you would like to join DiCOS as a PI of a specific research group. Please e-mail to DiCOS-Support@twgrid.org and attached the following messages for application:
+
+.. list-table:: DiCOS Group Registration Fields
+   :header-rows: 0
+
+   * - Group name
+     - A name for UNIX identification, length no more than 40 characters, upper & lower cases allowed
+   * - PI Name
+     - 
+   * - PI E-mail
+     - 
+   * - PI Institute
+     - 
+
+
+In Chinese:
+
+.. list-table:: DiCOS Group Registration Fields
+   :header-rows: 0
+
+   * - Group 名稱
+     - 需要一個不能含空格或特殊符號的40字以內簡稱
+   * - PI 名字
+     - 含中英文
+   * - PI E-mail
+     - 
+   * - PI 所屬單位
+     - 
+
+
