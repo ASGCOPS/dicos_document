@@ -47,6 +47,26 @@ For example, we could use the following command to get the status of hp-teslav01
 
    sinfo --format="%10n %.14C %.10T" -n hp-teslav01
 
+How could I use python3? How should I do if I would like to install some python packages from pip?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In our user interface (ui) and worker nodes, we have CVMFS file system mounted as the software repository. You could initialize anaconda3 (python3) with the following command before you start using python3 (in the UIs and in the worker nodes):
+
+.. code-block:: bash
+
+   source /cvmfs/cvmfs.grid.sinica.edu.tw/twgrid/anaconda3/setup.sh
+
+Then you will have anaconda3 python3 available (python 3.8.5). You could include this line in the very beginning of the script. The numpy package is included in the anaconda3 bundle. 
+
+If you are going to install some customized packages, we recommend you to installed it in your home directory. For example:
+
+.. code-block:: bash
+
+   pip3 install bilby --user
+   pip3 install gwpy --user
+
+Then you will have these packages available in your home directory. But if you using ``dicos submit``, then we will need to install the missing packages for you. Please contact to DiCOS-Support@twgrid.org for help.
+
 ---------------------------
 DiCOSApp
 ---------------------------
