@@ -33,7 +33,7 @@ Slurm users need to login one of the following user interface nodes to use the s
 
      .. code-block:: bash
 
-        ssh -XY <your_account>@dicos-ui05.grid.sinica.edu.tw
+        ssh -XY <your_account>@slurm-ui01.twgrid.org
 
      to login in the UI with X11 forwarding enabled. If you are using Windows system, please install and execute `Xming <https://sourceforge.net/projects/xming/>`_ before connect to the UI.
 
