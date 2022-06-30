@@ -67,6 +67,13 @@ If you are going to install some customized packages, we recommend you to instal
 
 Then you will have these packages available in your home directory. But if you are using ``dicos submit``, then we will need to install the missing packages for you. Please contact to DiCOS-Support@twgrid.org for help.
 
+I encounter an error when I compile my CUDA code on slurm-ui01. The error message is cannot open source file "cuda_runtime_api.h". Could you help me solve this problem?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The login node (slurm-ui01) doesn't have GPU resources, and hence don't have cuda library installed.  So you could not build your cuda apps in slurm-ui01. We recommend you to use the `DiCOSApp <https://dicos.grid.sinica.edu.tw/dockerapps/>`_ that have GPU resource support, for example: Jupyter Lab GPU 1080ti, to build your cuda apps.
+
+Please use the terminal in jupyterlab and check CUDA_PATH environment variable is set to: ``/usr/local/cuda`` to build your applications.
+
 ---------------------------
 DiCOSApp
 ---------------------------
