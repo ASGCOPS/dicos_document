@@ -176,7 +176,7 @@ System Topography
 
 * The system scheme could be found in the following image. The network connection is majorly in 10G ethernet.
 
-  .. image:: image/qdr4_topology.png
+  .. image:: image/slurm_scheme_v4.png
 
 -------------------------------
 Slurm Software
