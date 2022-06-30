@@ -41,7 +41,7 @@ The available DiCOS UI are listed below. DiCOS users could login with the DiCOS 
 
         ssh -XY <your_account>@dicos-ui05.grid.sinica.edu.tw
 
-     to login in the UI with X11 forwarding enabled. If you are using Windows system, please install and execute `Xming <https://sourceforge.net/projects/xming/>`_ before connect to the UI.
+     to login in the UI with X11 forwarding enabled. If you are using Windows™ system, please install and execute `Xming <https://sourceforge.net/projects/xming/>`_ before connect to the UI.
 
      .. list-table::
         :header-rows: 1
