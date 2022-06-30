@@ -2,7 +2,7 @@
 DiCOS Account
 ****************
 
-.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>, Jing-Ya You <jingya.you@twgrid.org>
 
 ==========================
 Apply for a DiCOS Account
@@ -42,13 +42,13 @@ Step 2: Personal Information
 
 .. note::
 
-   If you are logging with Academia Sinica SSO, the default DiCOS account will be the same to the AS-SSO account.
+   * If you are logging with Academia Sinica SSO, the default DiCOS account will be the same to the AS-SSO account.
+   * Please setup your password in a secure way (you may refer to `this link <https://security.web.cern.ch/recommendations/en/passwords.shtml>`_ for chooing a secure password), and don't share it to anyone. DiCOS users have the obligation to keep their DiCOS account safe. Any malicious activities will be logged and DiCOS administrators keep the right to suspend the suspicious account if necessary.
 
 Step 3: Confirm your e-mail address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Check your mailbox and find our confirmation email (see format as below). Verify by clicking the url.
-
+* Check your mailbox and find our confirmation email (see format as below). Verify by clicking the url in the e-mail.
 
 ::
 
@@ -139,6 +139,10 @@ Please follow the procedure to extend the account lifetime if you would like to 
    
         Regards
         DiCOS-Support
+
+.. note::
+
+   The recovery of an expired DiCOS account could be only valid for a short period of time. The DiCOS administrator could delete the expired accounting for security reason without notifying the users. Please keep your account in valid state if you would like to use the DiCOS account continuously.
 
 
 ==========================
