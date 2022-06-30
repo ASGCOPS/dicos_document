@@ -74,6 +74,21 @@ The login node (slurm-ui01) doesn't have GPU resources, and hence don't have cud
 
 Please use the terminal in jupyterlab and check CUDA_PATH environment variable is set to: ``/usr/local/cuda`` to build your applications.
 
+How to use ``nvcc`` in slurm? Could you give me some instructions?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+There are V100 and A100 GPU resources available in slurm QDR4. If you are going to use nvcc, after login in slurm-ui01, please load the corresponding module as follows:
+
+.. code-block:: bash
+
+   module load nvhpc_sdk/20.11
+
+Then nvcc and cuda-gdb, and pgcc (openacc compatible compiler) will be available for your usage.  And if you are going to run your cuda/openacc enabled code, you need to submit your job to "v100" or "a100" partitions of slurm, e.g.
+
+.. code-block:: bash
+
+   srun -p a100 --gres=gpu:2 ./my_cuda_executable my_arg1 my_arg2
+
 ---------------------------
 DiCOSApp
 ---------------------------
