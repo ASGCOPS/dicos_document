@@ -109,7 +109,7 @@ The default lifetime of DiCOS account is **1 year**. The DiCOS system will send 
 
 ::
 
-   Dear User (dicos_user):
+   Dear User (<dicos_user>):
   
        Your DiCOS account will be expired in 15 days.
        Please extend lifetime of your account
@@ -123,7 +123,22 @@ The default lifetime of DiCOS account is **1 year**. The DiCOS system will send 
        DiCOS-Support
 
 
-Please follow the procedure to extend the account lifetime if you would like to use the DiCOS account.
+Please follow the procedure to extend the account lifetime if you would like to continuously use the DiCOS account. Once your account expired, you will receieve a mail to notify you the expiration of the account, the contents will be something like:
+
+::
+
+   Dear User (<dicos_user>):
+   
+        Your DiCOS account is expired.
+        Please extend lifetime of your account and update user information.
+        through https://canew.twgrid.org/ApplyAccount/extendexpiry.php?dicos_user
+   
+        Note that if your account have been expired,
+        you will not be able to sign in to DiCOS UI or web page.
+        If you have more question, please email for us.
+   
+        Regards
+        DiCOS-Support
 
 
 ==========================
