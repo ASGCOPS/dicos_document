@@ -31,21 +31,23 @@ Step 1: DiCOS Account Application
    If you are a member of Academia Sinica, please use AS-SSO (single sign-on) to register your DiCOS account.
 
 
-Step 2: Personal information
+Step 2: Personal Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Fill in your personal information,
 * Select your research group. (Your PI will approve your application)
 * Setup account / password in DiCOS
 
-.. image:: image/dicos_apply_account.png
+.. image:: image/dicos_account_application.png
+
+.. note::
+
+   If you are logging with Academia Sinica SSO, the default DiCOS account will be the same to the AS-SSO account.
 
 Step 3: Confirm your e-mail address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Check your mailbox and find our confirmation email (see format as below). Verify by clicking the url.
-
-.. image:: image/dicos_confirm_email.jpg
 
 
 ::
