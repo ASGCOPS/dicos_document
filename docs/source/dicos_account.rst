@@ -47,6 +47,35 @@ Step 3: Confirm your e-mail address
 
 .. image:: image/dicos_confirm_email.jpg
 
+
+::
+
+   From: DiCOS <DiCOS-Support@twgrid.org>
+           
+   Dear User (<dicos_user>):
+   
+           Thanks for signing up DiCOS!
+           Your application is been accepted.
+           Please go to the following url to verify your email.
+           https://canew.twgrid.org/ApplyAccount/xxxxxx
+   
+           Please wait for your group leader's approval to activate your account.
+   
+           Best Regards,
+           Academia Sinica Grid Computing Centre (ASGC)
+           Taiwan
+   
+   =======================================================
+   
+   Academia Sinica Grid Computing Certification Authority
+   email: asgcca@grid.sinica.edu.tw
+   Phone: +886-2-2789-8312
+   Fax:   +886-2-2789-6793
+   https://canew.twgrid.org
+   
+   ========================================================
+
+
 Step 4: PI's approval
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
