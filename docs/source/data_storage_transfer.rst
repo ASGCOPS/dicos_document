@@ -98,7 +98,7 @@ Ceph pool in DiCOS system plays an important role. In general, ceph provides cap
 CernVM-FS (CVMFS)
 ----------------------
 
-CVMFS represented for CernVM-FS. It's originally used in the grid computing, and try to deliver the updated software for the computation. The file system is read-only, so it is very suitable for the software delivery. In DiCOS system, CVMFS file system is for the software repository for users, and mounted in ``/cvmfs``. The ``modules`` environment in slurm system help user to setup the environment for specifically software, and the software is located in CVMFS.
+**CVMFS** is represented for the **CernVM-FS**. It's originally used in the grid computing, and try to deliver the updated software for the computation. The file system is read-only, so it is very suitable for the software delivery. In DiCOS system, CVMFS file system is for the software repository for users, and mounted in ``/cvmfs``. The ``modules`` environment in slurm system help user to setup the environment for specifically software, and the software is located in CVMFS.
 
 .. seealso::
 
@@ -156,7 +156,7 @@ For example:
 FileZilla™ (Windows/MacOS/Linux)
 ----------------------------------
 
-`FileZilla™ <https://filezilla-project.org/>`_ have file manager like UI. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload.
+`FileZilla™ <https://filezilla-project.org/>`_ have file manager like UI. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload operations.
 
 .. seealso::
 
@@ -166,7 +166,7 @@ FileZilla™ (Windows/MacOS/Linux)
 MobaXterm™ (Windows)
 -------------------------
 
-`MobaXterm™ <https://mobaxterm.mobatek.net/>`_ has a built-in function for SFTP. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload.
+`MobaXterm™ <https://mobaxterm.mobatek.net/>`_ has a built-in function for SFTP. Connect to our UI with your DiCOS account, and the left panel will show the files in the UI, then you could go ahead with the download/upload operations.
 
 .. seealso::
 
