@@ -111,6 +111,9 @@ Step 2: Fill in application form
 
 .. image:: image/Account_application_flow_ASSSO1.png
 
+* Select your research group. (Your PI will approve your application)
+* Setup account / password in DiCOS
+
 Step 3: Start to use DiCOS services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
