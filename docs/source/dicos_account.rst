@@ -15,8 +15,6 @@ Non-AS Users
 Step 1: DiCOS Account Application
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: image/Account_application_flow_no_SSO1.png
-
 * Go to `DiCOS Account Page <http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_ to apply DiCOS account.
 
 .. image:: image/dicos_apply_account_main.jpg
@@ -94,22 +92,27 @@ Step 4: PI's approval
 
 * Wait for your PI to approve the application. You will get a notification email when it's approved.
 
+Step 5: Start to use DiCOS services
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: image/Account_application_flow_no_SSO4.png
+
 ------------------------
 AS Users (via SSO)
 ------------------------
 
-Step 1
-^^^^^^^^^
+Step 1: Sign-up with Academia Sinica SSO 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_ASSSO0.png
 
-Step 2
-^^^^^^^^^
+Step 2: Fill in application form
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_ASSSO1.png
 
-Step 3
-^^^^^^^^^
+Step 3: Start to use DiCOS services
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_ASSSO2.png
 
