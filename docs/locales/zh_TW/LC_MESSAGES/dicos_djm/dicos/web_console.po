@@ -1,0 +1,307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/web_console.rst:2
+#: 8541fd8fa88a4cec9dd4027ac8154f13
+msgid "Web Terminal (Web Console)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:4
+#: 20e557ad0206411c8e0ecc3404586dca
+msgid ""
+"Now web console is online: 1. Login first before using it. 2. You can "
+"initial proxy on web page or use command line."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:10
+#: 2b16d8c039dc415a85f1691074729587
+msgid "Support Browser"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:12
+#: ../../source/dicos_djm/dicos/web_console.rst:74
+#: 4b5bde841afe453489aa32d17ea3195b b2e0acbb72394922a3ec8948b96ee77d
+msgid "CVMFS (CernVM File System)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:15
+#: f86aa153d88849aab41078ce72d6e88f
+msgid "Browser OS"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:16
+#: 12794ff468bc440e992c0af382410cf0
+msgid "Windows 7"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:17
+#: 9a1c960a35ea432c8f8d391acec44e7f
+msgid "Windows 10"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:18
+#: 0d3e658d6c2145d08d0543e6af3a5004
+msgid "Ubuntu"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:19
+#: ../../source/dicos_djm/dicos/web_console.rst:80
+#: 36a74532925e423b9c66d2ed4ca91d82 fdbf75838ee74449bd76accfa91cb2fe
+msgid "MacOS"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:20
+#: 6ed2825f18c14c6998eed505f30c9b6b
+msgid "IE"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:21
+#: 5e0f481e2a0a47ed8057b2c1ec0671d2
+msgid "OK(10+)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:22
+#: dd207fe45e164694bcda0530178e5e4f
+msgid "OK(MS edge)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:23
+#: ../../source/dicos_djm/dicos/web_console.rst:24
+#: ../../source/dicos_djm/dicos/web_console.rst:38
+#: 41a65e34cffc490e919665a92bdd71f5 c174d54a89ba4d6c863ba904b2b420a9
+#: d8484cb6cea94201aa9119c62a5fefe0
+msgid "None"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:25
+#: 4a9074ef22fd4aa3986f0b3123eec3c9
+msgid "Firefox"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:26
+#: ../../source/dicos_djm/dicos/web_console.rst:27
+#: ../../source/dicos_djm/dicos/web_console.rst:28
+#: ../../source/dicos_djm/dicos/web_console.rst:29
+#: ../../source/dicos_djm/dicos/web_console.rst:31
+#: ../../source/dicos_djm/dicos/web_console.rst:32
+#: ../../source/dicos_djm/dicos/web_console.rst:33
+#: ../../source/dicos_djm/dicos/web_console.rst:34
+#: ../../source/dicos_djm/dicos/web_console.rst:39
+#: 04e180667667426ea451514c37cc3cb7 0b33f5358ac24562a6035a64d14057ef
+#: 10bafee970084a34b7b172facf0a1c03 286054bfef35471e921df6146ffcace9
+#: 6e248943676e4c1695687198f5a5300d a0514dd228b148d7a376c6f0e1147666
+#: a447b76139324e17af35f58462667905 a82f8cea2b3f4ceeba8cbba810a63497
+#: b0dd28abdb3145ff8192c83b0f5fd7e3
+msgid "OK"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:30
+#: c93da06f16fe49e19d4f85ebcdc98a9b
+msgid "Chrome"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:35
+#: dd5575a652244ccf92b87906e96877a0
+msgid "Safari"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:36
+#: ../../source/dicos_djm/dicos/web_console.rst:37
+#: 421e3b863f0f4743b117569acf634ceb 9a4a6820b0cf4d158de2962f7560a24e
+msgid "No(ver. 5.1.7)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:43
+#: 15d550d5f47241749d3d392f39de3620
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:45
+#: 384cbbea24714fff91338a9e772d34b6
+msgid ""
+"Screen is as same as the following image or a blank screen (usually "
+"happened in Win7 Firefox),"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:49
+#: 547cce9da1a24f978c69b94b29eccc73
+msgid ""
+"Go to `Let's Encrypt Certificates page "
+"<https://letsencrypt.org/certificates/>`_"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:50
+#: 5b672e1c427d4893a46f5e29dd1793fc
+msgid "Clicke Let’s Encrypt Authority X3 (IdenTrust cross-signed) [pem]"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:54
+#: 9c74ac5cd7714c039e07e353505dc8d8
+msgid ""
+"Select **Trust this CA to identify websites.** and **Trust this CA to "
+"identify software developers.** , then click **OK**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:58
+#: a21cc595158046aaaf1397d88f803331
+msgid "Back to Web Console and you can see it works normally"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:60
+#: 93f619675c674617826aa84da4ba6289
+msgid "Screen shows only \"Gate One - Applications\" as the following image"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:68
+#: 4af700b1729e4dac97f88fff33689480
+msgid "Setting"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:72
+#: 381357d081d245c8bf32c542a4b7d220
+msgid "Shortcut"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:77
+#: 99346f4f0f2543ccb2d0929af2c1054c
+msgid "Action OS"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:78
+#: 0c77e556e9524cb7b69a4b707727ef78
+msgid "Windows"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:79
+#: 173b8a03391b4c439c948830e99488c5
+msgid "Linux"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:81
+#: ffae56721936446fb7969ad99441ae89
+msgid "Paste"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:82
+#: ../../source/dicos_djm/dicos/web_console.rst:83
+#: 6da76970fa594496aca39f0ea52d3c08 ffb636ffd8164dc59055757b3db754f1
+msgid "Shift + Insert"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:84
+#: b867c8ab5fea432287f65fc9dd315937
+msgid "⌘-v"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:85
+#: 0c4847782bb247d88068beb85a9b9b19
+msgid "View the Help"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:86
+#: ../../source/dicos_djm/dicos/web_console.rst:87
+#: 010c5071ac7f48ae8a04edf3a532e0d8 d731e9284c5340ca9e4724e5986698d1
+msgid "Shift + F1"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:89
+#: cdd5686b41c44178aaad2cd1a27ae845
+msgid "Open Terminal"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:90
+#: ../../source/dicos_djm/dicos/web_console.rst:91
+#: 94ec7deb309f494ebed7c1ae330ad1df c19112b6b48941dba0a81db862df59fe
+msgid "Ctrl + Alt + N"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:93
+#: 0dacb19d8c924dc9a7cff3e4ff226cd1
+msgid "Close Terminal"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:94
+#: ../../source/dicos_djm/dicos/web_console.rst:95
+#: 7c3ea447b12c4d79a5af5f9a24e80ac8 e02f356ee1674d2894c0d78a9b21a44f
+msgid "Ctrl + Alt + W"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:100
+#: 7f286a8f47154e9daf427b29cfffa818
+msgid "Terminal Font Size"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:102
+#: 6d5bfe0f79e74e4ab034e9b5c216ba53
+#, python-format
+msgid ""
+"Click Setting icon -> B. Select Terminal -> C. Set Font Size field >100% "
+"e.g. 150% -> D. Save your setting"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:108
+#: b588400c0f8f42fc9b8e0b49d71df6e5
+msgid "New Workspace and Manage"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:110
+#: b2460f983c8443c58eb8ce24d00f417f
+msgid ""
+"You can add new workspaces and use Grid View to switch them (Max "
+"terminal: 10)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:111
+#: 928592b12fd54ee8950c96909b42787c
+msgid "Current terminal location will show on the bottom right"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:115
+#: 81a136bc839c4c22b1197d33f4ae37c9
+msgid "Grid View can swtich your existed workspaces"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:121
+#: 8bf3b861ea2d4edfb7dfb2671d567449
+msgid "Terminal Application Panel"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:123
+#: b0e623ae99a64ca5861fb217238d5ac1
+msgid ""
+"Click Panel icon -> Here can Log Viewer (Activity log), Save Playback (a "
+"HTML file of your command history)....etc."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:129
+#: 2f2897b834e94bf08c91e34288c4bf0c
+msgid "See Images"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:131
+#: b61e4ed8444744ff928f5f18633ee8d4
+msgid "cat <your_image_name> e.g. cat povpawn.png"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/web_console.rst:132
+#: 043a2dfb891646dcbe741a448322155a
+msgid "and you can right-click to save images"
+msgstr ""
+

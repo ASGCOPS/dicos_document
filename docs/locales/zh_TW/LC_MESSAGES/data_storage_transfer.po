@@ -1,0 +1,373 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/data_storage_transfer.rst:3 6f51ce3004f2420384f88a31e591a206
+msgid "Data Storage and Transfer"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:9 3b0a8cda15104a6082bc9a83b1c7ec2d
+msgid "User/Group Spaces in DiCOS System"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:14 1de765902e6a46529c3324a3200bd289
+msgid "DiCOS UI Home (NFS)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:16 6c20977710bd491184c0879445e1eba4
+msgid ""
+"When you login in ``dicos_ui`` or ``slurm_ui``, you are in your DiCOS UI "
+"home. For example, if your username is ``jack``, then you will be in "
+"``/dicos_ui_home/jack``. You could store some files or data for your "
+"convenience. However, because the storage of DiCOS UI home is a NFS "
+"mount, it will have some performance issue. Besides, we didn't guarantee "
+"the data preservation in the DiCOS UI home. So, you are recommended to "
+"use ceph working directory for your long-term storage."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:20 843aa8b91ceb452ebde29191dc0dc5e5
+msgid ""
+"Please be advised that we do not guarantee the data preservation in your "
+"home directory. Please backup your data in the home directory by "
+"yourself, or use the ceph working directory for your storage."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:24 880a0146e3954f0aa3988ab994d2048d
+msgid "User Working Directory (Ceph)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:26 a8451c2bde6047f7bc41cfc2798aa5f8
+msgid ""
+"For better performance and data preservation, DiCOS users are provided "
+"with a dedicated working directory. The working directory is mounted in a"
+" **ceph** storage pool. We recommend DiCOS users to use the ceph working "
+"directory for their job calculations and I/Os. If your username is "
+"``jack``, then the working directory will be in "
+"``/ceph/sharedfs/users/j/jack``. The information will be shown when you "
+"login in the ``slurm_ui``."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:30 c1f3bff78878456ba9e82283ba334428
+msgid "Group Working Directory (Ceph)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:32 ed92e9e0e3f94c10b189a0b46d0fe1b6
+msgid ""
+"For the data sharing among the group collaboration, user could make use "
+"of the group working directory for data sharing. Only group members could"
+" access to the group working directory. For example, the group working "
+"directory will be in ``/ceph/sharedfs/groups/<group_name>``"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:36 90fe5fd5deae494d91e6a8a9d4a7b184
+msgid "Different Types of Storage in DiCOS"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:38 16243ef97dca40379c8cce5a6d24210e
+msgid "DiCOS Storages"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:41 cc053b3ba0964710a524c48e7df9e1c0
+msgid "Usage"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:42 2d204672721444169a58455b293fcfdb
+msgid "File system"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:43 49862a63dbd344118595be29bf484b28
+msgid "User Access"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:44 2f414c8b4ff243e4b47c5827c48d5ba0
+msgid "Note"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:45 972e2e60f758455f984f3412d4476092
+msgid "Data Ensurance"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:46 8a52accb409946fda96af1317017342c
+msgid "DiCOS UI Home"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:47 7c646ad65b33433c8fd88af549e4064f
+msgid "NFS"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:48
+#: ../../source/data_storage_transfer.rst:53
+#: ../../source/data_storage_transfer.rst:58 5738c7f6bbfe42c8b720909c341b9bff
+#: df20bcb85ffc477fb3e4f711c2534607 fe6945ebe0ce41e285579f2f273ca095
+msgid "Direct Access"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:49 3eaa6b4118e4405b823bb3869ea87d7d
+msgid "Space for the home directories of DiCOS users"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:50 2020cb77a7344195bbca2b086e4cfa83
+msgid "No"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:51 af1b9eb40e3d4a478350749335c1aa7a
+msgid "User working directory"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:52
+#: ../../source/data_storage_transfer.rst:57 5d9e8f1a65ec42229beac9994a541711
+#: d8973468037a40b8851031eca38b90ba
+msgid "Ceph"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:54 06cbef935a394836a905a7492c1232b2
+msgid "Space for the working directories of DiCOS users"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:55
+#: ../../source/data_storage_transfer.rst:60
+#: ../../source/data_storage_transfer.rst:65
+#: ../../source/data_storage_transfer.rst:70
+#: ../../source/data_storage_transfer.rst:75 2e7b96f0d8ff46619820e863646ea443
+#: 64c1fbf1415f470b83a0c70407ba042b aaf2388ccbce4563932d38acba698b01
+#: c02262f5221e4de58a188b225be33f95 d62d66fb36604b4386e77b2b590d92a2
+msgid "Yes"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:56 4495dbcf5c124b5ab8366b7279da5468
+msgid "Group working directory"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:59 57aa241cc8414b0c9893b98e693119de
+msgid "Space for the working directories of DiCOS groups"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:61 6cac46d60a58449a90a54bca610bf17d
+msgid "DiCOS job output space"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:62
+#: ../../source/data_storage_transfer.rst:72 4823d3f3486a4e64ad6b7c6b5d2c2844
+#: 484c3e79c94247fc8d3b4b84cf8b9e0b
+msgid "EOS"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:63 9c4a1f31b77d41e994d085a11536918c
+msgid "Download: ``dicos job getoutput`` or manage: ``dicos ddm``"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:64 79bf9c39b1ac446eb3784f73ea2b4895
+msgid "Space for the job outputs from ``dicos job submit``"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:66 bafda931c5044d10a58263e098808ba1
+msgid "Software Repository"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:67 b42b2f88c4c64be7ab31fca642976593
+msgid "CVMFS"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:68 cff5b39ef9924f098a5ae7409ebe10f0
+msgid "Direct Access, **readonly**"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:69 472e97680ed74746adb4eaac0815d51d
+msgid "Software repository assessible for UIs and worker nodes"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:71 b43d98d969e047d1a120a5810e3fcfe3
+msgid "DiCOSBOX"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:73 13320e9c1d1b48fca2b0b04b10d781fc
+msgid "UI: symbolic link; Web: user interface"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:74 bd8c948124b447b38106971e392dcfb2
+msgid "Easy-to-use user spaces for file storage and sharing"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:79 ba700394e877419cbf0d3bb989f33b21
+msgid "File Output (EOS)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:81 0ea5bc48483744aeb71bdc772ef18936
+msgid ""
+"An EOS file system in ASGC is used as the output staging area for the "
+"jobs from ``dicos job submit``. With the DiCOS command line tools, the "
+"staging area is transparent to users. The EOS filesystem was adopted "
+"because the ``dicos job submit`` is originated from the grid system. EOS "
+"is capable for the authentication and authroization for a grid users with"
+" the grid security infrastructure (GSI). Basically, general users could "
+"skip this session."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:85 805b5edefd514affbfa55d43c3cfe496
+msgid "`EOS <https://eos-web.web.cern.ch/eos-web/>`_"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:89 2a4361258eff40c6a5c82a4230c8a8f5
+msgid "Cloud Storage (Ceph)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:91 f362dadab7d24aa38a2b249a7c2280a1
+msgid ""
+"Ceph pool in DiCOS system plays an important role. In general, ceph "
+"provides capability with more intensive I/O operations and loading "
+"sharing with multiple machines. Therefore, DiCOS users are encouraged to "
+"use the ceph storage for the data I/O and storage."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:95 597154e76554490fb6c4ec22ec777ace
+msgid "`Ceph <https://docs.ceph.com/>`_"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:99 e8991e45d2b34ebf9dd05c3a894cf2ab
+msgid "CernVM-FS (CVMFS)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:101 e7fd8450d4dc46e782f515f6302b3cc3
+msgid ""
+"**CVMFS** is represented for the **CernVM-FS**. It's originally used in "
+"the grid computing, and try to deliver the updated software for the "
+"computation. The file system is read-only, so it is very suitable for the"
+" software delivery. In DiCOS system, CVMFS file system is for the "
+"software repository for users, and mounted in ``/cvmfs``. The ``modules``"
+" environment in slurm system help user to setup the environment for "
+"specifically software, and the software is located in CVMFS."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:105 53b32696b9d845618469999ec0fd9461
+msgid "`CernVM-FS <https://cernvm.cern.ch/fs/>`_"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:109 ae7c70159b9e4d2b82ea67a30a0bea7b
+msgid "DiCOSBox"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:111 d2d8b700e2b74802b3605a7831ca7f73
+msgid ""
+"`DiCOSBox <https://dicosbox.twgrid.org/>`_ is derived from `CERNBox "
+"<https://swan.docs.cern.ch/intro/cernbox/>`_, which is a `Dropbox™ "
+"<https://www.dropbox.com>`_-like cloud storage system. DiCOS users could "
+"use DiCOSBox to share data/files to the collaborators seamlessly through "
+"the sharing web URL. There are two ways to access your DiCOSBox."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:114 4f3010a9e437445cba46ea96d72630de
+msgid "1. Web Interface"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:116 d681d4e2f97148838a0381d9c91806bc
+msgid ""
+"You could use https://dicosbox.twgrid.org/ to manipulate your files in "
+"DiCOSBox, and share files."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:119 b1899ecb5c634ceb81b1e9c4c9743823
+msgid "2. Command Line User Interface"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:121 efc32388678d494388e63089c31374c6
+msgid ""
+"You could login in one of the following UIs: dicos-"
+"ui02.grid.sinica.edu.tw, dicos-ui04.grid.sinica.edu.tw, dicos-"
+"ui05.grid.sinica.edu.tw, dicos-ui06.grid.sinica.edu.tw. A symbolic link "
+"``DiCOSBox`` in your home directory. You can simply access the DiCOSBox "
+"with Linux commands, like:"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:129 58d2a1c9b5a849119ed4edfa0916cd6c
+msgid "Currently, for each DiCOS user, the quota limit is 2GB."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:133 8c9a58e2e689494c972c68d4da868ed8
+msgid "`DiCOSBox <https://dicosbox.twgrid.org/>`_"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:137 d678f00dc13448ab82f9d4265c397b7e
+msgid "Transfer Data from/to DiCOS"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:141 1df1ae4d1b204b2db9a58ffa251eedac
+msgid "scp (command line)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:143 ef821a158df14e1091d84253664118ea
+msgid ""
+"If your are Linux or Mac users, just simply open a terminal with command "
+"line interface and use ``scp`` to copy the files/directories between the "
+"DiCOS UI and your computer. For users using newer Windows™ system, you "
+"could use `WSL2 <https://docs.microsoft.com/en-us/windows/wsl/install>` "
+"to open a terminal."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:145 4e905f716cd0425b89f22a160ca0eba9
+msgid "For example:"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:157 8da5b733130548dc92c6d49043e24f54
+msgid "FileZilla™ (Windows™/MacOS™/Linux)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:159 1b0cdea7e0a24290861c28faabe18179
+msgid ""
+"`FileZilla™ <https://filezilla-project.org/>`_ have file manager like UI."
+" Connect to our UI with your DiCOS account, and the left panel will show "
+"the files in the UI, then you could go ahead with the download/upload "
+"operations."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:163 d19300a320574ab984f83285e0c33242
+msgid "`FileZilla™ <https://filezilla-project.org/>`_"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:167 c2b9ec8951bb42fe86a188393d87b5ed
+msgid "MobaXterm™ (Windows™)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:169 51f48324e3854b088f3579353961c8b8
+msgid ""
+"`MobaXterm™ <https://mobaxterm.mobatek.net/>`_ has a built-in function "
+"for SFTP. Connect to our UI with your DiCOS account, and the left panel "
+"will show the files in the UI, then you could go ahead with the "
+"download/upload operations."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:173 92565026579749fe8103cfc8f4307bb3
+msgid "`MobaXterm™ <https://mobaxterm.mobatek.net/>`_"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:177 1ff6026981b04051834f13d603a110fc
+msgid "WinSCP™ (Windows™)"
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:179 2eba4cb93bc0451e8f28f529ae210041
+msgid ""
+"`WinSCP™ <https://winscp.net/eng/index.php>`_ have file manager like UI. "
+"You could install one of them and login with SFTP/SCP protocol to our "
+"user interface, then you could drag to copy your files/directories "
+"between the UI and your computer."
+msgstr ""
+
+#: ../../source/data_storage_transfer.rst:183 5b9c345119ab4bebba5454fb7d2d0524
+msgid "`WinSCP™ <https://winscp.net/eng/index.php>`_"
+msgstr ""
+

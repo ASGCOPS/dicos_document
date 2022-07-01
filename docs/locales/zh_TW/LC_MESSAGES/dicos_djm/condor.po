@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/condor.rst:3 ce99dff80cb1421c80825164ff56cf43
+msgid "Condor"
+msgstr ""
+
+#: ../../source/dicos_djm/condor.rst:6 7b032da138da4c2896724f4c2984123f
+msgid "Condor Queues (FDR5)"
+msgstr ""
+
+#: ../../source/dicos_djm/condor.rst:8 2fc1f7c6b53d497a9196d56ee6011964
+msgid ":doc:`Login<condor/condorui>`"
+msgstr ""
+
+#: ../../source/dicos_djm/condor.rst:9 3dcec0a16d854aacb34b243e94e933c2
+msgid ":doc:`Resources & Specifications<condor/FDR5_intro>`"
+msgstr ""
+
+#: ../../source/dicos_djm/condor.rst:12 ae59f12a909849da870758a281eed48e
+msgid "Condor Tutorials"
+msgstr ""
+
+#: ../../source/dicos_djm/condor.rst:14 e00a8ba229044f379c54287c6a83f744
+msgid ":doc:`Tutorial<condor/condor_docs>`"
+msgstr ""
+

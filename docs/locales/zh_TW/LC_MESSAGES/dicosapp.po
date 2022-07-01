@@ -1,0 +1,335 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicosapp.rst:3 515edc19362044db9a9e0542b97868d9
+msgid "DiCOSApps"
+msgstr ""
+
+#: ../../source/dicosapp.rst:9 6ab3c3dcec814736941c33b3e392cc0b
+msgid "DiCOSApp Introduction"
+msgstr ""
+
+#: ../../source/dicosapp.rst:11 8ed779bac2bf42ec907606a45ec9b91d
+msgid ""
+"DiCOSApp is web based micro-service that handles different application "
+"individually. Here is the document to introduce its SPEC for each APP."
+msgstr ""
+
+#: ../../source/dicosapp.rst:15 0be1007eafac4957ba4cef0d51e86189
+msgid "Use DiCOSApp"
+msgstr ""
+
+#: ../../source/dicosapp.rst:17 7e36ce09beba4fb593cbc817e41f219e
+msgid ""
+"Login in to `DiCOS web <https://dicos.grid.sinica.edu.tw>`_ and then go "
+"to https://dicos.grid.sinica.edu.tw/dockerapps/ to start using DiCOSApps."
+" The remaining resources are displayed for each DiCOSApp. Like the image "
+"below, click ``launch`` button (and choose proper lifetime of the "
+"application if applicable), and then start to use the application."
+msgstr ""
+
+#: ../../source/dicosapp.rst:23 7bb7410a52ee4b64a26926c7616c5a0e
+msgid "CryoEM Specific APPs"
+msgstr ""
+
+#: ../../source/dicosapp.rst:25 80d0497602bb44dd9b8828a02b043912
+msgid "CryoEM specific APPs"
+msgstr ""
+
+#: ../../source/dicosapp.rst:28 ../../source/dicosapp.rst:66
+#: 0cbf81107c8d4946add1997c3f8d073e 98a0aeb0473f412892737fae98038eb7
+msgid "APP name"
+msgstr ""
+
+#: ../../source/dicosapp.rst:29 a4705f3b685747fd973ec9802e6f5cf2
+msgid "CPU cores"
+msgstr ""
+
+#: ../../source/dicosapp.rst:30 ../../source/dicosapp.rst:68
+#: 32a7f836826145e7a736b4aa30bbcc44 8b0c542bbc3e4f62bbe53af39d44b924
+msgid "GPU"
+msgstr ""
+
+#: ../../source/dicosapp.rst:31 ../../source/dicosapp.rst:69
+#: d743be6ab9ee465db3a9557cefb6b3a4 deae68ff3a4e491caf68611ebe480cbe
+msgid "Memory"
+msgstr ""
+
+#: ../../source/dicosapp.rst:32 ../../source/dicosapp.rst:70
+#: 4f5ef9806a5d42e1b5047e7d845c6361 505bd7a393dc4dd7b858be4a0d25a2ed
+msgid "SSD"
+msgstr ""
+
+#: ../../source/dicosapp.rst:33 d631f736ba1444cfb8807e69ccf3f5dc
+msgid "CisTEM"
+msgstr ""
+
+#: ../../source/dicosapp.rst:34 a4c2a9865f384f7f880d36e45f5209f5
+msgid "32"
+msgstr ""
+
+#: ../../source/dicosapp.rst:35 ../../source/dicosapp.rst:50
+#: ../../source/dicosapp.rst:73 478b0688da524d88b84246fee84eda52
+#: dadfd5b6cdd84aa79ae14a88ca924fe4 e2407ef3b8804705ae46ef109813225d
+msgid "0"
+msgstr ""
+
+#: ../../source/dicosapp.rst:36 9235eedf99094e539ff1f59c76947a04
+msgid "100GB"
+msgstr ""
+
+#: ../../source/dicosapp.rst:37 ../../source/dicosapp.rst:52
+#: a4c3652a0e1d4ec986cf03799b87b162 ffd351b8c64042b791093366177d1609
+msgid "no"
+msgstr ""
+
+#: ../../source/dicosapp.rst:38 509d43328c4c4f828d05ccea3d095ae7
+msgid "RELION3"
+msgstr ""
+
+#: ../../source/dicosapp.rst:39 ../../source/dicosapp.rst:44
+#: ../../source/dicosapp.rst:54 34c73397d0814e1c9b8c39861cc8e286
+#: 78556a05972d43c9a95ad3e0d6d0e570 ae1a60208bbe4aadb9d9edd3b96c22a3
+msgid "16"
+msgstr ""
+
+#: ../../source/dicosapp.rst:40 ../../source/dicosapp.rst:45
+#: 04c5fb271e9f401897465a4c8f9bb679 086adcf2680c49ba884fab54da2803a8
+msgid "4 (1080Ti)"
+msgstr ""
+
+#: ../../source/dicosapp.rst:41 ../../source/dicosapp.rst:46
+#: ../../source/dicosapp.rst:56 2156800fdff548528b78a3f7ef6288aa
+#: 8022970c22e94e3d9bdd9bb6bc16151e d3688141283b4487af9b580827ed6805
+msgid "380GB"
+msgstr ""
+
+#: ../../source/dicosapp.rst:42 ../../source/dicosapp.rst:47
+#: ../../source/dicosapp.rst:57 ../../source/dicosapp.rst:75
+#: ../../source/dicosapp.rst:80 027c1996ae5d4c8d862d64c53dee224d
+#: 3b4fdf998df142d680249c33f0fc95af 6db37a8d28c84c27aa652449595b3aef
+#: 9494392877424112bac28d0491a28cf0 ea8c8d600fd84426a3ad2e94e8b1b137
+msgid "yes"
+msgstr ""
+
+#: ../../source/dicosapp.rst:43 d06bc43bc8124949ab81498307f43c2a
+msgid "RELION2"
+msgstr ""
+
+#: ../../source/dicosapp.rst:48 0a0085b09ffe42c08ce6e14b58906087
+msgid "CisTEM-cluster"
+msgstr ""
+
+#: ../../source/dicosapp.rst:49 c0983f702378425db7a7642b9702cf1a
+msgid "40 per job, max to 600"
+msgstr ""
+
+#: ../../source/dicosapp.rst:51 7c9b07e5b5c548bbbc8831fbad4f0491
+msgid "256GB ~ 3840GB"
+msgstr ""
+
+#: ../../source/dicosapp.rst:53 042bb43359454eed85f94dfd8a0c2fab
+msgid "CryoSPARC(*no longer up2date*)"
+msgstr ""
+
+#: ../../source/dicosapp.rst:55 e34a8040ada64035a802758fa45e7b0d
+msgid "1 (1080Ti)"
+msgstr ""
+
+#: ../../source/dicosapp.rst:61 ../../source/dicosapp.rst:63
+#: 8f2bda59925d47b7b324e062bccf7de3 bb93acdd7dea4f63bd5cda23001e00ce
+msgid "Jupyter Notebooks"
+msgstr ""
+
+#: ../../source/dicosapp.rst:67 4e6f0202581c4bbd8cbf0bafee24f678
+msgid "CPU coures"
+msgstr ""
+
+#: ../../source/dicosapp.rst:71 1d1868828a69423ab9d185752e45c93a
+msgid "JupyterLab(CPU)"
+msgstr ""
+
+#: ../../source/dicosapp.rst:72 ../../source/dicosapp.rst:77
+#: 73c1442b63424b92b4014f80faed1fc3 9179131d7fc04744892c55f6dc4bb529
+msgid "12"
+msgstr ""
+
+#: ../../source/dicosapp.rst:74 322136292c7f42f3a8b8b8b9cc20c828
+msgid "64GB"
+msgstr ""
+
+#: ../../source/dicosapp.rst:76 55c768f22fb24f2b9adc04669b31c2c5
+msgid "JupyterLab(GPU)"
+msgstr ""
+
+#: ../../source/dicosapp.rst:78 abb5edfdea094d038bc0e5ebfc449c16
+msgid "1 (P100)"
+msgstr ""
+
+#: ../../source/dicosapp.rst:79 d101c4d7961e47feb8a079ffd9750560
+msgid "128GB"
+msgstr ""
+
+#: ../../source/dicosapp.rst:84 988e8120ca2348429f4f4dd0ad699ee8
+msgid "RELION Job Configuration"
+msgstr ""
+
+#: ../../source/dicosapp.rst:87 3b3ebbe648eb4925869041ed359a5a51
+msgid "What's the ideal MPI number and thread number with current RELION APP?"
+msgstr ""
+
+#: ../../source/dicosapp.rst:89 b1f1d174d40b408ca4906e4665a0a584
+msgid ""
+"*4 MPI* with *4 threads*. If it's GPU accelerated process, please use *5 "
+"MPI* with *4 threads*"
+msgstr ""
+
+#: ../../source/dicosapp.rst:92 70ecbfc8650f42fa809e9b918af76c7d
+msgid ""
+"What's the ideal MPI number and thread number with Premium RELION v100 "
+"app?"
+msgstr ""
+
+#: ../../source/dicosapp.rst:94 7c092e3d78da48d3af51a21098469c3a
+msgid ""
+"The v100 GPU is relatively powerful GPU against GTX-1080Ti. So, it can "
+"bear much load than 1080ti. In principle, with following job setup, user "
+"can get pretty nice speed up when dealing 2D and 3D classifications:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:96 a3d13e17292d4ba0a3dc38e1cd22488a
+msgid "*2D*: Number of *MPI procs: 16*, Number of *Threads: 1*"
+msgstr ""
+
+#: ../../source/dicosapp.rst:97 f26d8d181c4940cb84f872b67590456e
+msgid "*3D*: Number of *MPI procs: 9*, Number of *Threads: 2*"
+msgstr ""
+
+#: ../../source/dicosapp.rst:100 a2ba70916a8242618e23d92f0724feba
+msgid "What if RELION encounters error?"
+msgstr ""
+
+#: ../../source/dicosapp.rst:102 1f0dfd401850413f84a3f678b6449445
+msgid "RELION is often stable. When error occurs, it would usually caused by:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:104 997ef7df98db49ad8332053003b1624c
+msgid ""
+"Memory or resources are not enough. For such error, simply reducing "
+"Thread number would just help. If the error lasts, then try reducing MPI "
+"number."
+msgstr ""
+
+#: ../../source/dicosapp.rst:105 662297a343274b03bdbaa2535e080ef7
+msgid ""
+"Input file error. Checking log and removing problematic file indicated in"
+" log may just solve this issue."
+msgstr ""
+
+#: ../../source/dicosapp.rst:110 b8eab7398a924519bd1d1d20ef38ac0f
+msgid "DiCOSApp Data Handling"
+msgstr ""
+
+#: ../../source/dicosapp.rst:112 1151712f266a4311875dd8ff5589e1d0
+msgid ""
+"The DiCOSApp is ephemeral and isolated application, everything changed or"
+" created in APP will be wiped out after the APP is terminated. However, "
+"there are three persistent spaces, everything storing there will be kept:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:116 bac810ec4f464a0ca471f628d4d3e438
+msgid "The CryoEM data from ASCEM to ASGC will be stored at ``/cryoEM/tmp``"
+msgstr ""
+
+#: ../../source/dicosapp.rst:120 82571bb0cdd94b3aa216039317c1108e
+msgid "1. User HOME space"
+msgstr ""
+
+#: ../../source/dicosapp.rst:122 be2f667e740e49018e29c7dacdf1b8e4
+msgid "The user home space is connected inside the APP by following paths:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:130 1da0b7ed6b484c94a895f9e5a676e112
+msgid ""
+"**Please note, the user home space doesn't guarantee any data protection "
+"or space for every user. So, please be careful what you store on it. And "
+"please make backup by yourself, if you will only use home space.**"
+msgstr ""
+
+#: ../../source/dicosapp.rst:132 e9cf4a7046dd493aaa468430487396cd
+msgid ""
+"All data in user home space can be also accessible from outside APP by "
+"sftp (using `filezilla <https://filezilla-project.org/download.php>`_ or "
+"sftp client) with following endpoints:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:141 cd4a3f04ca894f41ab650f1a436296c8
+msgid "2. DiCOSBOX(Cloud storage) space"
+msgstr ""
+
+#: ../../source/dicosapp.rst:143 4e680e710dca47d88f8087fc529ff1d8
+msgid ""
+"DiCOSBOX is Dropbox-like storage, it is also connected inside the APP by "
+"following path:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:151 e16fdac93fdf4133a292272af04a4cbf
+msgid ""
+"DiCOSBOX can be also accessible from outside APP by login to following "
+"page:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:153 823ef3a023c941a7b71bce2ae4bf9683
+msgid "https://dicosbox.twgrid.org"
+msgstr ""
+
+#: ../../source/dicosapp.rst:157 34b3c86010634fa9b186b740c92922bf
+msgid "3. CryoEM group space (CryoEM user only)"
+msgstr ""
+
+#: ../../source/dicosapp.rst:159 acfbf1cd59334fdcbc50142bce8d44c0
+msgid "CryoEM group space is for CryoEM user only, which must be requested by PI."
+msgstr ""
+
+#: ../../source/dicosapp.rst:160 9baa6c7aa0f44f86a6a4f163cfaac60e
+msgid "CryoEM group space is connected inside the APP by following path:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:166 0c75d999ec9049689019c61ec5be2676
+msgid ""
+"All data in CryoEM group space can be also accessible from outside APP by"
+" sftp( using `filezilla <https://filezilla-project.org/download.php>`_ or"
+" sftp client) with following endpoints:"
+msgstr ""
+
+#: ../../source/dicosapp.rst:173 2ab3832ebf3340afb1bd4e013ab5a38e
+msgid "The path is also ``/cryoEM/``"
+msgstr ""
+
+#: ../../source/dicosapp.rst:178 3461af3f7a8d44d8a06fe1288f85c830
+msgid "Request for Specific Application Installation"
+msgstr ""
+
+#: ../../source/dicosapp.rst:180 423f038ed6de40978db00595690726cc
+msgid ""
+"If you have special requirement for the application installation, please "
+"contact to DiCOS-Support@twgrid.org."
+msgstr ""
+

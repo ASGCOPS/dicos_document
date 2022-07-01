@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:2
+#: ff20dba3184341819f16109554aebccc
+msgid "Apply for a DiCOS Account"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:-1
+#: 4b2f4ba788254e07bc6694e795d5379f
+msgid "DiCOS Account Flowchart"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:9
+#: ab3d72177a7340d2b16ba0fa14285204
+msgid "Step 1: DiCOS Account Application"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:11
+#: cdfae7b208974d009735919535bc031b
+msgid ""
+"`Apply DiCOS Account "
+"<http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:15
+#: 4fa99821f647463c9840a90660cd71a8
+msgid "DiCOS Account Application"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:18
+#: 3be4b5da5dc24eb1bcf15baf78870d94
+msgid "Method"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:19
+#: 418fbb52d5be454799b47ec45891be03
+msgid "Applicant"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:20
+#: 207050d077ce4ec992d51b81454f402f
+msgid "Create New DiCOS account"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:21
+#: e9d8bd107bc14eb98eb907f16d2fdfe4
+msgid "Normal Users"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:22
+#: 3acb77b4838e47dc8c85cc886ee3f0a2
+msgid "Sign up with Academia Sincia SSO"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:23
+#: 6b342821a3c54e768638117909db3bf3
+msgid "If you are Academia Sinica users with SSO access"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:27
+#: 3e6d421f96cc4375a26b270bf63469a6
+msgid "Step 2: Personal information"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:29
+#: a84aaf6545154b6d9394091a08e15f2e
+msgid "Fill in your personal information,"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:30
+#: c05725a2cd46407489430c6dcd270351
+msgid "Select your research group. (Your PI will approve your application.)"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:31
+#: e6352529a0c0424b95679bab9fd89a3d
+msgid "Setup account / password in DiCOS"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:36
+#: 4d65f914558744c282973d1c5bcd325b
+msgid "Step 3: Confirm your email"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:38
+#: 9e9426e8188d4dd4bca8ecf0df96ee0b
+msgid ""
+"Check your mailbox and find our confirmation email(see format as below). "
+"Verify by clicking the url."
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:43
+#: 2f29cb47b47f449bb9ec08d2cc1be13a
+msgid "Step 4: PI's approval"
+msgstr ""
+
+#: ../../source/.bk/dicos_account/apply_a_dicos_account.rst:45
+#: 30913d22c9124006ad9b60b022367753
+msgid ""
+"Wait for your PI to approve the application. You will get a notification "
+"email when it's approved."
+msgstr ""
+

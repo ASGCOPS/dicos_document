@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/dicos_environment/hardware.rst:2
+#: 6329f4e13ef44539b3cdcd18d48bc2a5
+msgid "Hardware"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/hardware.rst:6
+#: dd6036c1505c412f9c39aaca83a0a7d5
+msgid "Specifications of DiCOS Clusters & GPU resources"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/hardware.rst:12
+#: 8eab211f6e5e43fa84ff5e37e66fdfb5
+msgid "DiCOS Overview"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/hardware.rst:14
+#: b7240d3ffbad4fa7a4840f89c6ba1d78
+msgid ""
+"DiCOS provides 3 Workload Management Systems. Users can access DiCOS "
+"computing resources via these different WMS. Computing resources and the "
+"corresponding WMS are shown in the following figures"
+msgstr ""
+

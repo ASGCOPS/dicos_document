@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:2
+#: 4a0cc887ecb44da98106a2d0087de860
+msgid "CryoEM Priority User Guide"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:4
+#: cd88015a2c0f4184b65345e8db706fc6
+msgid ""
+"What's different between Priority user queue (PQ) and generic user queue "
+"(GQ)?"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:6
+#: 84b2214fff804dd883e585424ccef698
+msgid ""
+"PQ users have dedicated CPU cluster resource, which allows user to do "
+"more CPU intensive computing."
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:8
+#: 40678f9f6ca24ff0b58676f83608f251
+msgid "How to use such PQ cluster resource?"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:10
+#: 3331b694e6a248d39bd619c36a681010
+msgid ""
+"If user is in priority user list, user will see specific PQ app to launch"
+" in DiCOSApp list."
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:11
+#: ef56844116ac4161b0c3188b87adb564
+msgid ""
+"However, PQ APP uses slurm as cluster resource manager, so, user must do "
+"a bit configuration for cisTEM as mentioned at 3)."
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:13
+#: 76748668b70f4f2abcac7b7eb61cb95c
+msgid "How to configure PQ cisTEM."
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:15
+#: ee4f6145b05a44a0ab4623d007ed09a2
+msgid "Leave \"Manager Command\" as what it is."
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:16
+#: 21b5b1af24814e2790b02adfa4f3aa8d
+msgid ""
+"There is provisioned job script, just need to modify the **Command** "
+"option for each run profile to look like:"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:17
+#: 5823fb4ba7dc4d599a55d9601f4ced2e
+msgid "sbatch /opt/hpc_soft/cryoEM/job.sh $command"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:18
+#: c3d629cf6edc410e97ff089dec49b5c1
+msgid ""
+"Please adjust number of copies accordingly to your jobs scale. -The "
+"maximum copies(core numbers) will be 60 per user."
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:21
+#: eedd2c5a6b44473d8544425c1e023d92
+msgid "The screenshot below is what it will look like:"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:26
+#: f34eb40df30449238b8d440602e0e7e9
+msgid "cisTEM command configuration"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:31
+#: e9bde1328dd145189b9d39210e3d7f1d
+msgid "Completed cisTEM command configuration"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:33
+#: d3c504f2ed4f410ebe0b8d66df15783a
+msgid ""
+"Since PQ cluster is isolated resource, so, we need to copy data into "
+"cluster storage. The cluster storage is mounted at:"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:39
+#: 256f478696454a96aed97437e4178dac
+msgid "User can only access their group directory at ``/cluster_storage``"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:40
+#: bfe4e7ed62eb48fabe3cb5c1094228d3
+msgid ""
+"Please also be aware, the cluster_storage is not meant for long term "
+"storage, so, please remember to copy your output back to your $HOME/data "
+"or /cryoem_user/scratch/data/ **"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:42
+#: e5dcdbd82b12411e8abc18cb678c0564
+msgid ""
+"Please note that, cisTEM user project must be created under "
+"/cluster_storage/ as well."
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:43
+#: 2da510b51aa743bc8e218529239b689a
+msgid "How to configure RELION for PQ?"
+msgstr ""
+
+#: ../../source/.bk/other/cryoem_priority_user_guide.rst:45
+#: 24a1d2ecb48e45969f3de4abb83c0593
+msgid ""
+"RELIOM is pre-configured to use sbatch by default, so, user doesn't have "
+"to do any thing."
+msgstr ""
+

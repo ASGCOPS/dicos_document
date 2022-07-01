@@ -1,0 +1,369 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:2 55fde998c2ee4eabb452eb3828b6632a
+msgid "DiCOS Web UI"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:6 c56eb5e421cb47aa8cf1cfdb1b20c0da
+msgid "About Certificates & VO to init proxy"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:8 7d7a775200ef4c4296b2f5ff42919308
+msgid "[Apply for certificate](wiki:/apply_for_certificate)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:9 35868627b9aa485f98d30333f3a9232b
+msgid "[Import certificate to browser](wiki:/import_certificate_to_browser)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:10
+#: 65395221dcfe40b68f08e08e3fb6fc5d
+msgid "[Join Virtual Organization](wiki:/join_virtial_organization)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:14
+#: 4aa8aab291c241caa5e9e36191b7805c
+msgid "Step 0. Login"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:16
+#: 436ea41bf28949c5b04ebf7db3eab51e
+msgid "Click the login button at top right."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:22
+#: 9b3fe260c2f8438f857fcdc326e271d6
+msgid "Step 1. Initiate Proxy"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:23
+#: 96e8b75ed77540e798d68bfc110b7d7e
+msgid ""
+"After logining, you have to import your `usercert.pem`, `userkey.pem`, "
+"and enter passphrase to initiate proxy. System will verify your identity,"
+" then help you to submit jobs."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:27
+#: abf914d77d2542e48460d9c70d99927b
+msgid "The index page of DiCOS"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:30
+#: 90d4ef4c4aa6475f997a09d188c42227
+msgid "Field Name"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:31
+#: 927242f377254c6d9965cfc91a227f8c
+msgid "Description"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:32
+#: c573fba80f154cafa9ac3439b25e4e04
+msgid "**Your Certificate**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:33
+#: bdf81ded9f154eda971d01621475b37d
+msgid "Select the ``usercert.pem`` file."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:34
+#: 59751cf28efa41348deb14b03c35c6a1
+msgid "**Your Private**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:35
+#: b49dcbed46504dd5856508baf5f2b52e
+msgid "Select the ``userkey.pem`` file."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:36
+#: 9599a45fc1024c95a34cad6aa61bc5e3
+msgid "**Passphrase**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:37
+#: 8f2c4502218f4de4ae1ec9b4524e195d
+msgid "The Certificate password."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:38
+#: 558d19ba79754095a82259218eb0d7c2
+msgid "**Lifetime**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:39
+#: 05c5be4798ed45e5b91d2de54db2b09c
+msgid ""
+"Available time after proxy initial, default time is 72 hours, maximum "
+"time: 168 hours, minimum time: 1 hour."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:44
+#: 210023c16aca4a9d9f424f632920c3b9
+msgid "##Step 1.1 First Initiate Proxy {#title1.1}"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:45
+#: a4533524c80c48ed980d9864266cb537
+msgid "First proxy initial, you need to setup some field of Profile page."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:51
+#: 4920757ace7f42df967726df855c9abf
+msgid "#Step 2. Upload File"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:53
+#: b2563ea2f7b7400ca9fce4d02cefa04b
+msgid ""
+"At Data Management page, upload your input files or binary files before "
+"job submission."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:66
+#: 44aeceea338e48ac8727ae7fed2708bc
+msgid "**Attention:**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:58
+#: de7686df519e4034bb226672fdb19159
+msgid "File name cannot be same"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:59
+#: 28d5c2e6aece4d85b95c3798f78b7676
+msgid "A Dataset is defined as a set of File"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:60
+#: c4c668f81a76463bbd8e2fc5ab38b829
+msgid "A Container is defined as a set of Dataset"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:61
+#: 67d7c910c66a4fe28a0919b4087fd5a7
+msgid "Dataset and Container can submit job in batch mode"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:62
+#: ac19ada04f2f416bbf29739d3fff9ac0
+msgid "Container include Container and Dataset, but Dataset only include File"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:63
+#: 5f4b7cdbded547bbb6d5002a25fec068
+msgid "Unlimited multi-layer(but only Container can repeat)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:64
+#: 338436178d8944518e8b39e67838575a
+msgid "Cannot change the name of Container, Dataset and File"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:65
+#: 4fe9802b0a90442694ea9eaa073244aa
+msgid "Only File can be removed"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:66
+#: a71b4c2de60e4d52b7d74ed265a7f907
+msgid ""
+"If you have several input files, you should compress them (tar) by "
+"yourself before submission, and write decompress command (tar –zxf "
+"filename) in your script."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:70
+#: c8625e6a702e4dc88c1090c820fcc0ce
+msgid "Step 3. Job Submission"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:74
+#: d53ad486bf604bb981652eadbf389cff
+msgid "The describe of parameters are as follow:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:76
+#: 9bd1cadf3ee2400593562781bf945ddd
+msgid ""
+"**Task Name:** Defined name for task. Note that task name cannot be the "
+"same."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:77
+#: c38a8c4ec2df4b5bad742c8708d892bd
+msgid "**Executable:** Executable files (binary or script)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:78
+#: 6cedb15dcb484377894444dab34646dc
+msgid ""
+"**User’s Library:** Function library used for executing task, can be left"
+" blank or select your input files."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:85
+#: c04594d195cd4f41bac914b442793b48
+msgid "**Input Dataset:** Choose input file, dataset or left blank."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:80
+#: 0bdad097a08f4b408086015b6dbf0d81
+msgid "If you left blank, can upload files up to 1000."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:81
+#: c46e3e321d4a4cd8b476036192dbbbf5
+msgid "Select file or dataset, system may calculate number of files, the limit is"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:87
+#: 97331b18ae36492682ff46626e2423a0
+msgid ""
+"**Output Dataset Name:** Dataset name for output after job finish. "
+"Default name is Task Name."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:88
+#: 54b21473caa3474d9363954c364ae4b6
+msgid ""
+"**Computing Site:** Select which site you want to submit. Default site is"
+" to select automatically the most free site to submit your job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:89
+#: 001d0842763a48cc847adeb2882fd618
+msgid "**Job Type:** Select your job type."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:90
+#: a19d55de09a547a596baca1429aa1bb4
+msgid "**Require Disk**  Set the disk required"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:91
+#: e71d975714e84d288f99dbabae8a58b1
+msgid "**Require Ram**  Set the Ram required"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:92
+#: f8c039dc9d304bab821f96a2331ccf53
+msgid ""
+"**Num of Jobs:** Resource used for the task. Single job submission is set"
+" to 1; Batch job submission will separate according to the number of "
+"input files."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:93
+#: 67bdfc7c734c40d09e549a7d8856471a
+msgid "**Maximum file per job:** Set the maximum input files for one job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:94
+#: 040a49fbefd44f6d8a848b4ed2c5da8d
+msgid ""
+"**Job Parameter:** Provides advanced option (please using blank between "
+"parameters)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:98
+#: 8d5ee7e5c96f42eeab966aa3b128f271
+msgid "Step 4. Job Monitoring"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:100
+#: 5400488724c64eba877d9af32f66dda4
+msgid ""
+"At Job Monitoring page, you can monitor job status and according time to "
+"search."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:106
+#: 2a131898f900453f98f8617663505076
+msgid "Step 5. Download File"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:108
+#: a1f824cd7a824b9da0a965d4c793636b
+msgid ""
+"Results can be downloaded at Data Management page or perform other "
+"operations when job is completed."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:113
+#: 17313e1ea46e4248805ece2a125570c5
+msgid ""
+"If you still confused, you can click [general example](wiki:/use_case) "
+"for more explanation."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:117
+#: ec5206b3d41d44d596860ef3f51fc371
+msgid "#Other Explanations:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:121
+#: 941222e318454b61b528c8203db16fad
+msgid "Scope"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:126
+#: 554436712b37442bb7f7cf6ff5bfe063
+msgid "To divide into two part"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:126
+#: bed2ba143fe74c30aea31a3e73dfec14
+msgid "User’s scope (for example: ``twgrid-user-mandy4318``)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:127
+#: 610356d53e674e439c942606415ffacf
+msgid "Shared scope"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:128
+#: a7ad1cf7dac14320a258792f89e941ce
+msgid "System only allow copy files in shared scope"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:129
+#: 3154437239644797b4addeb49499035a
+msgid ""
+"You can copy File to other Dataset or copy File from shared scope to "
+"Dataset of your user’s scope."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:130
+#: 2550c9d1c1a245779ef1357bbf4874f1
+msgid ""
+"You can copy Dataset to other Container or copy Dataset from shared scope"
+" to Container of your user’s scope."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos101.rst:134
+#: 0eacbc761ec84140b9fa640507a8b1a8
+msgid "Auto Correction"
+msgstr ""
+

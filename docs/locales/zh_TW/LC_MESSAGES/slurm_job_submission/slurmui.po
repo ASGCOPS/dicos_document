@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/slurm_job_submission/slurmui.rst:2
+#: dea814d48ecd4470bc239fe0711feacc
+msgid "Slurm User Interface"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:6
+#: 66f0c58a72664b79b430bddb8e2d05e0
+msgid "Slurm User Interface Node"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:8
+#: 200959a6a67946b0bbf8bf510a4dd4e1
+msgid "slurm-ui01.twgrid.org"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:9
+#: c873e9aa48ed47338d8b50a179820aa6
+msgid "slurm-ui02.twgrid.org"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:11
+#: eea3a0eaed8a4e9784efdb7242b89586
+msgid "SSH Login with your DiCOS account & password"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:19
+#: 24ce687d042d4a5784df5eb58bbd609f
+msgid "You should login successfully."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:23
+#: 846f84e63b204f90ac25ade35b06a2ba
+msgid "Documents"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:25
+#: ee0f57e06a6b46ad8c415936dadb898d
+msgid "User documents for SLURM are located in"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurmui.rst:31
+#: 0fb1bc8152a344d196c37487d5c0cdc1
+msgid ""
+"Create a working directory, assume it as mpi_work in your HOME directory."
+" Copy all the scripts from the following directory to start."
+msgstr ""
+

@@ -1,0 +1,380 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:2
+#: c062c8e802b9408881a0f7ffd9023a7e
+msgid "DiCOS CLI Tool Bridge"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:6
+#: 46c272a96c07445098ce83be0923597d
+msgid "Before using DiCOS CLI Tool"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:10
+#: 9743d0e7e6e1435da4cc5dfa75eb4dd2
+msgid "Preparation: Log in DiCOS command-line UI server"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:12
+#: 12bde44b35f04fe384c214420dbe938f
+msgid "SSH login one of dicos UI server with your DiCOS account and password."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:14
+#: d3bbf2f3db6f4f33aaf455fc7353049e
+msgid "dicos-ui05 & dicos-ui06.grid.sinica.edu.tw (CentOS7)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:24
+#: 47534fc1ccab406b846210a5379e14e3
+msgid "You should login successfully."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:28
+#: d52f7255ce5b489fba96a5d27946d8a9
+msgid "Quick Start Tutorial"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:30
+#: 1eb147860df4496aa94145177f68888a
+msgid "Here shows a simple example step by step to run job with DiCOS."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:32
+#: 97f099f5c7e84c83a5d386d7d1cf0adb
+msgid ""
+"Here is an example job, which will generate an output file "
+"*MyOutput.txt*, whose content is a string *Hello*. Please save the "
+"following content as a file and named it *PrintHello.sh*."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:40
+#: 0434f77d15af4112b2a5f9a525d99e3f
+msgid "Next, check your file is in your home directory, type ``ls``: to check."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:47
+#: 28333ab5a4c54b2792ad737b52d79445
+msgid "Now, we will start to submit a job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:53
+#: 24728baaab1546d3ab256af00de94894
+msgid ""
+"Command ``dicos`` is the only command to know. All command lines related "
+"to DiCOS begin with ``dicos``."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:54
+#: 6fc8351b663445928ea2a00084693278
+msgid ""
+"Command ``job`` is one subcommand of ``dicos``, which means **do some "
+"operation about job**."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:55
+#: 04876115f4994a5ea0af60f5c1fe964e
+msgid ""
+"Command ``submit`` is one subcommand of 'job', which means **to submit "
+"job(s)**."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:56
+#: eb7dd4c7941e44c69f33faf9fcf89ef8
+msgid ""
+"The option ``-i`` of ``submit`` is to specify input files of your job. "
+"Put your specified local file path after it."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:57
+#: 9cef0805e3d94bf6bb9f08f853d924d0
+msgid ""
+"The option ``-N`` of ``submit`` is to specify the name of this task (job "
+"or jobs) to submit."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:58
+#: 5f4ba05707ef4817b9be9da584f315f4
+msgid ""
+"The option ``-c`` of ``submit`` is to specify the command to execute. In "
+"this example, \"./PrintHello.sh\" means 'just execute PrintHello.sh'"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:60
+#: ac824631598c427783c67e0481e5e727
+msgid ""
+"After executing this command, you will get the JobID (aka PandaID) and "
+"TaskID (aka jobDefinitionID) of your job(s):"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:66
+#: 95d4c5c830d84f03a32b656c9abadca3
+msgid "Next, you can check job status via command."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:72
+#: 74a4657a20b649d78a8b98682981e186
+msgid "And you can see something like:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:81
+#: 150e410af327438a96dedba0ff4b2e2d
+msgid "Then, wait patiently until the job finishes :)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:83
+#: ed92d0178b644aca84b037628deb043b
+msgid "Now, check the job status again to make sure it is finished."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:93
+#: cbda71f40b374c5fad2bb8ca55e08f97
+msgid "If the job status has become **finished**, it is time to get the output!"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:99
+#: eb0b33e7060244458e1c326c8ef426b0
+msgid "In this example. <YourJobID> is **9999999**."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:105
+#: bce801c98b1546d690b1c95f373b1d2e
+msgid "And you will get a successful message."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:107
+#: 6d31d01d18584a5e804d8045f65d6f2b
+msgid "Got output of job 9999999 in ./DiCOS_job_9999999_NameOfJob_output"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:109
+#: f6643d9ac0ab435aa499f4dca6955727
+msgid "where shows the directory containing the outputs of your job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:111
+#: 357f12c85ef4411c8685a21f6f9fe70d
+msgid "Now, use ``ls`` command to check this directory ."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:118
+#: c9d78718abd8422180aacfcf22733691
+msgid "And you can check if the output file is as expected:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:125
+#: 470b39a263b9451b9904a27cab0d7333
+msgid "Bravo!"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:127
+#: 2c893508af1f4b0da80fe4f2f627926f
+msgid ""
+"The quick start tutorial ends here. For more details, see the description"
+" below."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:131
+#: 4e7984e328814c02a6db5f220ac1f36e
+msgid "How to use these dicos subcommands and options?"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:133
+#: a5db09d178a84ead9ae9f5b5df1de3d4
+msgid ""
+"You can use ``-h`` or ``--help`` after any command lines starting with "
+"``dicos`` to get the help message of the subcommands or options."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:135
+#: 96a4f767b67740fa9962e58221ad25a0
+msgid "For example, to see what subcommands of ``dicos`` are available:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:141
+#: a15c244a3a16428ea9851c660f71c1f8
+msgid "For example, to see what options of ``dicos job submit`` are available:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:149
+#: bb8cd46487b94feaac86c2cbc099b6ba
+msgid "More Tips about DiCOS Subcommands"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:153
+#: 20ae03056c7b401da7c3974b13589b64
+msgid "ping"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:155
+#: 72f19470329a4adabc01e60e9caf12ad
+msgid "Ping DiCOS server, check server status and connection."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:157
+#: 30cd4ac3136e41798d0b2dcf34fc3fcd
+msgid "[users@dicos-ui05 ~]$ dicos ping"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:161
+#: 5f308edae71e43f7a7f2890e3dc5e9d9
+msgid "job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:163
+#: 5f47f50d72844c3abdc6005cf4ecb63b
+msgid ""
+"Operations about jobs. See its subcommands description below, or use "
+"`--help` to see details of options."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:167
+#: 5903e779af744be0a56166660a2544df
+msgid "submit"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:169
+#: 2b705170462c4691a73f195d147cafe2
+msgid "Submit job(s) to DiCOS server."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:175
+#: 44e9ab053c8840b8b27c48af62e5d5ce
+msgid ""
+"Or you can prepare one file list contain file name which you want to "
+"submit to DiCOS server."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:181
+#: 883e5500448040568a3931b4f84ec157
+msgid "You can also use -A to submit jobs with different arguments."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:187
+#: e0937509fe3c48ebb3d078f887e41a74
+msgid "Specify the computing resource requirement of your job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:194
+#: 221b38d1e3df4705b3812752a6226301
+msgid "status"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:196
+#: 35da0114b88847329ee26d8e98e1daa4
+msgid ""
+"Check status of job. The default subcommand just shows jobs within 240 "
+"hours, and 15 jobs at most."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:202
+#: 53434f03267546e585244070680aa055
+msgid "Maybe You want to check a single job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:208
+#: c87d6e95a7ef4df5b18ac1a9c0aebaa9
+msgid ""
+"You can get job status display in long format, and sort these result with"
+" specified column."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:216
+#: 9da2140735bd451b9c2151b9277546f3
+msgid "Of course you can sort by reverse order."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:223
+#: 9ca9f7a558c34e56a0e97b70ff799184
+msgid ""
+"Now usable <ColumnTitle> are 'TaskID', 'PandaID', 'Name', 'Queue', "
+"'Creation_Time', 'End_Time', 'Status'."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:225
+#: 6c8544dbecee4386baccb444f098333d
+msgid "<ColumnTitle> can be found when you check display in long format."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:228
+#: 36489cc6da20416f8a98df888347635e
+msgid ""
+"In default display format, all jobs that have been resubmitted will not "
+"appear. If you need to check the information of all jobs, add `-al` "
+"option after command."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:238
+#: b09bbb1bf40c41c6ba7b16aa2e63eef6
+msgid ""
+"If you want to check jobs submitted more than 240 hours ago or display "
+"more jobs, you can do it:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:246
+#: 355b69d3933d4c8b9a0b9c0aa24e1bb5
+msgid ""
+"Also, it is able to get job status by specifying <TaskID> (instead of "
+"<JobID>)."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:253
+#: 82b0ef59f3bd4214b286a0ba437000c6
+msgid "cancel"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:255
+#: 923bfb122aad49079514757b305fce5e
+msgid "Cancel submitted job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:262
+#: cb0a23daad1f40078b3dab8ecd17efb5
+msgid "resubmit"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:264
+#: 6287311f4f514841b0540e961f470d97
+msgid "Resubmit submitted job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:271
+#: 2991cc3e375c449586213f7caf05fed0
+msgid "getoutput"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:273
+#: 5da27181b16d4894b70e408d9c075f71
+msgid "Get output files of submitted job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:279
+#: bcf1dc2bcea249e99292559d76a2f027
+msgid ""
+"Also, it is able to get output of all jobs in the same task by specifying"
+" <TaskID>."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool_bridge.rst:286
+#: b572bae46ee84633afacc6eb9b2293ec
+msgid "**Don't forget to use `-h` or `--help` for more information.**"
+msgstr ""
+

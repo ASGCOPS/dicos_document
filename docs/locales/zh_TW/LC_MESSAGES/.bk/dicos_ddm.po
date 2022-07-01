@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/dicos_ddm.rst:3 b7b75ec2dda146ccaf2baf2057ffd7cd
+msgid "DiCOS Data Management"
+msgstr ""
+
+#: ../../source/.bk/dicos_ddm.rst:7 3da559f271a9482cbf2029edefa0646c
+msgid "DiCOS DDM"
+msgstr ""
+
+#: ../../source/.bk/dicos_ddm.rst:9 d280d687f5074d9186c8ec207dee7d7d
+msgid ":doc:`Tutorial <dicos_ddm/dicos_ddm>`"
+msgstr ""
+
+#: ../../source/.bk/dicos_ddm.rst:13 19a3b449860d45a5bfbef4fc968724dd
+msgid "Cloud Storage (Ceph)"
+msgstr ""
+
+#: ../../source/.bk/dicos_ddm.rst:15 27a1ee36e619426a8a336e8b46f4227c
+msgid ":doc:`Tutorial <dicos_ddm/dicos_cloud_se>`"
+msgstr ""
+
+#: ../../source/.bk/dicos_ddm.rst:19 72766bbfdc564022becd5534b2fa2212
+msgid "DiCOSBox"
+msgstr ""
+
+#: ../../source/.bk/dicos_ddm.rst:21 e08355eabe944b3587a3d20607dcc4a8
+msgid ":doc:`Tutorial <dicos_ddm/dicosbox>`"
+msgstr ""
+

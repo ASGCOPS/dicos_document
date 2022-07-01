@@ -1,0 +1,467 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/dicos_environment/software.rst:2
+#: 13cb8fcdca8b40f7971fb93a663e7131
+msgid "Environment Software"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:6
+#: b7fd89ca2d9b4ec682441d4f039a8362
+msgid "VO：Twgrid"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:8
+#: ../../source/.bk/dicos_environment/software.rst:92
+#: ../../source/.bk/dicos_environment/software.rst:144
+#: ../../source/.bk/dicos_environment/software.rst:168
+#: ../../source/.bk/dicos_environment/software.rst:192
+#: 5fbf065d4e0142689dfbe67b817a2c4d a14b94a745e74eac96c9c7881d6ed790
+#: b52f186ac05c4c35a1836c028387fbe7 d2deb2bebaeb437ca622c8e9d9afb1ae
+#: eb0bc501cc9b463ab564627450def208
+msgid "Title"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:11
+#: ../../source/.bk/dicos_environment/software.rst:95
+#: ../../source/.bk/dicos_environment/software.rst:147
+#: ../../source/.bk/dicos_environment/software.rst:171
+#: ../../source/.bk/dicos_environment/software.rst:195
+#: 5607a7848dac4865835b1d635c981c21 a4d25786bc7b4d0f93464eb18cbbc5c3
+#: cbb95100d16747c5be8ae4d2ce4e3fdb f5b710dc05eb4c43aff008ddfc86604f
+#: fa7ddc95a5654fd98fb4ecb00e7f2784
+msgid "Computing Site Name"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:12
+#: ../../source/.bk/dicos_environment/software.rst:96
+#: ../../source/.bk/dicos_environment/software.rst:172
+#: ../../source/.bk/dicos_environment/software.rst:196
+#: 6fcdb1b3a8d2437b94279f0d2f99f54f a29f7d7a41dc45268201baae5f23316c
+#: c75454c2262f49389a4394282d2e55d0 ef2758287a9f436fbd18172e9d081283
+msgid "git version"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:13
+#: ../../source/.bk/dicos_environment/software.rst:149
+#: ../../source/.bk/dicos_environment/software.rst:173
+#: ../../source/.bk/dicos_environment/software.rst:197
+#: 16b2b9ef391045e1b2a288ae859c2185 2b55c1a1d75547f199f83a6be8195aa8
+#: 38c6db27223b49a3b7fdcbacf04767ed 8dc635575fd9433eafac2a19f84a22f9
+msgid "mpi version"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:14
+#: ../../source/.bk/dicos_environment/software.rst:98
+#: ../../source/.bk/dicos_environment/software.rst:150
+#: ../../source/.bk/dicos_environment/software.rst:174
+#: ../../source/.bk/dicos_environment/software.rst:198
+#: 13385652712c4b43a9687490d3159bba adfabdd8ab7843f79070cdc91d37dfcf
+#: bc4ea3cf54d84d0c954cb695b78701a6 d7e8b5b1c1a44b4c813b2210076433d0
+#: f0c4d13d288e49df936a22a616679b47
+msgid "gcc compiler"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:15
+#: 0908748ba12140a89183ec8a82a8ec3b
+msgid "ANALY_TAIWAN_TWGRID_HPC"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:16
+#: ../../source/.bk/dicos_environment/software.rst:20
+#: ../../source/.bk/dicos_environment/software.rst:24
+#: ../../source/.bk/dicos_environment/software.rst:28
+#: ../../source/.bk/dicos_environment/software.rst:32
+#: ../../source/.bk/dicos_environment/software.rst:36
+#: 14811f94e1f1417d802fc066a454418d 350dc24f397e45f59e7fcd958c966295
+#: 4813ec01bfa448079e177399a55f579d d436f5be1837473aada612196fb5bc61
+#: e661a11dafc54892ba4bf19638b93e05 f341e8577c8d4866a9d23bd233ac09b6
+msgid "1.8.2.1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:17
+#: ../../source/.bk/dicos_environment/software.rst:21
+#: ../../source/.bk/dicos_environment/software.rst:25
+#: ../../source/.bk/dicos_environment/software.rst:29
+#: ../../source/.bk/dicos_environment/software.rst:33
+#: ../../source/.bk/dicos_environment/software.rst:37
+#: ../../source/.bk/dicos_environment/software.rst:113
+#: 7981b6e4611a42f0bfdfa6c76b43312c 9ddfdae1fdc649c18ce0ce42b494afef
+#: af231bdab3d7471da8b434e67018c7c7 b5a157d7de394c9b9822832eef372002
+#: bdbe2cc4ffb146959a40b185fd6801fe eeb1d0e9bdc64073a337df4e9215ec40
+#: f3e43c06fadc4ee59003bb5964358d97
+msgid "mpich2-1.3.2, openmpi-1.4.3"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:18
+#: ../../source/.bk/dicos_environment/software.rst:22
+#: ../../source/.bk/dicos_environment/software.rst:26
+#: ../../source/.bk/dicos_environment/software.rst:30
+#: ../../source/.bk/dicos_environment/software.rst:34
+#: ../../source/.bk/dicos_environment/software.rst:38
+#: 2149fe3576014291b0d1f40b1756e18d 503d359474504f55bb7be5038f2fea75
+#: 570f469ffb6d4eecb008c5a4a973d445 70356e7b24af419a99ba420d8f38dc41
+#: 8bc9f04758a743b0a9109fcb629bcc78 969e1a2df6674938b03131cda542dd0c
+msgid "gcc version 4.1.2"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:19
+#: ab66c317c4944f93a1b7d52ae24efb1e
+msgid "ANALY_TAIWAN_TWGRID_HPC_FDR1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:23
+#: b54aef21a1124b7da259d972453a0c89
+msgid "ANALY_TAIWAN_TWGRID_HPC_FDR2"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:27
+#: 2565105f411148ad8b7a48c7d5ac1178
+msgid "ANALY_TAIWAN_TWGRID_HPC_FDR4"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:31
+#: b75c8202fbb445fd85d90eb8052da09c
+msgid "ANALY_TAIWAN_TWGRID_HPC_MCORE"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:35
+#: e595e3bde0674756a2649da07307d2d3
+msgid "ANALY_TAIWAN_TWGRID_HPC_MPI256"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:39
+#: a0a103cb142c4f0794c9394493b8446c
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:40
+#: ../../source/.bk/dicos_environment/software.rst:44
+#: ../../source/.bk/dicos_environment/software.rst:48
+#: ../../source/.bk/dicos_environment/software.rst:52
+#: ../../source/.bk/dicos_environment/software.rst:56
+#: ../../source/.bk/dicos_environment/software.rst:60
+#: ../../source/.bk/dicos_environment/software.rst:64
+#: ../../source/.bk/dicos_environment/software.rst:68
+#: ../../source/.bk/dicos_environment/software.rst:72
+#: ../../source/.bk/dicos_environment/software.rst:76
+#: ../../source/.bk/dicos_environment/software.rst:80
+#: ../../source/.bk/dicos_environment/software.rst:84
+#: ../../source/.bk/dicos_environment/software.rst:116
+#: ../../source/.bk/dicos_environment/software.rst:120
+#: ../../source/.bk/dicos_environment/software.rst:124
+#: ../../source/.bk/dicos_environment/software.rst:128
+#: ../../source/.bk/dicos_environment/software.rst:132
+#: ../../source/.bk/dicos_environment/software.rst:136
+#: ../../source/.bk/dicos_environment/software.rst:152
+#: ../../source/.bk/dicos_environment/software.rst:156
+#: ../../source/.bk/dicos_environment/software.rst:160
+#: ../../source/.bk/dicos_environment/software.rst:182
+#: ../../source/.bk/dicos_environment/software.rst:185
+#: ../../source/.bk/dicos_environment/software.rst:200
+#: 0579a20b3d8b484e9c0188d87621ac50 1039ec8c2be5411f8b0e9ef49337fd09
+#: 1d65963badbe488ba18c3eef7646b899 23cf324bb4a340a5a52462d649e026ec
+#: 2a3e7ca1be7646d5bd730dbde3167b9a 2dbfe429d0c64477ac23f2c91f9b59d7
+#: 3d2ac73ecae941bb8f0452fe5f160d40 436b503089674eb0834964efc11d95d4
+#: 484acb3d7b514d5d9a74563389a7e9b6 5334d0dc482f44cfb1e63dc12245ab47
+#: 6116afa81ad04d46bd9f15fd172d6faa 6cca6866bb9a40b9a6962bb1a7685874
+#: 735d88a57c704908a0069a4de7ae4627 75b5112693f545209534becd7e1d1a6d
+#: 784353f3f03d43e498df58148a2cbb11 8cbab8fb62e34264b6674791b874744c
+#: 94d72c67083c4f08ab8e3c2e16bc0a3e 954552df601d4e16873e922d9bbc64c9
+#: 9b60b6041f55463fa6f2f3874bc9a29c b0bc23a370404c6b82f3b092b91c6445
+#: ba968e0d4fd4431daf35a847cf557794 c45a7a53bd1d4e4786b46e961eaa58ee
+#: da4c06f9e5f7426d9c89ffef65cf6fd8 e2577125d4144a7383b9510f6e9f12c8
+msgid "1.7.1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:41
+#: ../../source/.bk/dicos_environment/software.rst:45
+#: ../../source/.bk/dicos_environment/software.rst:49
+#: ../../source/.bk/dicos_environment/software.rst:53
+#: ../../source/.bk/dicos_environment/software.rst:57
+#: ../../source/.bk/dicos_environment/software.rst:117
+#: ../../source/.bk/dicos_environment/software.rst:121
+#: ../../source/.bk/dicos_environment/software.rst:153
+#: 118a44faea7144dc829004e8435242ae 13884dce8ec94c239815c9fd6fcedd3b
+#: 3b33e323a08a4f3c84ddf53fd4cc4c80 3ca15117e526445a8b594488352ebb87
+#: 7988ab33aea549acbecb1c2be51efc9b af622bcb65c84ba0889530e05c66fe86
+#: b34d39cc2ea2443c924079026fbfac20 fe88ac3457f94eca89486a74648835b7
+msgid "mpich2-1.5, mvapich2-2.0, openmpi-1.8.1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:42
+#: ../../source/.bk/dicos_environment/software.rst:46
+#: ../../source/.bk/dicos_environment/software.rst:50
+#: ../../source/.bk/dicos_environment/software.rst:54
+#: ../../source/.bk/dicos_environment/software.rst:58
+#: ../../source/.bk/dicos_environment/software.rst:62
+#: ../../source/.bk/dicos_environment/software.rst:66
+#: ../../source/.bk/dicos_environment/software.rst:70
+#: ../../source/.bk/dicos_environment/software.rst:74
+#: ../../source/.bk/dicos_environment/software.rst:78
+#: ../../source/.bk/dicos_environment/software.rst:82
+#: ../../source/.bk/dicos_environment/software.rst:86
+#: ../../source/.bk/dicos_environment/software.rst:118
+#: ../../source/.bk/dicos_environment/software.rst:122
+#: ../../source/.bk/dicos_environment/software.rst:126
+#: ../../source/.bk/dicos_environment/software.rst:130
+#: ../../source/.bk/dicos_environment/software.rst:134
+#: ../../source/.bk/dicos_environment/software.rst:138
+#: ../../source/.bk/dicos_environment/software.rst:154
+#: ../../source/.bk/dicos_environment/software.rst:158
+#: ../../source/.bk/dicos_environment/software.rst:162
+#: ../../source/.bk/dicos_environment/software.rst:184
+#: ../../source/.bk/dicos_environment/software.rst:202
+#: 063433dce0fb4842a047e2053b62a136 0a8d4afd1aa14ee387ae297c92985b64
+#: 177be0bcaaac48eba31525eff5d2202b 28ba1d1820cd42578d69638b89a35cce
+#: 296c38257ea24c5e9db6a9664508713c 2b90ebd54e5c4d64a9368a1b4bc944fd
+#: 32f6a394012b41b488d19b6d284f1a69 3d39e9a98a9e4fe18939f29f4d6a42af
+#: 47a0f65e285643cfbbcfaad28a7e8de8 492c3919bb5c4641a039313b8662f7f5
+#: 5ad25e4326ba4e29a2b1b8b3a0f32d9a 6180db85e2114a41b7b00c420e4516bf
+#: 6ada8b00032548309fdd9a6bb51481fa 6dda475457374c2595206bbd94345f99
+#: 77e7dc697b2b49beaec45a9001422d6d 79e9fcb387404702963d07ce46044889
+#: 9324c55df2a941a89c6eee9c1e576310 99175135be854a14beef6242b275d738
+#: 9adbba3017a341748c87948ad4f917a1 ab5fa288699d46c4883a05d6bfd5a79c
+#: e651b4d943904640b2b27d36b19c590d eaf6c6c7c43744258cc925435b508a8d
+#: f06b68b5b51441eab3b498f04ed39ea4
+msgid "gcc version 4.1.7"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:43
+#: e3ee0c7ed7e34e868cb4266b2f722028
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2_MCORE"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:47
+#: da27a0ae9ce148f0b76d3ccf15cc11f3
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2_MPI1024"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:51
+#: 3b8c99255acf432da09edf966606a3d6
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2_MPI304"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:55
+#: 4a8692b231b448198130aa65fd42a9a6
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2_MPI64"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:59
+#: d4505995b56947478a4e5ca118668c52
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR4"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:61
+#: ../../source/.bk/dicos_environment/software.rst:65
+#: ../../source/.bk/dicos_environment/software.rst:69
+#: ../../source/.bk/dicos_environment/software.rst:73
+#: ../../source/.bk/dicos_environment/software.rst:125
+#: ../../source/.bk/dicos_environment/software.rst:129
+#: ../../source/.bk/dicos_environment/software.rst:133
+#: ../../source/.bk/dicos_environment/software.rst:157
+#: ../../source/.bk/dicos_environment/software.rst:161
+#: ../../source/.bk/dicos_environment/software.rst:183
+#: ../../source/.bk/dicos_environment/software.rst:201
+#: 05793d452edd4a79bb857e68c0e42d30 25f471c3324f4248b3521e4895517ed4
+#: 3ea665d684fd4c4389d469ce5856b6e1 780e5cf214b241ef8c8127d383aadc20
+#: 7b3e5d52feee4cbc8cb8c657fbee3b1e a7e6a1f8cfa24a41b8d44ad99b8d525b
+#: cbc7675b284940b99f917a78d705804e e6fa0d3a72ad4461b9ab4a6d25e35d00
+#: e7fe2e0f01e14a8aa3962ad73daaddd2 f57b85c27127489080d6f23d011c1e9e
+#: fadc41315c5c4068b1c683bda5059fb9
+msgid "None"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:63
+#: 36082fbc561742f883bbb18011193f3b
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR4_MCORE"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:67
+#: 86f3f3138a7a4099bd9c3b53fd4e6649
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR5"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:71
+#: bb028439ae8044b3a56841c2de5982b4
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR5_MCORE"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:75
+#: ef6686bdec7940509b54223c254e73bf
+msgid "ANALY_TAIWAN_TWGRID_PHYS"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:77
+#: ../../source/.bk/dicos_environment/software.rst:81
+#: ../../source/.bk/dicos_environment/software.rst:85
+#: ../../source/.bk/dicos_environment/software.rst:137
+#: 43cb5ff2917a4e03843fa2d39692d6a7 50295addd9a44bdf9a829158cbdd3262
+#: 95b6b0764b2648bbaa2cb30fa9bb37ba b6eb3adcd2c74822b1b736d8d0c0dd68
+msgid "mpich2-3.1.3, mvapich2-2.0.1, openmpi-1.8.3"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:79
+#: 58fcd6733028496383ccb9b0dddd20a1
+msgid "ANALY_TAIWAN_TWGRID_PHYS_MPI64"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:83
+#: 7c8f33b98da242d4a699f81e185ea717
+msgid "ANALY_TAIWAN_TWGRID_PHYS_MPI8"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:90
+#: 248bba85385f4652995123ab143eab75
+msgid "VO: ams02.cern.ch"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:97
+#: 5097b44d3dd248438295852c502ac0c8
+msgid "mpi versino"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:99
+#: eb265cc4c618472fbcb80a538e7a408c
+msgid "ANALY_TAIWAN_CLOUD_PROD"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:103
+#: 031505b1c0ec48db9a592b35dd1ffcde
+msgid "ANALY_TAIWAN_HPC_FDR1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:104
+#: ../../source/.bk/dicos_environment/software.rst:108
+#: ../../source/.bk/dicos_environment/software.rst:112
+#: 27935171d7de4406989c30411e517ca4 611e1fed24464bd39c083d8f87d7c073
+#: b67ed49310c0488981287bd99783ca1c
+msgid "1.8.3.1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:105
+#: ../../source/.bk/dicos_environment/software.rst:109
+#: 970d9f91006942ec81656b9bc182594c fe135e098f854a09bd59ebb699b11d05
+msgid "openmpi-1.8.5-1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:106
+#: ../../source/.bk/dicos_environment/software.rst:110
+#: ../../source/.bk/dicos_environment/software.rst:114
+#: 10898c100990499a8816256a38c65be7 a2832715aaaf4889a5c4660b81f8a419
+#: cf37c45a66984381a1b45897f2cccdc4
+msgid "gcc version 4.8.3"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:107
+#: a10968e538b44fa0ade5f80292310cb2
+msgid "ANALY_TAIWAN_HPC_FDR2"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:111
+#: 4b8971ed1ba9421bace28066765c309e
+msgid "ANALY_TAIWAN_HPC_FDR4"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:115
+#: 596e698b7d324360821910f4417dc238
+msgid "ANALY_TAIWAN_HPC_QDR2"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:119
+#: 34a14f8dc4954e1aaa496b8cdc4f1d0a
+msgid "ANALY_TAIWAN_HPC_QDR2_HIMEM"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:123
+#: 391e51bab58b47ed967e0b84a926c49f
+msgid "ANALY_TAIWAN_HPC_QDR4"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:127
+#: 2747cfc5987f4636963cbb0170511061
+msgid "ANALY_TAIWAN_HPC_QDR4_MCORE"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:131
+#: ebf35aa4e3d34a2aa64719dc99e87bfa
+msgid "ANALY_TAIWAN_HPC_QDR5"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:135
+#: e86658806c0f4ce99385545088e8a2d7
+msgid "ANALY_TAIWAN_PHYS"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:142
+#: 153ddd4bd10445c09e0ccafff0fa0313
+msgid "VO: ATLAS"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:148
+#: 66ea193dfb994a8f9cd6935facf0d156
+msgid "git verfsion"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:151
+#: 1e2f7eddd6214a70aadd60385cf9c621
+msgid "ANALY_TAIWAN_ATLAS_HPC_QDR2"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:155
+#: d3f81e9439b3413a9f4b54d11e42c785
+msgid "ANALY_TAIWAN_ATLAS_HPC_QDR4"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:159
+#: 6d356d8ec1f14f36ac30563c7cd4174c
+msgid "ANALY_TAIWAN_ATLAS_HPC_QDR5"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:166
+#: af5d0557c12644be91e397f070bca547
+msgid "VO: Bioinfo"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:175
+#: 5fb6c1e6317146818717c17d6e60cfad
+msgid "docker version"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:176
+#: 6a333bed6ee54c9d8a5eb880ce2354cb
+msgid "ANALY_TAIWAN_BIOINFO_CLOUD_PROD"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:181
+#: 5b8b92b8948147508bc5d6f8ab6b1598
+msgid "ANALY_TAIWAN_BIOINFO_HPC_QDR5"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:190
+#: 77d47b2c95604e45971dcce3ee650944
+msgid "VO: RPL-T"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/software.rst:199
+#: cc4d25bbefb34b8e87303ce3b6ef9505
+msgid "ANALY_TAIWAN_RPL-T_HPC_QDR4"
+msgstr ""
+

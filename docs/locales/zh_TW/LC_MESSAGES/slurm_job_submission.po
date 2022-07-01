@@ -1,0 +1,620 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/slurm_job_submission.rst:3 1eeb7ff2618c45efbfe15ddaeabfaa8d
+msgid "Slurm Batch System"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:9 72d7c8cc227448c0ac23a61683aef256
+msgid "Slurm User Interfaces (UIs)"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:11 d7c27d54a802437daebf8804ed802649
+msgid ""
+"Slurm users need to login one of the following user interface nodes to "
+"use the slurm batch job system."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:16 1e21821fd9124b8cbaebf387ee0398f1
+msgid "User Interface Nodes"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:17 ef6ae951a58f4f0ea37da8afc9f30665
+msgid "OS"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:18 5c5b12002d284b45b12196330da76906
+msgid "Purpose"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:19 19898dba8bd244cb9ea2f644f5eac6d3
+msgid "slurm-ui01.twgrid.org"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:20
+#: ../../source/slurm_job_submission.rst:23 84b2d5c3e65942c594f36e2423df56ea
+#: fb040debb25345529a04e6a73fcd74d1
+msgid "CentOS 7"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:21
+#: ../../source/slurm_job_submission.rst:24 5f8278112ef84ee4a951edc3e36bb2ad
+#: 624191b9980c46b28404701b6aa67c58
+msgid "Job submission, File download/upload"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:22 710da9f2444747869815ca777d768548
+msgid "slurm-ui02.twgrid.org"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:28 f81c79e8b2894b85ad976dc796577bc7
+msgid ""
+"The resources of the user interface node is limited, please don't run "
+"your jobs in the user interfaces, or your jobs will be killed without "
+"notice."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:30 9368552c2aea487c9f6195976201540d
+msgid ""
+"To avoid ssh password guessing attack, IP addresses with multiple login "
+"failures in a short time will be banned for hours."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:32 a4234021d31c4c4487e1f00054c4ad83
+msgid ""
+"Installed GUI software in UIs for users to preview files. Please use, for"
+" example:"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:38 873b464dee304dc79400eac083dc06a1
+msgid ""
+"to login in the UI with X11 forwarding enabled. If you are using Windows™"
+" system, please install and execute `Xming "
+"<https://sourceforge.net/projects/xming/>`_ before connect to the UI."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:43 c4725962149e4883ac184dd64095c3f2
+msgid "Software"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:44 4880a2ca6d2d495f8c388c0cc7341037
+msgid "Filetype"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:45 945e318e26dc4d0991eb26dc0da2376c
+msgid "Type"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:46 ff2fcc8d3dd948a595591b35b6e817e7
+msgid "`vim <https://www.vim.org/>`_ | `nano <https://www.nano-editor.org/>`_"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:47 88113f13a5e548dfb3d9d3c0a99f2aee
+msgid "text editor"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:48 38acf43156e8434193a1c095e784e5db
+msgid "CLI"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:49 8f3adb47ea794ff48ba135f7f8d62d8b
+msgid "`eog <https://wiki.gnome.org/Apps/EyeOfGnome>`_"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:50 98f52d42da014a0c8cb3336728834a29
+msgid "images"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:51
+#: ../../source/slurm_job_submission.rst:54 0f3a164461b74f11bae89d27f051e131
+#: 6f3f939ee4de4db9acc899b350c7a32a
+msgid "GUI"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:52 1d616785f0a04df4b75a645dbefd7c90
+msgid "`xpdf <https://www.xpdfreader.com/>`_"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:53 988ac87e3bf9406ab58e17a9fdfdeb1a
+msgid "pdf files"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:59 33769120e02a4edc828e60f1cd2674e9
+msgid "Slurm Resources and Queues"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:61 2f8a5413546b4a4998bf558c45bfea59
+msgid "Slurm Resources 2022-06-27"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:64 fc57fec36b224e52a4af929f98af75c8
+msgid "Cluster"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:65 24cc746f58cf444e9e363d1b5c544089
+msgid "Worker Nodes"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:66 b3b901bb65d34e959fdfd89f1f1c4c70
+msgid "Total CPU cores"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:67 206422569e6a43578d134bfbadb76294
+msgid "CPU/node"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:68 6fd15903faa647e0be67ddc1db88f363
+msgid "CPU model"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:69 658f59f014c44aa1b535f4d081199556
+msgid "Memory/node"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:70 8e76c55b01714734a5350bdbffdd2f71
+msgid "Disk space/node"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:71 505f4559cc874618b93997bde5d75eee
+msgid "Network"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:72 9d7616f9a6e24355b9967d101c267a08
+msgid "GPU model"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:73 d50f23869f8346f9bc5f8c6ce1e5f89c
+msgid "GPU/node"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:74 780df71d925944858bfbb46cc1171574
+msgid "HPC_FDR5"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:75 7963f7abf8e64ff3a8cefb318786a909
+msgid "92"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:76 86d5df7919854f7e945c1c571b634e37
+msgid "2208"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:77 47fa19b8f88e4de5b376752112f4b386
+msgid "24"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:78 8926193c227c4d8a86e454aa7da84089
+msgid "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:79 1e19fcc18b614a74ba266418bbe22e33
+msgid "125GB"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:80 02ad8606a0c148a58357d43b3aa41628
+msgid "2TB (System: 400GB)"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:81
+#: ../../source/slurm_job_submission.rst:101 3d4508f1f9e24415919c115e83ad402f
+#: 9df2f6d27d2a41ebab45989c661f3969
+msgid "10GbE"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:82
+#: ../../source/slurm_job_submission.rst:83
+#: ../../source/slurm_job_submission.rst:92
+#: ../../source/slurm_job_submission.rst:93
+#: ../../source/slurm_job_submission.rst:128
+#: ../../source/slurm_job_submission.rst:134
+#: ../../source/slurm_job_submission.rst:140
+#: ../../source/slurm_job_submission.rst:146
+#: ../../source/slurm_job_submission.rst:164 02a800d6db23465595cbbf160fbf071b
+#: 07f3ad5398144adf9a95fdb88e13cb1c 0f346ddb927149768be4fde4617ae8fb
+#: 19c639ac767f42e18ab657c19c577a22 62b066164d154f109af77d44b4131932
+#: 63a00e0bef74430eb456f43e309e0d07 6f06d0d0b87c4f4999a00f96623cc96e
+#: 7f2354174cf84e8da52a25adc3bb4154 d9097017f87147f2b77a789003b3d9c1
+msgid "N/A"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:84 733d517b99bf4d54a81f8d5b12bc1b3a
+msgid "HPC_HDR1"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:85 c530ede0b1e24fecbcaf340b89970a76
+msgid "2"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:86
+#: ../../source/slurm_job_submission.rst:163 622cce9d24894c018fce2bdf82bf5e6a
+#: f8b431efe9c8489d90e7da876a5e96f4
+msgid "768"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:87 be00a4dee9604d53a8e86502afdc314d
+msgid "128"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:88 02a8e03499554ca98cd7f148ffe14e9e
+msgid "AMD EPYC 7662 64-Core Processor"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:89 eced822a11d94bd981a02e17b53e7075
+msgid "1520GB"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:90
+#: ../../source/slurm_job_submission.rst:100
+#: ../../source/slurm_job_submission.rst:110 9889573aff784832b1411ae2fd632f5a
+#: b4568f25232145a18f884506d826b6e7 bc297890e0fd4759910685e1ef3e59f5
+msgid "1TB (System: 20GB)"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:91
+#: ../../source/slurm_job_submission.rst:111 0d1058750aa94aa390696dd7a577532a
+#: 671762564c1743b3840911d1aba00f27
+msgid "100GbE"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:94 8b0edff1d4a247aabf416a8c8351a74a
+msgid "GPU_V100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:95
+#: ../../source/slurm_job_submission.rst:105
+#: ../../source/slurm_job_submission.rst:147 88f7c588176045fc95e027f319d86c3a
+#: eaceca5dbc894444bf38b46e4f709687 f70be654367e4238ba7e581cdf94643e
+msgid "1"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:96
+#: ../../source/slurm_job_submission.rst:97
+#: ../../source/slurm_job_submission.rst:157 1f31de2f312843148d7de1dcd86a775a
+#: 34311ca86bf94535a167a830cf852b5a 90f422be0d6c432086eb8119176ec2ce
+msgid "48"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:98 fb7f67b6992f450193c157e59ae2885f
+msgid "Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:99 15865b7adfd64ad48cb3bb623bfd74b0
+msgid "768GB"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:102
+#: ../../source/slurm_job_submission.rst:160 8bdc886605f64fc09db2e8b7ff39e1ce
+#: 954262a83eb14d60825990966fa2a145
+msgid "V100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:103
+#: ../../source/slurm_job_submission.rst:113 4f0bf19bd2ce4ca297b3a043b4eb1fb8
+#: a61fcb8a4dc14249a35eceb47eba2683
+msgid "8"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:104 16844665b2a34d6fa7e68f89668ba275
+msgid "GPU_A100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:106
+#: ../../source/slurm_job_submission.rst:107
+#: ../../source/slurm_job_submission.rst:151 0b724464de4e443d9fb674bbdd588265
+#: 3b25bd53f9ba45fb8b655cb23d5ef631 5ca9874103a94364874033400cfc4ac8
+msgid "64"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:108 3796e29608154da4b794d9e8727a3136
+msgid "AMD EPYC 7302 16-Core Processor"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:109 9c9f6052a30643b8a0572b3fe31217b8
+msgid "1024GB"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:112
+#: ../../source/slurm_job_submission.rst:154 6b3370bb8a214ae3995b65d8e98eff69
+#: 779704ab62ae4bd0b2cde0150782685d
+msgid "A100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:116 5847fb8121ef4bb9aa87aac48297032b
+msgid "Slurm Partitions 2022-06-27"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:119 c46f6f64dbf04e4fbff481485c30b287
+msgid "Partition"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:120 dbe240d6bc094fd79b254ab5dac0e1a9
+msgid "Timelimit"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:121 3487bfa826404e95b05d5d7bb732628a
+msgid "CPU Cores"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:122 68aabd382b174378bb29b26c9074fa56
+msgid "GPU Boards"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:123 ea1484dad071480da43f015a616e5999
+msgid "Nodes"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:124 244f8561c3c9461f993075d48111d25b
+msgid "Resource"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:125 538df4253f614fa0baac3a1d54557209
+msgid "large"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:126
+#: ../../source/slurm_job_submission.rst:132 cce94a37798e4ede86e8b49e28e94ff5
+#: fbc7a60219e240b094693fd2cc56a47b
+msgid "14-00:00:0"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:127 150fbeb60c2847a593491ace68638a9d
+msgid "840"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:129 6e43f822dd414766997a30d6279fe320
+msgid "42"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:130
+#: ../../source/slurm_job_submission.rst:136
+#: ../../source/slurm_job_submission.rst:142
+#: ../../source/slurm_job_submission.rst:148 0f79392209d34e5c826dce1c874af097
+#: 3e8baa43055443d9b96af647c00fa81b a0e3ca15040148d78871d2d86dc6929e
+#: d9a5cf6da8754d9ca42dbdbf00cf50f7
+msgid "QDR4"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:131 c12afaa2b12b4e469df043d377a999b3
+msgid "long_serial"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:133 efd8919ec33b4e648655bbfc234ae405
+msgid "100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:135 c770f1b634cb4b1ab6ebecf50b5a283d
+msgid "5"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:137 0b715b51964f4209b4f513fffd77c3d7
+msgid "short"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:138 edf87bce0b5a467681600b9dcad0b060
+msgid "3-00:00:0"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:139 43c03494c1384f59927eb2c7a2ecd82d
+msgid "1000"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:141
+#: ../../source/slurm_job_submission.rst:153
+#: ../../source/slurm_job_submission.rst:159 183e6ccff4b6400cb7c3fc17589468b4
+#: 5fdc5cd357764e75b65a9516f86fcfb2 f47f75a167c24476b001acf8451593e6
+msgid "50"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:143 e522071809ff49708cb67b5c04322ca6
+msgid "development"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:144 d538f662bf7344669ddd068e07e8e63f
+msgid "1:00:0"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:145 114289e3739148b2879eef8de8a1ba45
+msgid "20"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:149 7c8949ac368740dfb5ebcdf041520541
+msgid "a100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:150
+#: ../../source/slurm_job_submission.rst:156
+#: ../../source/slurm_job_submission.rst:162 6b80c79bb5c346238a09bad7446b0e65
+#: 9723c97cfce040549007cc2ce30c291a f7a82c6fbef0483ca3ed6965fdc3d1e1
+msgid "5-00:00:0"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:152 02441e8451c14c9d9ddd91fc3570c7ff
+msgid "8*A100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:155 6545299c789e410da627634b2c0a0374
+msgid "v100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:158 245fdb72cf5f49f2a2e8ef508c10c7a1
+msgid "8*V100"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:161 1029df796f3f4912b4b2bc8a6b8eab31
+msgid "amd"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:165 123af9a444a947b4a63f3318ac2be7ab
+msgid "6"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:166 01452978de5c4e6bba2e9caef13650eb
+msgid "HDR1"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:170 74310f08ae184b88871aec062483f806
+msgid ""
+"The resources are shared with different queues, so some of the resources "
+"are mutually exclusive with different queues."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:175 1fc3e8670e3742509412f338d964d8cc
+msgid "System Topography"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:177 4220ad510576490f8dbff052abd8079e
+msgid ""
+"The system scheme could be found in the following image. The network "
+"connection is majorly in 10G ethernet."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:183 4e7c1a507e8340c5aaf8aa0a0e18adae
+msgid "Slurm Software"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:186 ba4da52c41b746cc89035b7a3f8923a6
+msgid "environment-modules"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:188 443629cd5bfa4418bacab7dd78f7ec16
+msgid ""
+"You could use use environment-modules (in ``module`` command) for easy "
+"setup of your environment with our predefined configurations. Users could"
+" find predefined module by:"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:194 948148bdb6f24508a32aae7e6ba8da54
+msgid "Load MPICH2 + gcc48:"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:201 7dfa463c37e2413da83c9879523c0364
+msgid "Unload all loaded modules:"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:207 b39d98a308e04365b4c4e83d1cc36629
+msgid "Load Openmpi + Intel2018:"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:214 b592602aacb748b78d480a8c5d08c0df
+msgid "Load OpenMPI + gcc48:"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:223 fca613413a0a47819cdb9182ac77f015
+msgid "``module`` software tree (version: 20211130a)"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:316 da70e99c75cf4f66a1378ac2c9771975
+msgid ""
+"`environment-modules "
+"<https://modules.readthedocs.io/en/latest/index.html>`_"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:320 3dcde49371da4512a2b6740a5bb52a49
+msgid "ssinfo"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:322 c737dc4ef9df4aa9ba756f2af61c9711
+msgid ""
+"``ssinfo`` is made by DiCOS administrator, and available in **slurm-ui**."
+" It could help users to know some system informations, including "
+"accounting, news, and documentation, etc."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:324 1d24462d6e264488bcba4563022b8aee
+msgid "Show document of slurm"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:330 bb1b10fdd7db4a48851ff2628ade2717
+msgid "Show personal information on QDR4 cluster"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:336 aa3cfa6b639c43e0887103c117a7115e
+msgid "Show news of slurm and DiCOS"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:342 9309615353a84200b95f570889b3b739
+msgid "Show current slurm information"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:348 ccc84bee52644a0c99848d715e95b195
+msgid "Show module tree and dependencies"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:356 2f71f126f65c498cb8c9adff6a294551
+msgid "CVMFS"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:358 3c562235030643afaa4e8bb0c516e01c
+msgid ""
+"CVMFS represented for CernVM-FS. It's originally used in the grid "
+"computing, and try to deliver the updated software for the computation. "
+"The file system is read-only, so it is very suitable for the software "
+"delivery. In DiCOS system, CVMFS file system is for the software "
+"repository for users, and mounted in ``/cvmfs``. The ``modules`` "
+"environment in slurm system help user to setup the environment for "
+"specifically software, and the software is located in CVMFS."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:362 6c64a7c574c3409497534bb5e74c70a0
+msgid "`CernVM-FS <https://cernvm.cern.ch/fs/>`_"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:365 d02ee01ee3724e47920e19bd9165c4a5
+msgid "Docs"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:367 18654da5a22e41939c71aef1dbe7ef70
+msgid ""
+":doc:`MPI / Compilers / Software and Libraries "
+"<slurm_job_submission/software>`"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:371 fe9ed8be0aa94488b0a1da3df4316dd6
+msgid "Slurm Tutorials"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:373 96a696a41b5b476caf2e943a60384683
+msgid ":doc:`Tutorial<slurm_job_submission/slurm_docs>`"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:377 70301769ce6f4ddeb3ea6a0c19874ae3
+msgid "On Site Slurm Documents"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:379 329f138a9fcd4502a74a71b70dabe674
+msgid "User documents for SLURM are located in"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:385 109a8e6d3aaf4360870f5d6a422581a1
+msgid ""
+"Create a working directory, assume it as mpi_work in your HOME directory."
+" Copy all the scripts from the following directory to start."
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:394 f1fde9fd4488475c91506c17182dc786
+msgid "Request for Specific Software Installation"
+msgstr ""
+
+#: ../../source/slurm_job_submission.rst:396 88f70a4ab4104a18b84183d02c7ae194
+msgid ""
+"If you have special requirement for the software installation, please "
+"contact to DiCOS-Support@twgrid.org."
+msgstr ""
+

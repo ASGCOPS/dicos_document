@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/use_case.rst:3 d20405d51d40430b8f3685069d05ec64
+msgid "Use Cases of Software with DiCOS"
+msgstr ""
+
+#: ../../source/use_case.rst:9 e3c5f5224aac4fea8596e1a5c18cf8a9
+msgid "DiCOS Job Submit"
+msgstr ""
+
+#: ../../source/use_case.rst:13 1d1eaae6490740e795e634bd1c49501d
+msgid "Slurm"
+msgstr ""
+
+#: ../../source/use_case.rst:15 2a8041708b7846049abf648a182eaf7b
+msgid ""
+"`Introduction on QDR4 Slurm Local Job Submission "
+"<https://docs.twgrid.org/s/Z_r1I8T1V#>`_"
+msgstr ""
+
+#: ../../source/use_case.rst:16 092e55987f244afc89161ae6dce4834d
+msgid ""
+"`Instructions for the Usage of gromacs in ASGC DiCOS Slurm System "
+"<https://docs.twgrid.org/s/ldKW3cAO5#>`_"
+msgstr ""
+
+#: ../../source/use_case.rst:17 e1510ebd57184bc5b2e84d14236f8e63
+msgid ""
+"`Introduction on Slurm with LAMMPS "
+"<https://docs.twgrid.org/p/aKKgBkMXn#/>`_"
+msgstr ""
+
+#: ../../source/use_case.rst:21 7c5b2d769d5546da9f256696e59c5d9b
+msgid "DiCOSApp"
+msgstr ""
+
+#: ../../source/use_case.rst:25 fe50d35d8b044d5db0fd7422f938e674
+msgid "Comprehensive Cases"
+msgstr ""
+
+#: ../../source/use_case.rst:27 4f94dc3524034a179272fe0e63627b1a
+msgid ":doc:`Use Triton inference server with DiCOS System <use_case/triton>`"
+msgstr ""
+
+#: ../../source/use_case.rst:28 0ee7ca8bd6624a2bade91b0842e6709c
+msgid "`Triton inference server on DiCOS <https://docs.twgrid.org/s/PqrGPuMZa#>`_"
+msgstr ""
+

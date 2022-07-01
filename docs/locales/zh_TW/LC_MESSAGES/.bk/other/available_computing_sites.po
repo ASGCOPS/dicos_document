@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/other/available_computing_sites.rst:2
+#: 23bc77d506a144878fe73eb9e118c53a
+msgid "Available Computing Sites"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:4
+#: 292f60c0555243a09a85c7952c569b19
+msgid "Available computing sites for different VOs."
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:8
+#: cd257eec1a474845b905c511e7dfbaf6
+msgid "ams02.cern.ch"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:10
+#: 59763db533e44600b55e206fdcfc97b3
+msgid "ANALY_TAIWAN_HPC (offline)"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:11
+#: e0789bc8a07b4893967a8d882911d46a
+msgid "ANALY_TAIWAN_HPC_QDR2"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:12
+#: 8b57b116dba64bb3bbd644dd04230194
+msgid "ANALY_TAIWAN_HPC_QDR4"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:13
+#: 925db92020ed4e209a8c7a7587366331
+msgid "ANALY_TAIWAN_HPC_QDR4_MCORE"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:14
+#: ae05242ba8a248889daf3bcf6943ee6f
+msgid "ANALY_TAIWAN_HPC_QDR5"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:15
+#: cf9ace3c657c49c69f9dff9d3a377857
+msgid "ANALY_TAIWAN_HPC_SMP6 (offline)"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:16
+#: 03a3b358418e4161879a641d30edf450
+msgid "ANALY_TAIWAN_PHYS"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:20
+#: dbec726596534922a4ab91c29153d0e7
+msgid "twgrid"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:22
+#: 3247b76c9e594a19afef3968cf26a00f
+msgid "ANALY_TAIWAN_TWGRID_HPC (offline)"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:23
+#: 6f5cfe62604c40f4992e71854096749c
+msgid "ANALY_TAIWAN_TWGRID_HPC_MPI48 (offline)"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:24
+#: 657e61cca6fd4679a2c5bce86691c44a
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:25
+#: 227a5ac0356c49688300e9d4050a731a
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2_MPI64"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:26
+#: 57c69a2e505a4756b22da869600301e7
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR4"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:27
+#: b34c8e1fd806435b896ab5c70f661ae9
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR5"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:28
+#: 296dbe7e16014ba9b226d55c46488812
+msgid "ANALY_TAIWAN_TWGRID_PHYS"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:29
+#: 491f1d39402d445da0046b1e454baa40
+msgid "ANALY_TAIWAN_TWGRID_PHYS_MPI8"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:30
+#: 0c3b00268d944d2cab96cfabee0cb8e4
+msgid "ANALY_TAIWAN_TWGRID_PHYS_MPI64"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:34
+#: e75bdc67e8ce4baabdd57da23807b90f
+msgid "atlas"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:36
+#: a2ef8aa5234c44edadb632e8ba5ba623
+msgid "ANALY_TAIWAN_ATLAS_HPC_QDR2"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:37
+#: 391795e5745c497596ccc76d0480ebca
+msgid "ANALY_TAIWAN_ATLAS_HPC_QDR4"
+msgstr ""
+
+#: ../../source/.bk/other/available_computing_sites.rst:38
+#: ef3d883446f54646a991f602d16366a4
+msgid "ANALY_TAIWAN_ATLAS_HPC_QDR5"
+msgstr ""
+

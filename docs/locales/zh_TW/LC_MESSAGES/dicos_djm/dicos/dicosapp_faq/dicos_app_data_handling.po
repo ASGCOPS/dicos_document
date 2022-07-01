@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:2
+#: c65a2715c2284f5ba6915fc9fa2f9e32
+msgid "DiCOSAPP Data Handling"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:4
+#: a507a2b2d9c048d5ab10914f2dc07e42
+msgid ""
+"The DiCOSAPP is ephemeral and isolated application, everything changed or"
+" created in APP will be wiped out after the APP is terminated. However, "
+"there are three persistent spaces, everything storing there will be kept:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:6
+#: 5db0ad777e1c46898b7c94cbd51d4eca
+msgid ""
+"**NOTICE: The CryoEM data from ASCEM to ASGC will be stored at "
+"/cryoEM/tmp**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:10
+#: 921e18135d98474c99103ccc15275730
+msgid "1. User HOME space"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:12
+#: f061c3c27771463393b393a593d1af46
+msgid "The user home space is connected inside the APP by following paths:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:20
+#: de5ba4b32a514517b5570b6ff1184773
+msgid ""
+"**Please note, the user home space doesn't guarantee any data protection "
+"or space for every user. So, please be careful what you store on it. And "
+"please make backup by yourself, if you will only use home space.**"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:22
+#: eaae494ca934423bb8023013a3559a7e
+msgid ""
+"All data in user home space can be also accessible from outside APP by "
+"sftp (using `filezilla <https://filezilla-project.org/download.php>`_ or "
+"sftp client) with following endpoints:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:31
+#: 8b36c7596aa14cfa91584846c9b35827
+msgid "2. DiCOSBOX(Cloud storage) space"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:33
+#: 7502f98ebc2948f4a1d11be428d1bfa7
+msgid ""
+"DiCOSBOX is Dropbox-like storage, it is also connected inside the APP by "
+"following path:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:40
+#: 8e1901bd2f4c40749264130d7e61a2fc
+msgid ""
+"DiCOSBOX can be also accessible from outside APP by login to following "
+"page:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:42
+#: fe5567ead0824ea3a0d3a91c6b6c1c45
+msgid "https://dicosbox.twgrid.org"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:46
+#: 794f8a6fb0944a88a3a856c20100e92c
+msgid "3. CryoEM group space (CryoEM user only)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:48
+#: 40eb393b67ea45ad984462e043c181a7
+msgid "CryoEM group space is for CryoEM user only, which must be requested by PI."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:49
+#: 14c0e058993c405da8d09ad2ca43aa5c
+msgid "CryoEM group space is connected inside the APP by following path:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:55
+#: 9d1f7790adda48dd9b3d1d55115bc08e
+msgid ""
+"All data in CryoEM group space can be also accessible from outside APP by"
+" sftp( using `filezilla <https://filezilla-project.org/download.php>`_ or"
+" sftp client) with following endpoints:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicos_app_data_handling.rst:62
+#: f07e0c890d0448289c0ad686b57fe396
+msgid "The path is also */cryoEM/*"
+msgstr ""
+

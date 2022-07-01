@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/use_case.rst:2 0fc863991aa94bb2b2e87edbb654885b
+msgid "Use Case"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:4 06bc594a65a347c9bb65b38b912cbdc5
+msgid "First, login to the DiCOS and go to Data Management page."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:7 152aefe1d864409e8d03c425f99ea6bf
+msgid "or .. image:: use_case/image/datamanage2.png"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:12
+#: fa307b1ce0aa432583e0380d0a39fce7
+msgid "1-1. Add your input data file, subroutine here."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:18
+#: 83e489c1e76141b28b0018d637286096
+msgid "Second, move to the submission page."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:25
+#: fa1e63b49d33497b89c8882fc9c47cd3
+msgid "Fill in the information as requested."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:27
+#: e876758157914fe98b87689672fc89b2
+msgid "Choose executable (\\*.sh) Executable file example(print.sh)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:43
+#: 7bf667e7fde34687be68ea63b215fd53
+msgid "Job Parameters field should write"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:50
+#: 8c371ebdfd5a4d7aacf44b3be455d346
+msgid "After click submit"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:54
+#: c8c4956ee58b49e68c5d079ab1e545f0
+msgid "Finished"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:58
+#: 67d73d1d27634fe48e0ed4de46f04a5b
+msgid "Example file download"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:60
+#: d07b865a15624a98a1110fe7ff95904a
+msgid ""
+"Executable file: `print.sh "
+"<https://www.dropbox.com/s/0ls8hazlchh4epq/print.sh?dl=0>`_"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/use_case.rst:62
+#: cc7c49d0c9bb4aa2adab09b173cf4ecb
+msgid ""
+"Source file: * `5_data "
+"<https://www.dropbox.com/s/p4a833j7tsmp2l9/5_data.txt?dl=0>`_ * `6_data "
+"<https://www.dropbox.com/s/5pyw6vmvmjm9pxt/6_data.txt?dl=0>`_ * `7_data "
+"<https://www.dropbox.com/s/8krr8twd933i00c/7_data.txt?dl=0>`_ * `8_data "
+"<https://www.dropbox.com/s/lmwxcu4lob7afb6/8_data.txt?dl=0>`_"
+msgstr ""
+

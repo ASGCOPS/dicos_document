@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:2
+#: 3939dd2af9ce4e479bf6ef0811d0b315
+msgid "HTCondor Job Management"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:6
+#: 76f2cdee07704520b44dad3d5caea847
+msgid "Check resources"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:8
+#: 2f850b19a09e4dc6b4c527134045d480
+msgid ""
+"Use the ``condor_status`` command to show the slot (machine) status on "
+"the worker nodes. e.g."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:22
+#: 1c5caf4adfa54088ab85430840fa2672
+msgid "Check queue status"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:24
+#: 131c547ec0984e20af7fbee572531e26
+msgid "Running and queuing jobs will be shown with condor_q command"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:36
+#: 8ce5ff698a5d4455b2d4a4f30bb06514
+msgid "Check historical status"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:38
+#: 5f4bcd0b3d0347b383e59200de1bf541
+msgid ""
+"If a job is finished/failed/cancelled, it will be moved from queue status"
+" to history status, you could use condor_history to check the historical "
+"jobs. The ST column means the status of the job. C: completed, X: failed."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:51
+#: dc12fcbf7ae14ae6a71d5e4ec52f5221
+msgid "Job Description File"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:53
+#: 156713d654934b74a08b0de7919308e7
+msgid ""
+"A job description language (jdl) is written as a file with suffix .jdl. "
+"It's essential for the job submission with condor system. A very simple "
+"example is:"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:65
+#: d93da86ae323491ea70fac4ed9352174
+msgid "Note"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:67
+#: bd2f640b54f843ebb265f54cedc91f05
+msgid ""
+"**Executable**: Executable in jdl file could be a shell script or an "
+"executable. In general, we will recommend you to use a shell script as "
+"executable, and this make you more flexible to turn your job."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:68
+#: 9cb94a1e888b4a308f6c293a92bc8259
+msgid ""
+"**Macros**: $(cluster) and $(process) are macros in jdl file. The number "
+"\"$(cluster).$(process)\" is represent for a condor job ID, which is "
+"identical across condor system, and you could manipulate your job with "
+"the condor job ID."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:69
+#: 92b97d8143764dc3a238e0072d3ac661
+msgid ""
+"**Working Directory**: By default, the job submission directory will be "
+"the working directory of condor job. If your input/output file doesn't "
+"have absolute path, then it should be related to the current path of your"
+" job submission."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:73
+#: e2a5a38445f245559b4d9346f8c49a07
+msgid "**Job Outputs**"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:71
+#: 1b0f97c83fcb4158b4a95aa5d2c30d1d
+msgid "output: the stdout output of your job"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:72
+#: 0c8590c5692e4c26a4c8c82fcc60025d
+msgid "error: the stderr output of your job"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:73
+#: 0723d175622e4936bfa554bbed586e96
+msgid "log: the accounting and housekeeping data of your condor job"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:77
+#: 1a63fb8f712b4b6980ed151b33ea2c5f
+msgid "Submit a job"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:79
+#: 619faed2d6c749e79126a9027cdc310c
+msgid ""
+"If you have simple.jdl ready, you could submit your job via (your job ID "
+"will be prompted upon submission):"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:87
+#: d0bf72b4a9c04e68b983fceba79f273b
+msgid "Check the job status"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:89
+#: 49d188b8052f41b79cbd97dd4a3d1d4b
+msgid ""
+"You could use condor_q to check your job status. If you need detail "
+"information of the job, use:"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:95
+#: 48dfc5c23c514606a414466e9132b995
+msgid "for that purposes."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:99
+#: 9af8c637dc6e4309bba35879a5d35615
+msgid "Check the historical job status"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:101
+#: 8190a0a72c1f449ab5d40007bdb17753
+msgid ""
+"You could get detail information of your historical job information with "
+"the command:"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:109
+#: 5400824fd89344bc8b04fb2a652c9285
+msgid "Cancellation of a job"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:111
+#: dcb6fbdc15f1422c8bc3b2715ed336a1
+msgid "You could cancel your job via:"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:117
+#: f8948d0848a04d67a7ecd687e6563d80
+msgid "to cancel your running/pending jobs."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:121
+#: 919166828ded4b789675b1d7d68ae3f2
+msgid "Modules in FDR5"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:123
+#: 01af8de038db4e089fcc8da425181f67
+msgid ""
+"To apply different settings of different software for various of users, "
+"we adopted environment-module package for the user oriented package "
+"management."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:126
+#: 21ab8461c3fc453a992dcca7e4340f02
+msgid "Show available modules"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:137
+#: c2657e45eabb4a7b8dfc43f37fd7b0b5
+msgid "Load module"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:143
+#: 6ef62077fcfa423a9dedb1bf66357547
+msgid "Unload module"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:149
+#: 695e3b50656a4c28afe378870303799e
+msgid "Hierarchy of modules"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:151
+#: 48386f9bd9754dbc90e5e19e8ce4771a
+msgid ""
+"Some modules are dependent on specific parent modules. To see the "
+"dependent child modules, you need to load parent module first, and then "
+"see the child modules through:"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:157
+#: 0812bb23891f49119d0c9f6eff58bee7
+msgid "command"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:160
+#: be4a516ad41a4e92b0d29202cb234014
+msgid "Unload all modules"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:168
+#: 1f4e006c50b343ccb3d07802f4cacc54
+msgid "MCORE Job Example"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:170
+#: 88534d8d1c21470889d5583040194808
+msgid "Example JDL"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:185
+#: 53ea9c9ea000499c9f2f6f07c6fd65f3
+msgid "# MPI Job Example"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:187
+#: 8af89b29ea9648749ef5172c6a422faf
+msgid "run_lammps_mpi.sh"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condor_docs.rst:201
+#: 4ac2108364c045dc98bd6f84fc5856d4
+msgid "run_lammps_mpi.jdl"
+msgstr ""
+

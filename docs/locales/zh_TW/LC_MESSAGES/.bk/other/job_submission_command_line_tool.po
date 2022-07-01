@@ -1,0 +1,582 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:2
+#: 836f1771298247d0a87898124cbc8299
+msgid "Job Submission Command Line Tool"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:6
+#: 632e34e7cc474141bbb969fdb3ff90be
+msgid "Advance Preparation"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:8
+#: d3d6e174c5fd4f36af4efd750d86de1a
+msgid "Before using DiCOS, you should have the following things :"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:10
+#: 80d6ec418ffa45fea43f215acfb6420e
+msgid "A grid user certificate, [tutorial](wiki:/certificate/)"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:11
+#: bee8ddcd0b6048f19244b64177dd09a0
+msgid "Join a VO (Virtual Organization), [tutorial](wiki:/account/)"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:12
+#: b77dca0a08d04e2597c536469937b94e
+msgid "A DiCOS account, [tutorial](wiki:/account/)"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:14
+#: ad1b3f05970248eb817ac4037c8ba4d3
+msgid "SSH log in DiCOS web UI with your DiCOS account:"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:16
+#: 34e98d10b93e4a13989a052309088602
+msgid "**dicos-ui.grid.sinica.edu.tw** or"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:17
+#: e59c1229c0934b589c7208c79870efd7
+msgid "**dicos-ui.twgrid.org**"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:21
+#: 98a964f95a1a4d6991b848ef5308c479
+msgid "Commands"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:25
+#: 9fffaf19fe474ee2a4d19352f12705c4
+msgid "Setup"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:27
+#: d15b0bbf0c02459f8289e8c2aa692229
+msgid "Initialize the voms proxy"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:29
+#: c87395e82309496aabedc123e029f934
+msgid "``voms-proxy-init -voms <VO>``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:35
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:52
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:151
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:168
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:185
+#: 0b629aec05d84179bf148dc3592b0311 21f9c87f63354760adda211cd6bff94b
+#: 26eae9d6555d4b9594189c5c7415e550 5b3944380ea242c3b1639769c99d1658
+#: f84cd015b17642178f149ec0cbb28761
+msgid "Note:"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:37
+#: c1008b36fece4a9b909d44179fd6d8bd
+msgid ""
+"<*VO*> is one the Virtual Organizations you are joining, for example : "
+"**twgrid**, **atlas**, **ams02.cern.ch**"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:42
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:244
+#: 7fcf685eb90b4bdeb78627ae0e11d0c9 b215abbe56b7403f9be598238dce10b2
+msgid "Submit job"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:44
+#: 50ecb6a6148e4c7f913b127cce6da24a
+msgid "Submit job to DiCOS."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:46
+#: 074ed1f86094421b9030c79b40e489e1
+msgid ""
+"``dsub --computingSite <Computing Site> --jobCommands <\"Commands\">  "
+"--runList <Input File List> [--noDM] --taskname <Task Name> --nfiles "
+"<Number> --userlib <User Libraries> --transformation http://asgc-"
+"ui03.grid.sinica.edu.tw/panda/transformations/user/user.hlee/job-gen.py``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:54
+#: 440bb6e0d0a84aee99212944d4de3cd3
+msgid "--computingSite"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:56
+#: 73e6296cc14d4d62948e97dc1e098ba9
+msgid "Use to specify computing sites."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:57
+#: 9c5cfe9a1eee4c4da61d0566291e6eb5
+msgid ""
+"Each VO has its corresponding computing sites and each sits contains "
+"different resources."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:58
+#: 3df1f4260ea44f99a3c4cb798f06c806
+msgid ""
+"For twgrid user or IOP users. please always use sites with prefix "
+"ANALY_TAIWAN_TWGRID_*"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:59
+#: 160c77d4bdf04f8c9e2e8ced80dd3591
+msgid "Reference :  [Available Computing Sites](wiki:/available_computing_sites/)"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:62
+#: ec7aba645a654d7b83ab4347d4740cf1
+msgid "--jobCommands"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:64
+#: 7a061a66a2f64ab584d82606eca63b23
+msgid "<*\"Commands\"*> is the command that runs your applications or scripts."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:65
+#: c0c3503f52a149d1aa6ff44361bc64e6
+msgid "Just like that your run on your PC."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:66
+#: 547f9b5cd5cc48aab28a1e8fbd795f7d
+msgid ""
+"It can be any UNIX commands, shell scripts or other executable "
+"applications."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:67
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:82
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:124
+#: 7822bb006d65488e82724988985f6185 bd10fbce3d4b468e87add9557a8dcd2b
+#: f5dc4c451f364ba5bdf4461b12223ac6
+msgid "For example :"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:69
+#: 938f114c93d1406399106fe567f772de
+msgid "--jobCommands \"sh myScript.sh arg1 arg2\""
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:70
+#: 112e55a511714d7ba72b47e8edee40a5
+msgid "--jobCommands \"echo hostname; cat myInput.txt\""
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:71
+#: e7834617171a4627871512a6c1624366
+msgid "--jobCommands \"python myAPP.py\""
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:74
+#: 83ce189c6c1b465c8c363251a7d2a9d8
+msgid "--runList"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:76
+#: 92f97411ff53429c8c3c762a9076b9fd
+msgid "<*Input File List*> is a **local text file** to specify input list."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:77
+#: 3ae5b22009304f57933fc529609fd9c7
+msgid "Each line will be treated as one input file."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:87
+#: 2e442c49efeb43a9ac5493fefd22a950
+msgid "There are three kinds of formats :"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:87
+#: d1659698324a4852956cdb96b2287b0f
+msgid ""
+"Using our Distributed Data Management (DDM), the format will be : "
+"**[scope]:[filename]**"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:86
+#: d9dd7f0c63264a56aba2883abe487d89
+msgid "[scope]:[filename]"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:80
+#: 4371b797a4ff4e8cbfb1dd18d6c048ac
+msgid ""
+"You have to upload the input files to our DDM first, via [web "
+"UI](https://dicos.grid.sinica.edu.tw/ddm/) or [command-"
+"line](wiki:/data_management_command_line_tool/)."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:81
+#: 411c9b803d134040806cd2d107e7a3e0
+msgid ""
+"The input files will be downloaded from DDM to the working directory by "
+"pilot automatically."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:84
+#: 295726423a594306ac07792835cd78b4
+msgid ""
+"ams-user-felixlee:Trigger_1368946224.00000001.root ams-user-"
+"felixlee:Trigger_1368947640.00000001.root ams-user-"
+"felixlee:Trigger_1368949011.00000001.root"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:89
+#: c091af6da5c344c59821fa421a65d46d
+msgid "--noDM"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:91
+#: adbc2e2947bf4723839ab0a1c2a50121
+msgid ""
+"It's important if you don't use inputs from our Distributed Data "
+"Management (DDM) system, use this option, the pilot will not go to data "
+"management system to get your inputs."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:94
+#: 080e1b07fb5d4beda4c5f4023c44cb0b
+msgid "--taskname"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:96
+#: d010fcdafd2c4d84b01a4db1a5e7208e
+msgid "Use to specify task name, it will be also used as the output dataset name."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:99
+#: 49e34d218ad54587bbeaa1400c9de25d
+msgid "--nfiles"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:101
+#: 730e1721cf7b4ab88059db2c07b3351d
+msgid "Use to specify how many inputs files per job."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:103
+#: ab4127a7c13147ff9840d44da0ac3490
+msgid "dusb will divide the files in the <*Input File List*> by the sequence."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:104
+#: 407a8d4d04354a6f89c7868e72759dc6
+msgid ""
+"For example, there 50 files listed in the <*Input File List*> and "
+"--nfiles 5. It means that dsub will submit 10 jobs, each with 5 inputs."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:106
+#: d4fa16c5eab247d1ae7a0ae103faae03
+msgid "--userlib"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:108
+#: 56a922f720e74e599ba6d5579e078a6f
+msgid "Use to specify user libraries."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:109
+#: 8e7bb1ea18bc4fb2b931b58667a54b3a
+msgid ""
+"These user libraries must be registered in user scope in our distributed "
+"data management system(RUCIO)."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:110
+#: 41cbb5e4800a4894a70bcac9604a903f
+msgid ""
+"If the libraries are tarball, pilot will untar for you in the working "
+"directory."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:111
+#: 2926e18d02134424b93bbcd6a15aeded
+msgid "You could use \"**,**\" to separate the multiple files."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:112
+#: 8d609f2ea29d475282e84cd007f382ec
+msgid "Just give it the file name, for example :"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:118
+#: 59f1ffc99c8843059765835ac121a3c7
+msgid "--transformation"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:120
+#: 0ef7d765d4be4609834c2b22897233b5
+msgid "Use to specify transformation script."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:121
+#: 7c01ceaa96d14e3999ee0e6e2af8c82e
+msgid ""
+"At this moment, please use  http://asgc-"
+"ui03.grid.sinica.edu.tw/panda/transformations/user/user.hlee/job-gen.py"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:122
+#: 9fe01a0512914313ad296f8ae26f0f48
+msgid ""
+"To know more about the transformation script. [What is the transformation"
+" script ?](wiki:/what_is_the_transformation_script/)"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:123
+#: b954d59e2d684431b211d2b1d697163e
+msgid ""
+"Once you know how transformation script works, you can have your own "
+"transformation."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:130
+#: b308892ab25d4ac9998f56ae06b4b2ef
+msgid "--help"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:132
+#: 0451cda66eac4942ac1900b77f39e4b6
+msgid "Get more information about dsub with command dsub --help"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:140
+#: d64224dfaf0d4328a41bebe2ca896ae0
+msgid "Get job status"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:142
+#: 32ef61ade6aa4473a549e0612ca56a93
+msgid "Get the job status and other related information."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:144
+#: de69e239792d4ce29f3d7bd829aad066
+msgid "``getjobstatus.py <panda ID 1> <panda ID 2> ... <panda ID N>``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:153
+#: c93a6f2a84794259a437f40f7432f6b6
+msgid ""
+"You could also go to `web UI "
+"<https://dicos.grid.sinica.edu.tw/monitor/>`_ to monitor the jobs."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:158
+#: bbae62309fe64696af067d40f45067c1
+msgid "Cancel job"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:160
+#: e1fe4ab3ede346d5b90fcf2da2d23c8b
+msgid "Cancel the jobs in status \"running\" or \"activated\"."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:162
+#: 66fceb9f99e34b1fbe99e50362e0216f
+msgid "``killjobs.py <panda ID 1> <panda ID 2> ... <panda ID N>``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:170
+#: 61ec6b7947c14deb88bf14d339c8e694
+msgid "\"activated\" jobs will be cancelled entirely."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:171
+#: c9eb6bb97fbb4158aeb8d2412a3b4ed8
+msgid ""
+"It's not guaranteed that all the \"running\" jobs will be killed. Some of"
+" them will still run until it finish themselves."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:175
+#: 35205eaeb197477ea028848db3251f02
+msgid "Rerun job"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:177
+#: 92d3c574de774b3aa0c0e6bda911e2ac
+msgid "In case job failed, rerun jobs without changing anything."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:179
+#: 093a6f49ef0c4831822b6c80918a73e6
+msgid "``rerunjobs.py <panda ID 1> <panda ID 2> ... <panda ID N>``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:187
+#: 1021d2bb04234963861b634bfe80e0a8
+msgid ""
+"rerunjobs.py will submit jobs again with all the same arguments that you "
+"submitted first time, and return the new panda ID."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:191
+#: 9c2fa775b0624963a735cbc8b67c5dfd
+msgid "Practice"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:193
+#: b616942555e4499894020cc2e503349c
+msgid "Preparation"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:195
+#: 7d296e1493a846afbc44fe567dce9ad8
+msgid "Assuming you have application and job script like:"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:197
+#: 51cd66538fcf4fabac8db97f7ba12ca0
+msgid "``myprog.exe``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:199
+#: b312a2ef6c6641d58b9cb76db1422e41
+msgid "The myprog.exe needs following arguments"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:205
+#: 33e3e4ead6e04cc6b259ebabd22047c7
+msgid "``libmyprogs.so``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:207
+#: f97454f3b56a4c68a4c2dcd062799145
+msgid "``myscript.sh``"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:209
+#: a1c8f5019b2e438d8c84d3301fbaba22
+msgid "Here is myscripts.sh:"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:217
+#: aba881409ab04e2290e0b0ac711fa67f
+msgid "Then, you need to make them into tarball, let's say \"myuserlib.tar.gz\"."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:223
+#: 6237a0450a7f47fab0a6583b7c6031c1
+msgid ""
+"Upload myuserlib.tar.gz to our data management system. please refer: "
+":doc:`web UI <dicos_djm/dicos/dicos101>`) or :doc:`command-line "
+"<other/data_management_command_line_tool>`)"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:225
+#: a18a6f51ac1a485aa5de4c89ee284f62
+msgid ""
+"Once your ``myuserlib.tar.gz`` is available at our distributed DM system,"
+" you can then pick up your inputs either from our distributed DM system "
+"or anywhere as long as the cluster worker node can have access to it."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:227
+#: bbb793188e6e493e98a370275b12b196
+msgid ""
+"Here we assume input files are stored at local NFS, so, we create a list "
+"called \"myinputs.list\" with following contents:"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:236
+#: 22ca32efa65c4652af1aa96d59111832
+msgid "Execute"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:238
+#: c25e08c5ba274ad89322a91a0df61518
+msgid "Initialize the voms proxy, assuming you have twgrid VO."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:246
+#: e8027fa46fad4f50ab4128bc7eb3bfbb
+msgid ""
+"We want to process two inputs for each jobs, and we want to run a small "
+"case with array size 64, and the run jobs at ANALY_TAIWAN_TWGRID_PHYS."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:247
+#: bd70beb968274597ac0e7438b63d14f0
+msgid "Because the inputs are not from the DDM, use --noDM"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:248
+#: 189afb92c39e48b0ac1b5bedea9c5d3c
+msgid "The following command will do:"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:254
+#: 414c8bc42205447693d72051cdd181cb
+msgid "If the job is submitted successfully, it will return panda ID like this:"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:261
+#: b6a68bd0ee0b4eefa3c3d795e24b091b
+msgid "Result"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:263
+#: d796b6ec8f374b6f86e81ecce228fdad
+msgid ""
+"Use getjobstatus.py to check job status or visit `web UI "
+"<https://dicos.grid.sinica.edu.tw/monitor/>`_ to monitor."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:269
+#: 0ea6da0acd5548e284bc8ddffa39f7f7
+msgid "In case job failed, use rerunjobs.py to rerun jobs."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:275
+#: ab9c8664b43a4e0fb3246e151a18e68a
+msgid "In case job finished, download the output to check."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:277
+#: 441704c61abf42e09efc0309934c4f8d
+msgid ""
+"The taskname \"Asize64\" will also be the name of output dataset, "
+"download this dataset to get the outputs."
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:279
+#: c023e9aa796d4170941615a40810ce50
+msgid "Use :doc:`command-line tool <other/data_management_command_line_tool>`"
+msgstr ""
+
+#: ../../source/.bk/other/job_submission_command_line_tool.rst:280
+#: 9771d5e09fc2421e86ff176b89a6ed00
+msgid "Use `web UI <https://dicos.grid.sinica.edu.tw/ddm/>`_"
+msgstr ""
+

@@ -1,0 +1,335 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/accounting.rst:3 5048b989140f403cba625ad3a48a71f8
+msgid "Accounting and Pricing"
+msgstr ""
+
+#: ../../source/accounting.rst:9 54b4da98d79a4e24bfe883e01a24a030
+msgid "Accounting Information"
+msgstr ""
+
+#: ../../source/accounting.rst:12 16b1e0653d6d45a4be726c773ecf63b7
+msgid "Monthly Accounting"
+msgstr ""
+
+#: ../../source/accounting.rst:14 8416c2e0c388404a9657198af6593b3a
+msgid ""
+"The monthly accounting will be calculated and formatted as a bill in "
+"group basis. The group PI will receieve the bill and accounting report by"
+" the 15th of next month. The accounting bill is also viewable in the "
+"DiCOS web."
+msgstr ""
+
+#: ../../source/accounting.rst:17 eacb73ea700c471baf681ce8a392c35f
+msgid "Accounting/Usage Dashboard"
+msgstr ""
+
+#: ../../source/accounting.rst:19 135a523b576d42ddb7eee83df40a03a8
+msgid ""
+"We are arranging for some dashboard for user's accounting information and"
+" the usage of the resources. Please wait for the dashboard. Thank you."
+msgstr ""
+
+#: ../../source/accounting.rst:23 a543f8ce383d471697036a84d341fe6a
+msgid "Accounting Regulations"
+msgstr ""
+
+#: ../../source/accounting.rst:26 b24cb0aea57f4a229c98c55c16aed05e
+msgid "ASGC 研究型服務收費 (ASGC Pricing)"
+msgstr ""
+
+#: ../../source/accounting.rst:28 4ba3ad2f09574bb2b5d63927e2b12700
+msgid ""
+"**物理所⾼能物理與科學計算中⼼** (簡稱 **科學計算中⼼** 或 **ASGC**) "
+"與院內研究團隊合作，⽀援⼤數據分析與科學計算等需求。依據使⽤者付費與永續發展策略，收費內容包含計算服務、儲存服務、以及系統開發與維運三項。計算服務以"
+" Standard Resource Unit (SRU) 為單位計算使⽤費。SRU "
+"為計算系統依其效能加權後計算設備使⽤量的單位。儲存服務每⽉以實際使⽤過的最⼤空間計算，逐⽉合計。系統開發與維運為需額外軟體系統或服務開發之需求，以⼈時為單位計算。計費模式彙整如表一。各計算系統每⼆⼗四⼩時使⽤單價"
+" (以 CPUCore-Day 或 GPUBoard-Day 計算) 如表⼆。本中⼼每⽉寄送使⽤統計與預估費⽤予各 PI。實際應付費⽤為使⽤費 "
+"(計算、儲存與開發總和) "
+"減去扣減額。扣減額則包含院⽅補助本中⼼費⽤，以及合作研究團隊提供之經費或設備。使⽤費可以年度繳付，或於帳號結束時繳付。繳付⽅式請依院內規定辦理，憑本中⼼開立之使⽤費通知，於次年⼀⽉經院內預算系統轉帳予本中⼼。院外使⽤者則請透過電匯、⽀票或到院繳付等⽅式付款。"
+msgstr ""
+
+#: ../../source/accounting.rst:31 acde494a124242fb975ee1a55b1f9d62
+msgid "表一：本表說明物理所⾼能物理與科學計算中⼼研究服務計費模式"
+msgstr ""
+
+#: ../../source/accounting.rst:34 8ac706f0faf9457684816bb8823b106f
+msgid "研究服務項⽬"
+msgstr ""
+
+#: ../../source/accounting.rst:35 1028de52b5f54fcf8d26f5f0677cae94
+msgid "計費模式 (院內使⽤者)"
+msgstr ""
+
+#: ../../source/accounting.rst:36 299ea294ec5448a984927b627bef7b86
+msgid "計算服務"
+msgstr ""
+
+#: ../../source/accounting.rst:37 f42172bd70644db48baf8d4e273e4546
+msgid "各系統依效能正規化後之 SRU 為單位計費。1 SRU = NTD$3"
+msgstr ""
+
+#: ../../source/accounting.rst:38 9b366ce39d4a4a4bbd1073e2c768520a
+msgid "儲存服務"
+msgstr ""
+
+#: ../../source/accounting.rst:39 1d9bbd2e7919447697909bd6dbd32809
+msgid "1,000NTD/TB-Year"
+msgstr ""
+
+#: ../../source/accounting.rst:40 8005b83e7e0d467791231301f40ba48e
+msgid "系統開發與維運"
+msgstr ""
+
+#: ../../source/accounting.rst:41 0ff0e64d8579418ba114fbbb805ed2b2
+msgid "基本維運成本均已列入計價模式。額外需開發之軟體、系統或使⽤介⾯等，將另按⼯時計費"
+msgstr ""
+
+#: ../../source/accounting.rst:42 d2730ea2fd8c470cb1a08c54a42c1be2
+msgid "資料傳輸"
+msgstr ""
+
+#: ../../source/accounting.rst:43 7d561932e2c54934ba5aa672f7558d13
+msgid "⽬前未納入計費"
+msgstr ""
+
+#: ../../source/accounting.rst:47 cee6c4ac8fc541a9844fcd475510056f
+msgid ""
+"計算服務使⽤費計算⽅式為 SRU ⽤量 x 3 (1 SRU = NTD$3)。SRU ⽤量為 CPUCore-Day 或 GPUBoard-"
+"Day 乘上系統權值"
+msgstr ""
+
+#: ../../source/accounting.rst:48 429c0f4574354d2d96edc9edb18a76dc
+msgid "基本維運包含穩定性、資安、系統更新與系統效能調校等，均已列入計價模式中，不另外計費"
+msgstr ""
+
+#: ../../source/accounting.rst:49 e7bbb4fe77bc4ae19fb4eabe0a3e180b
+msgid ""
+"如需額外軟體系統或服務開發，將再另以 50,000 NTD / 160 Work-Hr 為單位計費，或由需求單位提供⼈員費⽤。所聘⽤⼈⼒均由 "
+"ASGC 統⼀調度管理"
+msgstr ""
+
+#: ../../source/accounting.rst:50 06d16ed1ac0646c88b7f4b8b15afa7a1
+msgid "⾃⾏提供設備或設備費，併入網格中⼼共享資源者，該單位使⽤費將可扣減(每年扣除該設 備購置費⽤五分之⼀)。且提供單位有該設備優先使⽤權"
+msgstr ""
+
+#: ../../source/accounting.rst:51 c778baf92aa64d5c84d83f9dd78c0e13
+msgid "此計費辦法將每年與使⽤社群討論更新"
+msgstr ""
+
+#: ../../source/accounting.rst:55 49b04b08a8f64503ba100556a58a8bd2
+msgid ""
+"中研院冷凍電顯大數據分析與資料儲存資源使用說明 (ASCEM‐ASGC Big Data Analysis Resource Usage for "
+"CryoEM Data Storage and Computing)"
+msgstr ""
+
+#: ../../source/accounting.rst:57 4783d60524424743a75b8fd3f0ea8498
+msgid ""
+"本院冷凍電顯核心設施與網格中心 (ASGC) "
+"合作提供冷凍電顯設施使用者穩定且高效能的大數據處理與運算資源。依據研究需求，客製化從取得數據到完成分析與資料備份保存整體資料處理流程，如同使用專屬設施般，便利的使用"
+" CryoSparc, Relion, CisTEM, JupyterLab "
+"等工具，於整合的高效能雲端計算與儲存資源完成所需分析。使用者可依據需要選擇分析環境與不同效能的 GPU (V100, 3090, P100) 或 "
+"CPU 計算資源。每位使用者於計算環境中可使用最大儲存空間為 60TB，另並提供預設儲存二份的備份與長期保存空間。 "
+"為維持整體雲端系統的穩定與效能，計算與儲存資源均依據用量列計使用費，每年一月需繳付前一年的使用費。所收取費用均優先改善冷凍電顯大數據分析資源與效能。冷凍電顯計算與儲存資源之管理均以群組為單位，PI"
+" "
+"為該群組負責人。各群組間資料均獨立。網格中心每月將提供每位主持人前一月份的使用量與費用報表，並於每年一月寄送繳費通知。服務內容與計費模式均將透過冷凍電顯定期的使用者委員會議中，持續檢討改善。"
+" 使用運算資源者，應於學術發表中致謝 TPP、ASCEM、及 ASGC。 "
+"使用帳號申請、計費模式、服務內容以及任何問題與建議，均請參見網格中心網站，或逕與網格中心聯繫。"
+msgstr ""
+
+#: ../../source/accounting.rst:59 2c7f2a0fda3b4fd6a84467244e4d14a4
+msgid ""
+"ASGC provides big data computing and storage resource and services for "
+"ASCEM users in collaboration with ASCEM. According to the research needs,"
+" customized data analysis pipeline is provisioned over the science cloud "
+"integrating high-performance GPU, CPU clusters as well as data storage "
+"system. CryoSparc, Relion, CisTEM, and JupyterLab are all available over "
+"the cloud right as dedicated computing environment. User could choose a "
+"variety of GPU or CPU resource for his analysis based on performance "
+"requirements. Each user account has 60TB disk space quota. Services for "
+"backup and long-term storage with two-copy by default are also provided. "
+"In order to maintain the reliability and efficiency of the ASCEM "
+"computing system evolutionarily, resource usage fee is a must according "
+"to the consumption. Resource usage fee is paid based on PI group annually"
+" in January. These payment will be used to enhance the reliability and "
+"efficiency of ASCEM computing system precedently. Monthly accounting "
+"report will be delivered to each PI including usage of every member "
+"account. Any improvement of the services, pricing model and resource "
+"policy will be discussed in regular ASCEM User Committee meeting. In "
+"addition to ASCEM (Academia Sinica Cryo-EM Facility) and TPP (Taiwan "
+"Protein Project (Grant No. AS-KPQ-109-TPP2)), please also include ASGC "
+"(Academia Sinica Grid-computing Center) in the acknowledgement when "
+"research outcomes that relied on ASGC resources, services or expertise "
+"are presented in your research. User account application, pricing model, "
+"services and any comment or question, please refer to ASGC web site or "
+"contact ASGC directly."
+msgstr ""
+
+#: ../../source/accounting.rst:63 93d2cc1c8b494d95acc571fa04b89d95
+msgid "Pricing Rate"
+msgstr ""
+
+#: ../../source/accounting.rst:66 33844a1fe517481ab6312bc9ca73d544
+msgid "Computing Resource (CE)"
+msgstr ""
+
+#: ../../source/accounting.rst:68 9fc442d5249d4915862f20c9290c67e2
+msgid ""
+"本表各系統每⼆⼗四⼩時使⽤量之單價（以 CPUCore-Day 或 GPUBoard-Day 計算)。 (Last Updated: Feb. "
+"2022. Pricing model will be reviewed and revised annually.)"
+msgstr ""
+
+#: ../../source/accounting.rst:71 65b6db688f09463d8298b2179669295d
+msgid "Computing Pricing (1 SRU = NTD$3)"
+msgstr ""
+
+#: ../../source/accounting.rst:73 59192adbd754416bbd4f3d838bdc9720
+msgid "表二a：ASGC CE Pricing 2022 Feb."
+msgstr ""
+
+#: ../../source/accounting.rst:76 0db88ad47ffd4701a9736a625ceed9b6
+msgid "Model"
+msgstr ""
+
+#: ../../source/accounting.rst:77 9a57bd03a23c4475a61d285b07568dd6
+msgid "Type"
+msgstr ""
+
+#: ../../source/accounting.rst:78 cbd222ee20374a2b94714e2b1bfa38dc
+msgid "Price (CPU Core/GPU Board/Day in NT$)"
+msgstr ""
+
+#: ../../source/accounting.rst:79 1929da0effa148fa96e9c06a5e241a7f
+msgid "FDR5"
+msgstr ""
+
+#: ../../source/accounting.rst:80 ../../source/accounting.rst:83
+#: ../../source/accounting.rst:86 ../../source/accounting.rst:89
+#: 195a5a2e01d2473980b9cfe8889d4582 4f6d767fd44a4d60b6617bc49e55aa9d
+#: 93b490d387544fc2966c805669f23340 adbd1b49ba1e496ba880d6276e675796
+msgid "CPU"
+msgstr ""
+
+#: ../../source/accounting.rst:81 5def6fc9e79147cbbcfa683939672446
+msgid "1.2"
+msgstr ""
+
+#: ../../source/accounting.rst:82 301883af620e43de8e295f618e88297a
+msgid "FDR4"
+msgstr ""
+
+#: ../../source/accounting.rst:84 ca0025826f1f4c959a595733fed2b40d
+msgid "1"
+msgstr ""
+
+#: ../../source/accounting.rst:85 3bc3a581a9a14aff8397d35824d3a759
+msgid "QDR4"
+msgstr ""
+
+#: ../../source/accounting.rst:87 67c8e54d646e45859820c044f46b3e17
+msgid "0.75"
+msgstr ""
+
+#: ../../source/accounting.rst:88 e6d7196f5c0544a3a639c05c9d34ce03
+msgid "QDR2"
+msgstr ""
+
+#: ../../source/accounting.rst:90 2f8b934797a947a0bcce4b0a26f30294
+msgid "0.65"
+msgstr ""
+
+#: ../../source/accounting.rst:91 6efdc1d70733497f8d123a29da27ba63
+msgid "GTX-1080Ti"
+msgstr ""
+
+#: ../../source/accounting.rst:92 ../../source/accounting.rst:95
+#: ../../source/accounting.rst:98 ../../source/accounting.rst:101
+#: ../../source/accounting.rst:104 2732a435fc534f81a967167db9d13efc
+#: 492de3928afb4678a14bb78907920e10 a423ee1e0a7a4a1b822377bde8a5bd08
+#: a6f8e7df16534e48989f4a5fa5b6728d c8ceb65d53ce4d00bf13407fcf737988
+msgid "GPU"
+msgstr ""
+
+#: ../../source/accounting.rst:93 7789a07e59e0404f80cdacf3a5120912
+msgid "5"
+msgstr ""
+
+#: ../../source/accounting.rst:94 fbc45fadfdca486f8f64b881a306d145
+msgid "RTX3090"
+msgstr ""
+
+#: ../../source/accounting.rst:96 82b31fd52d614c85b2b0236ac51cb7f1
+msgid "395"
+msgstr ""
+
+#: ../../source/accounting.rst:97 37b11542dde84bc7b7df809cb53131f0
+msgid "P100"
+msgstr ""
+
+#: ../../source/accounting.rst:99 ee8ad4692e674ba597d0c9d62ba75dd8
+msgid "235"
+msgstr ""
+
+#: ../../source/accounting.rst:100 bdc1f53f0928444aa8b11a1ef3a7c789
+msgid "V100"
+msgstr ""
+
+#: ../../source/accounting.rst:102 0d5d760661fb466fa992a1c42bf0e3ff
+msgid "350"
+msgstr ""
+
+#: ../../source/accounting.rst:103 569fbf539e004f869cce6aa2dd791356
+msgid "A100"
+msgstr ""
+
+#: ../../source/accounting.rst:105 beb0634741ad44afbb3d501c95f4b206
+msgid "865"
+msgstr ""
+
+#: ../../source/accounting.rst:108 898bd04e802a4bd0b1b46a33364fb237
+msgid "Storage Resource (SE)"
+msgstr ""
+
+#: ../../source/accounting.rst:110 a76815fb4cc049588233bd7b3187fc45
+msgid "表二b：ASGC SE Pricing 2022 Feb."
+msgstr ""
+
+#: ../../source/accounting.rst:113 ../../source/accounting.rst:115
+#: 015e39d33eca469f904b7b19916d2b6a dbe21f14e91f497b8e3441b1f1956f70
+msgid "Storage"
+msgstr ""
+
+#: ../../source/accounting.rst:114 57bedc6ed12e4db49992bb47cf05fc3b
+msgid "Price (TB/year in NT$)"
+msgstr ""
+
+#: ../../source/accounting.rst:116 52261a9e839a440199f17d1fa2a54493
+msgid "1000"
+msgstr ""
+
+#: ../../source/accounting.rst:119 52cc39dad6bf4d2795ee1eddd7f15b56
+msgid "Power Consumpution"
+msgstr ""
+
+#: ../../source/accounting.rst:121 641a0c43629843e39d0cf9af7f08fd8d
+msgid "TBD"
+msgstr ""
+

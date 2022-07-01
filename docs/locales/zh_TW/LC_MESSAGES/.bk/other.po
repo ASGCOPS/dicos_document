@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/other.rst:3 9f5eb4e9e55d4979af38ce88513a2076
+msgid "Other Articles"
+msgstr ""
+
+#: ../../source/.bk/other.rst:5 dee39347f03948cca2b79f6760c42cad
+msgid ""
+":doc:`Data Management Client Command Line Tool (Old) "
+"<other/data_management_client_command_line_tool>`"
+msgstr ""
+
+#: ../../source/.bk/other.rst:6 d379c2d4a2ee4de59ba6bc9b7427bb29
+msgid ""
+":doc:`Job Submission Command Line Tool (Old) "
+"<other/job_submission_command_line_tool>`"
+msgstr ""
+
+#: ../../source/.bk/other.rst:8 81eedf3eb8614a7db7dbee22af1b1f19
+msgid ":doc:`Available Computing Sites <other/available_computing_sites>`"
+msgstr ""
+
+#: ../../source/.bk/other.rst:9 14a51f64c75c436ca96d5f05dac11896
+msgid ""
+":doc:`What is the transformation script? "
+"<other/what_is_the_transformation_script>`"
+msgstr ""
+
+#: ../../source/.bk/other.rst:11 305c3e7c8e844e06a33855120d59c9b5
+msgid ""
+":doc:`Data Management Command Line Tool "
+"<other/data_management_command_line_tool>` (Obsolete)"
+msgstr ""
+
+#: ../../source/.bk/other.rst:12 b4bf96b0a0ca478aa3f389ccde4ddc34
+msgid ""
+":doc:`CryoEM priority user guide <other/cryoem_priority_user_guide>` "
+"(Obsolete)"
+msgstr ""
+

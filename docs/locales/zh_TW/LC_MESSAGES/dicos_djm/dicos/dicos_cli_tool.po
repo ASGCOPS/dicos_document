@@ -1,0 +1,520 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:2
+#: 091d315da33c405fa0e988ea4b0b50ca
+msgid "DiCOS CLI Tool (Deprecated)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:6
+#: 9e36bbeb70064542a30ead8f96bf3595
+msgid "NOTE! DiCOS Services are no longer required CA & VO."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:8
+#: 61d1a28a72a343349e1f57349637cc96
+msgid ""
+"Refer to :doc:`DiCOS_Client_Tool <dicos_cli_tool_bridge>` for "
+"instructions of dicos-client-tools."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:9
+#: d388bc27b71a4d88a0f84af05388ded5
+msgid "Only specific grid resources will need CA & VO authentication."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:13
+#: 6059d0025adb4da69b314ba14c1688e1
+msgid "Before using DiCOS CLI Tool with CA & VO..."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:17
+#: 256a75030e8349dbb582d687bd8ad30c
+msgid "About Certificates & VO"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:19
+#: 6a8b9fe7e041483bb7584ba56f6a69c6
+msgid "[Apply for certificate](wiki:/apply_for_certificate)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:20
+#: 33b818885a1847fa8b8c77e58b1629ec
+msgid "[Import certificate to browser](wiki:/import_certificate_to_browser)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:21
+#: 7f05f84da4314724bbc3a77dfbd67fb9
+msgid "[Join Virtual Organization](wiki:/join_virtial_organization)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:25
+#: 8fc2edeee69a428c8867a987a0f46757
+msgid "### Preparation 0: Log in DiCOS command-line UI server"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:27
+#: ea923e4efd4f4b2492485605902fd483
+msgid "SSH login one of dicos UI server with your DiCOS account and password."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:29
+#: 999e153b8d0847d1ac4cd2f5fac1959f
+msgid "dicos-ui02 (CentOS6)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:30
+#: 2cc25039ab174dbf930638db135d4fc2
+msgid "dicos-ui04 & dicos-ui06.grid.sinica.edu.tw (CentOS7)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:38
+#: 9180d2b7f1bc4ff8a19d0d25149e99a3
+msgid "You should login successfully."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:42
+#: 3ea94277755348babf0eaca57761d337
+msgid "### Preparation 1: Put your Grid key/certificate in place"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:44
+#: 936f8eb88d7942a28dbedad709742698
+msgid ""
+"To use DiCOS CLI Tool, you need to prepare the Grid key/certificate file "
+"pair (usually named `usercert.pem` and `userkey.pem`), which is the same "
+"certificate you applied for your DiCOS account with."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:46
+#: 6820832c731e484b8fd62a451822cb72
+msgid "Create a directory named ``.globus`` under your home directory."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:52
+#: cd6eda4603fa41588b4e782d6ddcb854
+msgid ""
+"Copy your key/certificate file pair into the directory ``~/.globus/`` on "
+"DiCOS command-line UI server. For example, you may copy your "
+"key/certificate from your PC via scp:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:60
+#: 6e0b1e7650494bd09be37710f9a27144
+msgid ""
+"Make sure the key and certificate are named ``usercert.pem`` and "
+"``userkey.pem`` respectively under your ``~/.globus/`` directory."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:67
+#: 2c34fafb496241ca9f974e94fe04fa37
+msgid ""
+"Change permission of your key and certificate. Note the permission of "
+"``usercert.pem`` should be ``0644``, and ``userkey.pem`` should be "
+"``0400``."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:80
+#: 262d33781ac34cf4b141c76e516015cb
+msgid "Preparation 2: Initialize your voms proxy."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:82
+#: e0b09a70f3b44f0d9749868e65e5966c
+msgid "You need to initialize voms proxy to access DiCOS services."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:84
+#: 022cd6d8f9034d65b40b6cd487073229
+msgid ""
+"You should already have a membership of specific VO (Virtual "
+"Organization, usually ``twgrid``) associated with your user certificate. "
+"(If not, see :doc:`here <./../dicos_account/account_old>`)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:86
+#: 84d6babba9f344298ca5181966cf2b10
+msgid "Initialize voms proxy with the command:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:92
+#: cd0e348b2ad64bde9be51f49dbd25cf4
+msgid "For example, with ``twgird`` vo :"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:98
+#: 880041df7b784727858d817230646e03
+msgid ""
+"Enter the password of your key (paired with your Grid certificate), and "
+"you will get a success message."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:104
+#: 212cd7c5da6f4c4f92d333190faa6faa
+msgid "**Troubleshooting.** When you see this:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:112
+#: 0140bfc5c5994b799cb562a647f2a902
+msgid ""
+"It means ``your proxy is expired``. Please re-initialize your proxy by "
+"execute the same command above."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:116
+#: f2d1a8e316d44f29b298b67b19d1c3af
+msgid "Quick Start Tutorial"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:118
+#: 57eebfdea50f4f80a517c042fd262e9c
+msgid "Here shows a simple example step by step to run job with DiCOS."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:120
+#: f17515d831ef4e4c8ce8aa95087dd1dc
+msgid ""
+"Here is an example job, which will generate an output file "
+"``MyOutput.txt``, whose content is a string ``Hello``. Please save the "
+"following content as a file and named it ``PrintHello.sh``."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:129
+#: 6fcf7b67e0dd464891ade855723d47f1
+msgid "Next, check your file is in your home directory, type `ls` to check."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:136
+#: f64c1e6185da41279c6d35f3da6846f7
+msgid "Now, we will start to submit a job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:142
+#: 33019e479044483abd6ba41bce4428e2
+msgid ""
+"Command ``dicos`` is the only command to know. All command lines related "
+"to DiCOS begin with `dicos`."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:143
+#: 5ac15024c35f48898c36a6851a7f88af
+msgid ""
+"Command ``job`` is one subcommand of `dicos`, which means `do some "
+"operation about job`."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:144
+#: 38ab6d4a1e05470bb0dce9d1635430b4
+msgid ""
+"Command ``submit`` is one subcommand of 'job', which means `to submit "
+"job(s)`."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:145
+#: a6f4882c525a42499f41e06081f109c7
+msgid ""
+"The option ``-i`` of ``submit`` is to specify input files of your job. "
+"Put your specified local file path after it."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:146
+#: 53cdf442d5544e46b95e9489d5703cb6
+msgid ""
+"The option ``-N`` of ``submit`` is to specify the name of this task (job "
+"or jobs) to submit."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:147
+#: a83bc38538ce43efa348db68f085d903
+msgid ""
+"The option ``-c`` of ``submit`` is to specify the command to execute. In "
+"this example, \"./PrintHello.sh\" means 'just execute PrintHello.sh'"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:149
+#: 1ad82cdf6e8b473b917455511691bef8
+msgid ""
+"After executing this command, you will get the JobID (aka PandaID) and "
+"TaskID (aka jobDefinitionID) of your job(s):"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:155
+#: f44e3a8e41644e41ac09bb26efe765d7
+msgid "Next, you can check job status via command."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:161
+#: 5b18c6c1d7614be5a8206162cba7774f
+msgid "And you can see something like:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:170
+#: 6c1496f715424025bb30f47671dbe6a0
+msgid "Then, wait patiently until the job finishes :)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:172
+#: 42ca4d3060784392bc5d7798209e9804
+msgid "Now, check the job status again to make sure it is finished."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:182
+#: b69fae1ed93543bf8fe115293dd754db
+msgid "If the job status has become ``finished``, it is time to get the output!"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:188
+#: 324020aba5ba44e6a756255a147fef4b
+msgid "In this example. <YourJobID> is ``9999999``."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:194
+#: d050cbfbcb254490b4a76aa1bb96c548
+msgid "And you will get a successful message."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:200
+#: 9e5e93a334ff490198cad97f0bb6b880
+msgid "where shows the directory containing the outputs of your job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:202
+#: f6ac5898fdd14eb398fa701552c03f55
+msgid "Now, use ``ls`` command to check this directory ."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:209
+#: e7dbb8c9e8a946e3b830ad726ede74c6
+msgid "And you can check if the output file is as expected:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:216
+#: 69fc9523e60e47be8743a53e19c03c5c
+msgid "Bravo!"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:218
+#: d218e669dc89428c8d44e81d124ded20
+msgid ""
+"The quick start tutorial ends here. For more details, see the description"
+" below."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:224
+#: c263d6d1a7ca4fe4b520dafbdf2307a7
+msgid "How to use these dicos subcommands and options?"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:226
+#: 43f057200413414d9026d8bccaec9928
+msgid ""
+"You can use ``-h`` or ``--help`` after any command lines starting with "
+"``dicos`` to get the help message of the subcommands or options."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:228
+#: 6a2e474b2dde44f99a65c6ae45e66abc
+msgid "For example, to see what subcommands of ``dicos`` are available:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:234
+#: d15a1ba90c6f46c7adce877eb6955d8a
+msgid "For example, to see what options of ``dicos job submit`` are available:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:243
+#: ac5179caddfd415b9dc623da95c53fec
+msgid "More Tips about DiCOS Subcommands"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:248
+#: 87943431ddd24885b596d64e41978cfb
+msgid "Ping DiCOS server, check server status and connection."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:257
+#: f4a0f1ff897c4ddf8e2848a046b4178b
+msgid "Check your proxy and get your ID infomation"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:266
+#: e383e91841b049cca74e34863ea30c50
+msgid "Deal with user voms proxy. See its subcommands description below."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:272
+#: 45224d7ec37546c1863ac699dfed8d8f
+msgid "Initialize your proxy for use DiCOS."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:281
+#: a675eb93646446d0b1d2a910d23bcaa7
+msgid "Set or change to specific VO of your proxy."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:290
+#: 8d9ebf103c21494785cc2888b03ee9e2
+msgid "Destroy your current proxy."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:298
+#: ff902b2f251f4d73bb8c2b0830271f37
+msgid "Job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:300
+#: c9fa989d33714a969bb1c60ecd6cc133
+msgid ""
+"Operations about jobs. See its subcommands description below, or use "
+"`--help` to see details of options."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:303
+#: 18cf46189abf4574adb0a6907d5ca2ec
+msgid "submit"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:305
+#: 227261d1bd4a4b5eb527499f7eed4304
+msgid "Submit job(s) to DiCOS server."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:311
+#: f5fe2aa4208a485083fbeb0e025b8539
+msgid ""
+"Or you can prepare one file list contain file name which you want to "
+"submit to DiCOS server."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:317
+#: df063d688e6040e49e7ed099d6bf5180
+msgid "You can also use -A to submit jobs with different arguments."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:323
+#: 5d182058fa164ea8a00bf452627f9b07
+msgid "Specify the computing resource requirement of your job."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:330
+#: 30e99f564fb347b68770e2cd41a95fd5
+msgid "status"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:332
+#: 8598d4ed8f1b42859dbff79cc52a9538
+msgid ""
+"Check status of job. The default subcommand just shows jobs within 240 "
+"hours, and 15 jobs at most."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:338
+#: ee5283cd69d243709b22606708c948aa
+msgid "Maybe You want to check a single job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:344
+#: 2d1b16c0a2eb4538b3e472642ee92c89
+msgid ""
+"You can get job status display in long format, and sort these result with"
+" specified column."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:352
+#: 904ec65646a04361aff3b55fd649f9a5
+msgid "Of course you can sort by reverse order."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:359
+#: 9264aa77f0db4ef9a7b399d8e6b20f77
+msgid ""
+"Now usable <ColumnTitle> are 'TaskID', 'PandaID', 'Name', 'Queue', "
+"'Creation_Time', 'End_Time', 'Status'."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:361
+#: e3bd2057595747a9a5fa7119acde810c
+msgid "<ColumnTitle> can be found when you check display in long format."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:364
+#: 60e7178552c34d508e0c5ea2a550ab3e
+msgid ""
+"In default display format, all jobs that have been resubmitted will not "
+"appear. If you need to check the information of all jobs, add `-al` "
+"option after command."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:374
+#: c05e69c03f854b0ea8061559cdac8d62
+msgid ""
+"If you want to check jobs submitted more than 240 hours ago or display "
+"more jobs, you can do it:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:382
+#: 758558f09fbe461182ab650602708f63
+msgid ""
+"Also, it is able to get job status by specifying <TaskID> (instead of "
+"<JobID>)."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:389
+#: 2c6a10628cbc48788403cabe8d669abb
+msgid "cancel"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:391
+#: 6ea26f877ec444da848a2d54d1572db9
+msgid "Cancel submitted job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:398
+#: d9012813878549698314683b0a6773a8
+msgid "resubmit"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:400
+#: 68a9cd9966f94a858bb6bcb4661b2516
+msgid "Resubmit submitted job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:407
+#: 5355dff462664b849eb78a6d7edaa38f
+msgid "getoutput"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:409
+#: 97243f428050427da9d1c114642f328b
+msgid "Get output files of submitted job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:415
+#: 7b798568617e432b9721c390b64472de
+msgid ""
+"Also, it is able to get output of all jobs in the same task by specifying"
+" <TaskID>."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicos_cli_tool.rst:422
+#: 08fe6a3bcdb3440eb883a906dafb4fc8
+msgid "**Don't forget to use `-h` or `--help` for more information.**"
+msgstr ""
+

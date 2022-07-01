@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:2
+#: 9b8a585e03b84d73a62c77811c3c0f82
+msgid "RELION Job Configuration"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:4
+#: 52555f50c29541a685446ef06a974d52
+msgid "Q: What's the ideal MPI number and thread number with current RELION APP?"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:6
+#: 5932ea6d011c4f188e2d12c5ee90cd2d
+msgid ""
+"A: *4 MPI* with *4 threads*. If it's GPU accelerated process, please use "
+"*5 MPI* with *4 threads*"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:8
+#: 8ec816ff53dc4db4a780e2a8d1fa5b02
+msgid ""
+"Q: What's the ideal MPI number and thread number with Premium RELION v100"
+" app?"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:10
+#: 167a0120f6a34835b8669b9fb8438a3b
+msgid ""
+"A: The v100 GPU is relatively powerful GPU against GTX-1080Ti. So, it can"
+" bear much load than 1080ti. In principle, with following job setup, user"
+" can get pretty nice speed up when dealing 2D and 3D classifications:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:12
+#: 602e95de1c494f23a3e9bd8d36c9157f
+msgid "*2D*: Number of *MPI procs: 16*, Number of *Threads: 1*"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:13
+#: 729c6f3455934f4e88974e0848b53e97
+msgid "*3D*: Number of *MPI procs: 9*, Number of *Threads: 2*"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:15
+#: 9ae81d58f1e64ab3b5555f6449b1f704
+msgid "Q: What if RELION encounters error?"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:17
+#: f1b9c8ed30c84b409ad0671e2e8060a2
+msgid "A: RELION is often stable. When error occurs, it would usually caused by:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:19
+#: a4411bcaa6c5491b96f71a5233eb74d0
+msgid ""
+"Memory or resources are not enough. For such error, simply reducing "
+"Thread number would just help. If the error lasts, then try reducing MPI "
+"number."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/relion_job_configuration.rst:20
+#: 159525b952134337bc5957b7515089a6
+msgid ""
+"Input file error. Checking log and removing problematic file indicated in"
+" log may just solve this issue."
+msgstr ""
+

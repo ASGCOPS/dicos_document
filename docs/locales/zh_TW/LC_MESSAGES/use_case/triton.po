@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/use_case/triton.rst:3 42d3145bcaca46a8bfb9de3991c5a9ad
+msgid "Use Triton inference server with DiCOS System"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:9 2fe1944ec25d4a39957b1d76eca69443
+msgid "Triton Scheme"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:15 702b165e8b33430d816ebab7f4a787b5
+msgid "Triton Server"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:17 ffa7a00c28f34245b0cd664360900282
+msgid "Using DiCOSAPP to start the Triton server"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:18 b5423c3893f34cadb597ea3c19d7be6e
+msgid ""
+"Ports will be revealed when the container is started - http port - grpc "
+"port - metric port (not opened)"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:22 b9e76f7ba20242878ad768518efee909
+msgid ""
+"Specficiations of the image: - Triton inference server 2.18 - P100 GPU x "
+"2 - CPU x 4 - Memory: 96 GB"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:27 075d6bef9a7a4619934fc7085d610045
+msgid "Usage: - Start the Triton DiCOSAPP from DiCOS web"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:32 262a712866f74d0a9afe6698f86ea312
+msgid "When the server start running, you will see the following boxes"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:36 88aced4d55e0473fa46819b9399e1c40
+msgid ""
+"Get the API port from the DiCOSAPP web page by press **Open** button, "
+"ports will be listed - HTTP - gRPC"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:42 5e4a4a8ff88d4201b79899df30d80d81
+msgid "Run your Triton client (see next section) to communicate with the server"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:43 f2dce1b1943c48df981139337f39c8b9
+msgid ""
+"Note: - The DiCOSAPP of Triton server is only accessable in the DiCOS "
+"resources for security reason - The API server will be: **k8s-"
+"master01.twgrid.org**"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:50 0b11524ac49242a69dddd92ca22874e2
+msgid "Upload Your Model"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:52 341c42c2db05482a9b43273e71d53524
+msgid ""
+"Currently, we have desginated a ceph path as the model_repository path of"
+" the Triton inference server for the users: - You could put your file in "
+"**/ceph/sharedfs/groups/KAGRA/model_repository**"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:54 0d11e2faeb6e4d3ca299b694a51b1836
+msgid ""
+"Note: - The space will be accounted as KAGRA group user space - If you "
+"are using DiCOS submit, at this stage, only QDR2 and FDR5 cluster will "
+"have access on the /ceph partition"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:57 c5b103d0f0854046b371ceef1291a1fb
+msgid ""
+"You could put your customized models to the model directory no matter the"
+" Triton server is running or not"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:61 beeec591ac2f4c4a86548fa4d170fca1
+msgid "Triton Client"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:65 a27b24a5d0734c30960037de16ab8453
+msgid ""
+"There are two different ways to submit your Triton client to our worker "
+"nodes:"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:63 e7f795c1a7f54e93a95847dd815e42f4
+msgid ""
+"DiCOS submit (from dicos-ui05.grid.sinica.edu.tw or dicos-"
+"ui06.grid.sinica.edu.tw)"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:64 6be7f07e9ebb4de79bded7190f234ff7
+msgid ""
+"Because you are requesting CPU resources, so there is no need to specify "
+"the queue with GPU resources"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:65 ff1a6190dafc4708b255cb2781f9c53f
+msgid "Slurm submit (from slurm-ui01.twgrid.org)"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:68 2809222574d3498a9fafce72ca0c5740
+msgid "Singularity Container"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:70 dbc210a7f7c744c6836c08d2fd490a07
+msgid ""
+"If you are using python as your programming language for the API access. "
+"A singularity image has been built for your usage. Location: "
+"**/ceph/astro_phys/singularity_image/python_tritonclient_slim-"
+"buster.sif**"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:73 0409614846e94991847a7c49ee507c2c
+msgid "Test Programs"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:75 238d9cb791234c058ece2d310b643a33
+msgid ""
+"You may get the following test programs from the Triton github repository"
+" (https://github.com/triton-inference-"
+"server/client/tree/main/src/python/examples): * "
+"simple_grpc_keepalive_client.py * simple_http_health_metadata.py"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:79 003742d4ac7a43b5af50c24e0f903a58
+msgid "A simple test program in shell could be written as (test.sh):"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:94 85738b6122534094a8fa9059b841936d
+msgid ""
+"A customized script utlize the singularity container could be written as "
+"(start_singularity.sh):"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:104 518b7960d88b47f4aabaf154708a87bf
+msgid "DiCOS Submit"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:111 473e2bcc71a84470a6b7fadc9a7c8ef1
+msgid "Slurm Submit"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:120 febe19710647444e857178dd03b62a4f
+msgid "Accounting"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:122 9c180b5170be459eba63959ddf17629c
+msgid "DiCOSAPP will account for it's GPU and CPU resources"
+msgstr ""
+
+#: ../../source/use_case/triton.rst:123 0885b7acfb164dd4bb1bf51711a94605
+msgid "DiCOS job/slurm job will account for it's CPU resources"
+msgstr ""
+

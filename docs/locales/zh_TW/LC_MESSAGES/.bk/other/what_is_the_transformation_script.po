@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:2
+#: 136466e4d87b4a01b784630baa84ec6d
+msgid "What is the transformation script"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:6
+#: bbda57e20a8d42c7a113182c0b822665
+msgid "Description"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:8
+#: cda7fde6b90546c696c8bceaf40b758d
+msgid ""
+"You can call transformation script as job initiator, it's first script "
+"that pilot executes. It can be used to run job directly, but you can also"
+" use it to launch another script for much more complex works."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:13
+#: f0910851e4554f37aa8769c537eb941e
+msgid "Example"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:15
+#: 3e77508aa423413197f0780b807d8c0d
+msgid ""
+"``http://asgc-"
+"ui03.grid.sinica.edu.tw/panda/transformations/user/user.hlee/job-gen.py``"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:17
+#: 516dbe1e4a6d44a48e52bbc839586a12
+msgid ""
+"It's very simple transformation script written in python, you can use it "
+"to do most of works, here are what it does."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:19
+#: 68bc61efa9024994aa21b5c0653229e8
+msgid "Extract json from panda."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:21
+#: c479c33c258b4c4696c756149445a930
+msgid ""
+"All parameters will be passed to pilot from panda in json format, so, "
+"what we need to do is to extract those json parameters and pass them to "
+"your job scripts."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:23
+#: 5bce1762aa184c9c9401bc50f6a0ff2f
+msgid "In most of cases, the json will look like following:"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:26
+#: 2680c82f92024603b68c3cf38b82348b
+msgid "::"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:26
+#: 2487ed1f5ebd465da3a2df8ef4571a0d
+msgid ""
+"{\"files\": [\"ams-user-felixlee:Trigger_1368946224.00000001.root\"], "
+"\"params\": \"cat noDmFile0.txt\", \"output\": \"test02\", \"scope\": "
+"\"ams-user-felixlee\", \"userlib\": [\"ams-user-"
+"felixlee:ISS_Proton_Dec12_V1.tar.gz\"]}"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:28
+#: f189a358f712408b819f471da8ee4376
+msgid ""
+"the job-gen.py will extract such key-value and store value them into "
+"file, it will use key+0.txt as file name, for example, \"files\": [\"ams-"
+"user-felixlee:Trigger_1368946224.00000001.root\"] will be stored as "
+"\"files0.txt\", and the contents will be(with DM, the file will be "
+"downloaded to local disk, so, scopename must be removed):"
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:34
+#: 30510a75289b47559c49c6b172d9b9f5
+msgid ""
+"In such cases, you can make your job to read files0.txt, so you can "
+"simply get input file and process it."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:36
+#: eea8ae47bd82419eb6acfbc02aebd9dd
+msgid "Run job accordingly by \"parames\" as \"command1 ; command2 ; and so on\""
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:38
+#: 8475aa1dc0ee4f5e8b928e18390cd350
+msgid "It can be any unix command, shell script or your binaries."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:40
+#: cf49ba5730b84ae282870ae47942c893
+msgid ""
+"Move all the files your job produced to ./outdir, and then, pilot will "
+"upload those files to storage."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:42
+#: 6c01d744ab744f478da883b77bf6f939
+msgid ""
+"It's important that the files must be moved to ./outdir, because pilot "
+"will only check that directory and upload everything under ./outdir to "
+"storages."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:44
+#: 3d64c7aa0a5f4dd49f3619b36114f4e2
+msgid ""
+"If you don't like the way that the job-gen.py does with outputs, you can "
+"mark MoveOutput('dir0.snapshot', outdir) as comment and use your own way "
+"to upload files."
+msgstr ""
+
+#: ../../source/.bk/other/what_is_the_transformation_script.rst:46
+#: eb44789b992847c2b36d0a86751c95c6
+msgid "Return job status to pilot."
+msgstr ""
+

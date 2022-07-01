@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/agreement_policy/user_policy.rst:3
+#: 4b4bd625b6fc4997a9b62fa0d3f8528c
+msgid "Acceptable Use Policy"
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:5
+#: a8f56abab80046a8904235a5a2af0819
+msgid ""
+"By registering as an ASGC user you shall be deemed to accept these "
+"conditions of use:"
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:7
+#: 48e847fe6d664a3c86a160cd1765f3e6
+msgid ""
+"You shall only use the ASGC Resource to perform work, or transmit or "
+"store data consistent with the stated goals, policies and conditions of "
+"use as defined by the body or bodies granting you access."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:9
+#: 4ca2c327c62e464386f18465d8524740
+msgid ""
+"You shall not use the ASGC Resource for any unlawful purpose and not "
+"(attempt to) breach or circumvent any computer systemadministrative or "
+"security controls."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:11
+#: f425f33cd8d148b4b2f0b9a59e602a10
+msgid "You shall respect intellectual property and confidentiality agreements."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:13
+#: 12c5aa592e954903994b4a2a40639f2a
+msgid ""
+"You shall protect your access credentials (e.g. private keys or "
+"passwords)."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:15
+#: f0197e1f494f48918b7720d2d179d658
+msgid ""
+"You shall immediately report any known or suspected security breach or "
+"misuse of the ASGC Resource or access credentials to the incident "
+"reporting locations specified by ASGC and to the relevant credential "
+"issuing authorities."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:17
+#: d40b6f3b5c274a78856df33e7add665a
+msgid ""
+"You must notify the Registrar of any changes to your Registration "
+"Information."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:19
+#: 72980b28d85a42b280073bcd8079979d
+msgid ""
+"Use of the ASGC Resource is at your own risk. There is no guarantee that "
+"ASGC will be available at any time or that it will suit any purpose."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:21
+#: 687a71a73b7e4c2db847907c952f592c
+msgid ""
+"Logged information, including information provided by you for "
+"registration purposes, is used for administrative, operational, "
+"accounting, monitoring and security purposes only. This information may "
+"be disclosed, via secured mechanisms, only for the same purposes and only"
+" as far as necessary to other organisations cooperating with ASGC. "
+"Although efforts aremade to maintain confidentiality, no guarantees are "
+"given."
+msgstr ""
+
+#: ../../source/agreement_policy/user_policy.rst:23
+#: 8a17033200604247b5a3b1bceef6214e
+msgid ""
+"The access-granting bodies and ASGC are entitled to regulate, suspend or "
+"terminate your access, within their domain of authority, and you shall "
+"immediately comply with their instructions.10.You are liable for the "
+"consequences of you violating any of these conditions of use."
+msgstr ""
+

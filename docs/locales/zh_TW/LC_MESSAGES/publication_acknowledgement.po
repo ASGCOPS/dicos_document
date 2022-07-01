@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/publication_acknowledgement.rst:3
+#: 6f84ccacad034c64b5634403e561a9fb
+msgid "Publications and Acknowledgement"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:9
+#: 59af7a8d1fb44207a0c529aeb2e863b9
+msgid "Copyright License"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:12
+#: 585ea04adf904bf5854109c29d8958af
+msgid "Work That Can be Freely Reused"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:14
+#: d6cbf9a2461e47cb8c385f355d3945b3
+msgid ""
+"This work by ASGC is licensed under a Creative Common Attribution 4.0 "
+"International License |cc|. To view a copy of this license, visit "
+"http://creativecommons.org/licenses/by/4.0/."
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:16
+#: 9601f2fc01f64cebaed4f3a35c3f1479 f96b54c786384071a7382451e78ba17c
+msgid "cc"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:20
+#: 0693cb23b95a4b0085ff227f445eefa2
+msgid "Work That Cannot be Reused without Explicit Permission"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:22
+#: 3c552ccc2ea04436bcfd731e9790746d
+msgid "Copyright © 2022 Academia Sinica Grid Computing Centre"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:26
+#: 7dfafcce843f4b85b8ebc719f1c06a1b
+msgid "Acknowledgement to ASGC"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:28
+#: b76296278f0d474890727599fac1341b
+msgid ""
+"For scientific publications. Please include ASGC (Academia Sinica Grid-"
+"computing Center) in the acknowledgement when research outcomes that "
+"relied on ASGC resources, services or expertise are presented."
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:32
+#: 82404024471049d9bce1fbefe8ef0fd2
+msgid ""
+"For example, “This work used ASGC (Academia Sinica Grid- computing "
+"Center) Distributed Cloud resources, which is supported by Academia "
+"Sinica”. Or, simply include “ASGC (Academia Sinica Grid-computing "
+"Center)” in the list of institutes to be acknowledged."
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:34
+#: 90d87e4020d04bf992d2e851da30f38c
+msgid ""
+"接受 ASGC 之硬體、軟體或諮詢協助以完成研究者，請於研究成果 acknowledgement "
+"中提及「中央研究院物理理所⾼高能物理理與科學計算技術中⼼」或「Academia Sinica Grid-computing Center "
+"(ASGC)」。"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:39
+#: 68beafa141e740c9a25cd9729a6e7cad
+msgid ""
+"範例例:感謝中央研究院物理理所⾼高能物理理與科學計算技術中⼼心協助，使本研究得以順利利完成。或是，將「中央研究院物理理所⾼高能物理理與科學計算技術中⼼心」加入"
+" acknowledgement 名單中。"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:43
+#: 307e6b8b0b41423a97189d9493695ab1
+msgid ""
+"https://www.twgrid.org/wordpress/index.php/copyright-and-acknowledgement-"
+"to-asgc/"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:47
+#: f5c528dcf6874738bd408bfd45fb5091
+msgid "Citation Reference"
+msgstr ""
+
+#: ../../source/publication_acknowledgement.rst:49
+#: a4be734dbff64ddd899d04bc1b599862
+msgid ""
+"If you woule like to cite the document for our DiCOS system, you could "
+"cite `the document "
+"<https://www.researchgate.net/publication/323894182_Distributed_Cloud_Operating_System_DiCOS_Development_at_Academia_Sinica>`_"
+" as reference."
+msgstr ""
+

@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:2
+#: 421c132b90044e9186a6a23def19d63d
+msgid "CVMFS"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:4
+#: 3b2bdccc90a04aec93433cc152326e50
+msgid ""
+"CVMFS is a network file system based on HTTP and optimized to deliver "
+"experiment software in a fast, scalable, and reliable way. (It was "
+"provided on all the worknodes)"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:6
+#: 87e44a352b7c44a68a3bc18b1cdbb20f
+msgid "CVMFS (CernVM File System)"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:9
+#: 69e35657b78a4f56b39e7b458cc8c8cf
+msgid "Intel Compiler 2020 (C/C++, fortran)"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:10
+#: 6959dc1c5d494b28bdfe5d20dc2fb6fa
+msgid "Intel Compiler 2017 (C/C++, fortran)"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:11
+#: 6c56266bade244e9ac4ee611a2dfe35e
+msgid "xrootd client 4.1.1"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:12
+#: 113a2a05a4cd45a9a74d964b0bfacf1f
+msgid "rucio client 0.2.6"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment/cvmfs.rst:13
+#: 917ed487ea284dfc8fc688573301c1f8
+msgid "root version 5.14, 5.21, 5.27, 5.34"
+msgstr ""
+

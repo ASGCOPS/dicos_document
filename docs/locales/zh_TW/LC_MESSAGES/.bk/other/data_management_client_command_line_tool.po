@@ -1,0 +1,266 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:2
+#: 8d102db1088f4b29a5404b0d9957ed49
+msgid "Data Management Client Command Line Tool"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:6
+#: 4470afda78de47e8a8e70833784ea8a5
+msgid "Data Management Client Command Line Tool (ddmc)"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:10
+#: 56649ccf5f3b48b1a084f321a0c9f71c
+msgid "Advance Preparation"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:12
+#: d4fed948de3047df9f2006a1a5018853
+msgid "Before using DiCOS, you should have the following things :"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:14
+#: 0cb24b60790e4eb99c480fbd8fd423fd
+msgid "A grid user certificate, [tutorial](wiki:/certificate/)"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:16
+#: b102d4b5ed2748d58f9de5ad3983bcfd
+msgid "Join a VO (Virtual Organization), [tutorial](wiki:/account/)"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:18
+#: f573d5e206d3410ebae67e02fc2f0a01
+msgid "A DiCOS account, [tutorial](wiki:/account/)"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:20
+#: 9f883a9d8f5d41f8b17d1928cb87921f
+msgid "SSH log in DiCOS web UI with your DiCOS account:"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:22
+#: 16f14527e6ce470caf3d92478ce79b4c
+msgid "**dicos-ui.grid.sinica.edu.tw** or"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:23
+#: 5aaa49c6f112487bb0eed724f0ab2f92
+msgid "**dicos-ui.twgrid.org**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:27
+#: 5f3da96bded84cc6a81f02f25b3a8848
+msgid "Commands"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:30
+#: 43d824aa401a4c1f97ad687919856b68
+msgid "Setup"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:32
+#: 409e53ce57204f7aa1bc55e13fbaf16a
+msgid "Initialize the voms proxy before using ddmc."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:34
+#: be856d048b1444c2bfa599fd2a4464f8
+msgid "``voms-proxy-init -voms <VO>``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:41
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:73
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:93
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:143
+#: 0533c7f8ee554f7e87303b561a979f82 35dc29ce2fa3427a88fd5c82f9e479be
+#: aa9db182b34d45839f2d9d01ed5f67bd bb8c4c184d5d4a3fa83b3b4623e413ef
+msgid "Note:"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:43
+#: 101267d03def4640ae986cc118e38f4b
+msgid ""
+"<*VO*> is one the Virtual Organizations you are joining, for example : "
+"**twgrid**, **atlas**, **ams02.cern.ch**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:44
+#: 079ddcf7d56c43168fd0d8dea20de031
+msgid ""
+"If you have already initialized a voms proxy in last 12 hours (so the "
+"proxy is not expired), you don't need to do this step again. In fact, "
+"\"ddmc\" will remind you if you don't have a valid and unexpired voms "
+"proxy initialized."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:48
+#: ae04546af0454b06bc5f525f02079126
+msgid "Ping"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:50
+#: 5117c665b1904029a32eef6ffa2f191f
+msgid ""
+"Connect to DiCOs Data Management (DDM) server to see if it's alive. It "
+"will return OK if everything is fine."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:52
+#: 64837f1ad1ca47a48e2939ebef8152f3
+msgid "``ddmc ping``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:61
+#: 42a7947d480b4116a1cfc876205be085
+msgid "Upload"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:63
+#: 29aaa621730f4af2b7d7498bb0ceb85b
+msgid "Upload and register your local file to a DDM dataset."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:65
+#: d4a856afb9294b0daa4ea5816a4bb241
+msgid "``ddmc ul|upload <local file path> <DDM dataset>``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:75
+#: ca6c84ebaf1e4abbbb40f5d20e366720
+msgid "The ``<local file path>`` can be either absolute path or relative path."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:76
+#: 5b645adacbb8471ebd280f925030299b
+msgid "Wildcard * is available in ``local file path`` to upload multiple files."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:77
+#: 037f959393b342bbb177c9b5f8194e6d
+msgid ""
+"``local file path`` has to be **regular file(s)**; any directory (and "
+"everything under it) or irregular file will NOT be uploaded."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:78
+#: 94ef58832d0e45888da61aac02087b3b
+msgid "The ``DDM dataset`` MUST be defined in this command."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:79
+#: 3a32019466fe49beb3e3878ab3d25059
+msgid ""
+"If the dataset ``DDM dataset`` has not existed in your scope yet, it will"
+" be automatically created first."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:83
+#: c341c2206db342dd9b4c369ea44265f4
+msgid "Download"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:85
+#: 7ba30dd9dea247bd81435ab1ade6bedf
+msgid ""
+"Download a file or all files in a container/dataset on DDM to your local "
+"directory."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:87
+#: ce1c03c91a7b4a94aa2f46ab004b42da
+msgid "``ddmc dl|download <DDM container/dataset/file> [<local directory path>]``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:95
+#: 2e5ecb7dd9a84722b49c752b61f4b3d6
+msgid ""
+"When downloading a whole dataset or container, all files in it will be "
+"downloaded to the local directory WITHOUT any nested sub-directory."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:96
+#: a56651224e4d436990d9b888eee88969
+msgid ""
+"``local directory path`` MUST be a **directory**, not a file. If this "
+"argument is missed in the command, present working directory (pwd) will "
+"be the default directory."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:97
+#: bafe0f69ff1e43b89af850293ba2d5b3
+msgid "Wildcard * is NOT supported in ``DDM container/dataset/file``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:100
+#: c72cbe8e4e2c4dbab887ab22c3c98925
+msgid "Query"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:102
+#: 66c69922fb804ea48130308d520a2056
+msgid "List content in a container/dataset in your scope on DDM."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:104
+#: eb170dae7726487887e331b557eae8aa
+msgid "``ddmc ls [-r] [<DDM container/dataset>]``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:145
+#: c75a79a37fef46b1996efc2467c3989f
+msgid ""
+"If ``DDM container/dataset`` is missing in the command, content in the "
+"top scope will be listed."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:146
+#: 9625c2dc1c56452384f93f189d4c5dbd
+msgid ""
+"With option '-r', one can list all files exhaustively (recursively) in "
+"the container/dataset."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:149
+#: b766526912564b8c931d8c0eff76d682
+msgid "List file information such as file size, checksum, and direct link."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:151
+#: df00279ac9c24b30b977e4d4e94e6c09
+msgid "``ddmc getlink <DDM file>``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:159
+#: 2b949b9a84b0427287da32be64c7a037
+msgid "Note"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_client_command_line_tool.rst:161
+#: f139402e1b574099ae02c8b06efd5834
+msgid ""
+"This command-line tool is meant to deal with massive local file "
+"upload/download only. To use complete data management functions (such as "
+"copy/paste, creating a new container/dataset, etc.), please go to `DiCOS "
+"Data Management Webpage <https://dicos.grid.sinica.edu.tw/ddm/>`_."
+msgstr ""
+

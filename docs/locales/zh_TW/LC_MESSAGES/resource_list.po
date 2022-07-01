@@ -1,0 +1,402 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/resource_list.rst:3 ../../source/resource_list.rst:9
+#: 1ef772f0c1b84eab882bcf040b9f77d9 37e27e6eb2ee4188acaf9fb516a1ca78
+msgid "DiCOS Resources"
+msgstr ""
+
+#: ../../source/resource_list.rst:11 eafc5a1049574a49862bab4e1c85bc0c
+msgid "ASGC Resources"
+msgstr ""
+
+#: ../../source/resource_list.rst:14 30a064dc4a9d435b8f8511481f654629
+msgid "Cluster"
+msgstr ""
+
+#: ../../source/resource_list.rst:15 735bb8b1ef194832ae5c4832ecd1ce0a
+msgid "Worker Nodes"
+msgstr ""
+
+#: ../../source/resource_list.rst:16 c41121711649494aaf5ccb91dd17260b
+msgid "Total CPU cores"
+msgstr ""
+
+#: ../../source/resource_list.rst:17 7b7d8c3f965c4a5997733a47c5e9fe77
+msgid "CPU/node"
+msgstr ""
+
+#: ../../source/resource_list.rst:18 fab63f6ac38e4016b5b7e514752f421d
+msgid "CPU model"
+msgstr ""
+
+#: ../../source/resource_list.rst:19 6de4111ad2154c8ab554203e14f7686c
+msgid "Memory/node"
+msgstr ""
+
+#: ../../source/resource_list.rst:20 7eff22d82478464c9d6f898c9ea0e03b
+msgid "Disk space/node"
+msgstr ""
+
+#: ../../source/resource_list.rst:21 225cd84505b54389a25c6729e6396969
+msgid "Network"
+msgstr ""
+
+#: ../../source/resource_list.rst:22 54a8431a20a145479f7d7f5bfe7a5324
+msgid "GPU model"
+msgstr ""
+
+#: ../../source/resource_list.rst:23 0defcb88803e412f9b972370ab66f0c6
+msgid "GPU/node"
+msgstr ""
+
+#: ../../source/resource_list.rst:24 e155ac736fd44ad6b91b04f7b18fa689
+msgid "Note"
+msgstr ""
+
+#: ../../source/resource_list.rst:25 4076673b70ac4693b89bf757afeb4b98
+msgid "HPC_FDR5"
+msgstr ""
+
+#: ../../source/resource_list.rst:26 fd78ffe8e926468ba9bc3f98760d741c
+msgid "92"
+msgstr ""
+
+#: ../../source/resource_list.rst:27 635982325d5f4d23bc0bdae4377154eb
+msgid "2208"
+msgstr ""
+
+#: ../../source/resource_list.rst:28 fbbc4bec3cce4557a98e382a81790637
+msgid "24"
+msgstr ""
+
+#: ../../source/resource_list.rst:29 ../../source/resource_list.rst:84
+#: 1bfbf7b1b1164bb0b328a6b76127a95d 35b36fbe5ac04594ba5548614a468f37
+msgid "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz"
+msgstr ""
+
+#: ../../source/resource_list.rst:30 cb9937a3024941a89d6737f2b2ed759e
+msgid "125GB"
+msgstr ""
+
+#: ../../source/resource_list.rst:31 c5cfb2e37a324ffd86f5f7b5cf00974b
+msgid "2TB (System: 400GB)"
+msgstr ""
+
+#: ../../source/resource_list.rst:32 ../../source/resource_list.rst:54
+#: ../../source/resource_list.rst:87 ../../source/resource_list.rst:98
+#: 20b9c75827124fc8a1277f77e5f29c22 56ecc8dbcf99456ab3f9d452bf7b08e6
+#: 5bac06306be64ed2b62668c20bddaae7 bc433c4046dd4318a8bcbb0f515f0c19
+msgid "10GbE"
+msgstr ""
+
+#: ../../source/resource_list.rst:33 ../../source/resource_list.rst:34
+#: ../../source/resource_list.rst:44 ../../source/resource_list.rst:45
+#: 7a6746607e874bc8a7ec1201f594062f 7aaadb0c9fad4411af89552479ab7d8b
+#: 87948e782e554744a29818c0232e1837 b13ae6de683a43f2ba37656daedaa6ef
+msgid "N/A"
+msgstr ""
+
+#: ../../source/resource_list.rst:35 ../../source/resource_list.rst:46
+#: 8200a2db02974a88a02c66809b01d5e9 caf0401a0a084983a47f201b7abce291
+msgid "Slurm"
+msgstr ""
+
+#: ../../source/resource_list.rst:36 49f302c44c6d401a94b2ca9c1623d8d2
+msgid "HPC_HDR1"
+msgstr ""
+
+#: ../../source/resource_list.rst:37 ../../source/resource_list.rst:70
+#: ../../source/resource_list.rst:92 0e90702593ab424498196d1b6b5dc04b
+#: 2cb2a79d230e450a82910c0d9a9c3692 35f273ed55194141ba3658c4fde08731
+msgid "6"
+msgstr ""
+
+#: ../../source/resource_list.rst:38 8d14f02594ae4e18869508f940400215
+msgid "768"
+msgstr ""
+
+#: ../../source/resource_list.rst:39 ../../source/resource_list.rst:104
+#: 360b6fcbea754b5da5f17b4ad80fefac 381134db79d447a7b94f10512d280e1e
+msgid "128"
+msgstr ""
+
+#: ../../source/resource_list.rst:40 96f010df530847f1b496ff1b44641f8e
+msgid "AMD EPYC 7662 64-Core Processor"
+msgstr ""
+
+#: ../../source/resource_list.rst:41 4364ce6b8d5b471ba1ba027114512f12
+msgid "1520GB"
+msgstr ""
+
+#: ../../source/resource_list.rst:42 ../../source/resource_list.rst:53
+#: ../../source/resource_list.rst:64 ../../source/resource_list.rst:86
+#: ../../source/resource_list.rst:97 ../../source/resource_list.rst:108
+#: 019933a63c734cbdbf754fc34af8325d 279a7c5b7e3440fbbc5f6adff6f01321
+#: 2e92b06c8fbe44bd99e77a781719eea8 2ff1a4af93b3429f9201b43c13927741
+#: b6acd1d3f8ff46d6848df9368a7e409b cc389ceace7446d38dc1cf2e1b5e10ff
+msgid "1TB (System: 20GB)"
+msgstr ""
+
+#: ../../source/resource_list.rst:43 ../../source/resource_list.rst:65
+#: ../../source/resource_list.rst:76 ../../source/resource_list.rst:109
+#: 0fa4b796b0a247d3ad8bda39b938f4f4 2b191b58b7fc4c25bbb88ad125ed04c9
+#: 31ff3a2160a44316bbf8ec6cf08d1746 86ee8446eb174a37a5f6cfa674e38872
+msgid "100GbE"
+msgstr ""
+
+#: ../../source/resource_list.rst:47 864b938e02b94545afc12ceb8ee22d45
+msgid "GPU_GTX-1080Ti"
+msgstr ""
+
+#: ../../source/resource_list.rst:48 ../../source/resource_list.rst:56
+#: ../../source/resource_list.rst:67 ../../source/resource_list.rst:100
+#: ../../source/resource_list.rst:111 1a3d26923f9c49eaa37b9fc6674f23e1
+#: 3a2b559596f8446ba3f50bae33757f7f 747a85fe93ef4a8bbdf5b36c592b1b60
+#: d6bb741c2ea84d2189186829f6a93ee9 ef700f8fca9347e6b98f9dfbab0ba72b
+msgid "8"
+msgstr ""
+
+#: ../../source/resource_list.rst:49 ../../source/resource_list.rst:60
+#: 27de10823e614c54bce75422f6252015 474522eabe3544189b6526f1866d69de
+msgid "256"
+msgstr ""
+
+#: ../../source/resource_list.rst:50 05c69d255c154b59a1cf4017e226d55f
+msgid "32"
+msgstr ""
+
+#: ../../source/resource_list.rst:51 62c1f9ccbd4e403fb89709d82107483d
+msgid "Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz"
+msgstr ""
+
+#: ../../source/resource_list.rst:52 ../../source/resource_list.rst:96
+#: 35539889d21549ecbccc505cf070a7cf 62e59b2b96844df7b650f4b607a27a40
+msgid "768GB"
+msgstr ""
+
+#: ../../source/resource_list.rst:55 30680e1b2c284494b3a11e91971d43ae
+msgid "GTX-1080Ti"
+msgstr ""
+
+#: ../../source/resource_list.rst:57 ../../source/resource_list.rst:68
+#: ../../source/resource_list.rst:79 ../../source/resource_list.rst:90
+#: 0ad5d775cbaa4de88aba64cf3ec79810 61657ce95ea84cfdab175d71a18f3667
+#: 9d0274907e8f4d13be890c21dd81e8c3 a3c16af23cd042e9915bef3a2534ac1f
+msgid "DiCOSApp"
+msgstr ""
+
+#: ../../source/resource_list.rst:58 e7531533db544155b21de8acb4897ba4
+msgid "GPU_RTX-3090"
+msgstr ""
+
+#: ../../source/resource_list.rst:59 ../../source/resource_list.rst:78
+#: ../../source/resource_list.rst:81 ../../source/resource_list.rst:89
+#: 753c52545f6643ebb893f1b3edc8c226 942c3baeaf864a7296382dba2b0977a5
+#: adeb13d14b78406eba77093d9c0571d5 f540246315be4512962b888c0d97aaf6
+msgid "4"
+msgstr ""
+
+#: ../../source/resource_list.rst:61 ../../source/resource_list.rst:105
+#: 1786f40fb4f64c77af0f9e00622d7806 d7752d4de6894e8f953691e787ab128a
+msgid "64"
+msgstr ""
+
+#: ../../source/resource_list.rst:62 ../../source/resource_list.rst:106
+#: 311653dcbe1844f6b0f5f4f3d6326010 76c634eed80a442d80c41595a247c948
+msgid "AMD EPYC 7302 16-Core Processor"
+msgstr ""
+
+#: ../../source/resource_list.rst:63 ../../source/resource_list.rst:107
+#: 76a0d5dfe1dc4fc69fb9f5373eeca3c1 d64d1b12b91e48d2aca53db7f3084085
+msgid "1024GB"
+msgstr ""
+
+#: ../../source/resource_list.rst:66 ../../source/resource_list.rst:77
+#: 0739c47fbfab4b868432e2c16e133910 ac3747cb5e1e41afba29ace116abc7ac
+msgid "RTX-3090"
+msgstr ""
+
+#: ../../source/resource_list.rst:69 cc15c5c0c03343fe9a0498ba2e6c7541
+msgid "GPU_RTX-3090-ASCEM"
+msgstr ""
+
+#: ../../source/resource_list.rst:71 ../../source/resource_list.rst:93
+#: ba0e8f3ddba3470c9c0e5bc181de5be1 cdc94b83f8bb44cf9febc66ef2b1ad61
+msgid "288"
+msgstr ""
+
+#: ../../source/resource_list.rst:72 ../../source/resource_list.rst:83
+#: ../../source/resource_list.rst:94 c8f585869918411c878d920f69a4a60e
+#: d21505e8d4924e6fa265c1b2439c3b5b f10fb818d785473daf22d989dc3dc6b8
+msgid "48"
+msgstr ""
+
+#: ../../source/resource_list.rst:73 123ae49affe047ab8d6ab06ace5fd6b8
+msgid "AMD EPYC 7402 24-Core Processor"
+msgstr ""
+
+#: ../../source/resource_list.rst:74 ../../source/resource_list.rst:85
+#: bb1e3d1a61254fda809b317e265f3410 d7fdc9d22dbd412ca28b3778763d1f66
+msgid "512GB"
+msgstr ""
+
+#: ../../source/resource_list.rst:75 78a1c30cd5a148eea98e6d57ccfcecc0
+msgid "500GB (System: 20GB)"
+msgstr ""
+
+#: ../../source/resource_list.rst:80 e0c04e8c347244faa8221422e84b5979
+msgid "GPU_P100"
+msgstr ""
+
+#: ../../source/resource_list.rst:82 c6fa891d45a94c95ab36a67479cae650
+msgid "192"
+msgstr ""
+
+#: ../../source/resource_list.rst:88 bac34f4f4a4149a49573702f81b37e12
+msgid "P100"
+msgstr ""
+
+#: ../../source/resource_list.rst:91 5e0c461f2ec148b69fa04595ea87f423
+msgid "GPU_V100"
+msgstr ""
+
+#: ../../source/resource_list.rst:95 84a38740bf914cadb7dde65196c78f07
+msgid "Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz"
+msgstr ""
+
+#: ../../source/resource_list.rst:99 ac82d451f43843848b7f0b5092c20fea
+msgid "V100"
+msgstr ""
+
+#: ../../source/resource_list.rst:101 b54718b923be4e2fa0163758a2aa6722
+msgid "DiCOSApp, Slurm, DiCOS job submit"
+msgstr ""
+
+#: ../../source/resource_list.rst:102 26c6babbf0f146499815d92d90672880
+msgid "GPU_A100"
+msgstr ""
+
+#: ../../source/resource_list.rst:103 b4be62424418474db0acc4d391ed7088
+msgid "2"
+msgstr ""
+
+#: ../../source/resource_list.rst:110 cc0b6f9a46714b16813680707232dfc0
+msgid "A100"
+msgstr ""
+
+#: ../../source/resource_list.rst:112 6265529d25dd44fda96467641caeec64
+msgid "DiCOSApp, Slurm"
+msgstr ""
+
+#: ../../source/resource_list.rst:116 ../../source/resource_list.rst:164
+#: 6769e5e4887b45d1aafade2db2f544a5 f4dc0a438b9a44569e08c377d6135ef4
+msgid "Update in 20220627"
+msgstr ""
+
+#: ../../source/resource_list.rst:120 87afa4ce604f42f2963c161da620b5c9
+msgid "User Interface Node (Login Node)"
+msgstr ""
+
+#: ../../source/resource_list.rst:126 4566c09e29944874b0603613b2920bcd
+msgid "User Interface Node"
+msgstr ""
+
+#: ../../source/resource_list.rst:127 70ab0c6e44af4d7992960e8054e7eb45
+msgid "OS"
+msgstr ""
+
+#: ../../source/resource_list.rst:128 9aa67baf846942b3b9bd31aaef5d2fb2
+msgid "Purpose"
+msgstr ""
+
+#: ../../source/resource_list.rst:129 eccb570872c34731bad5296dfb1bb20a
+msgid "dicos-ui02.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/resource_list.rst:130 ddad88c0d80b4359af2698af9a91008e
+msgid "SLC 6"
+msgstr ""
+
+#: ../../source/resource_list.rst:131 ../../source/resource_list.rst:134
+#: 0f6b5278d3c148d984df2dfccd1a98da b9eb2fdc9c0c4679909609f8c97bb44b
+msgid "``dicos`` | File download/upload"
+msgstr ""
+
+#: ../../source/resource_list.rst:132 8cb9dcaf281f4ec4986ad66d8cdb01ba
+msgid "dicos-ui04.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/resource_list.rst:133 ../../source/resource_list.rst:136
+#: ../../source/resource_list.rst:139 ../../source/resource_list.rst:142
+#: ../../source/resource_list.rst:145 296060d1f6fa4f26a5fd5205ab3da5e5
+#: 2f09eb1e2a7742bdb61e24383dd3f703 c32cc4c5da564692be37e3905a9fa566
+#: d9a756c2e75645a0b6819085e085d54d f24baaa2c86742e6aa8540edc444756d
+msgid "CentOS 7"
+msgstr ""
+
+#: ../../source/resource_list.rst:135 54003b6046f44046bb456c0d18c1a0e1
+msgid "dicos-ui05.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/resource_list.rst:137 ../../source/resource_list.rst:140
+#: 0a44a96128a04760b0d7be3d84cc30dc eb5f5d148fd64a30a23217afbc54664b
+msgid "``dicos`` | Job submission, File download/upload"
+msgstr ""
+
+#: ../../source/resource_list.rst:138 e12fd2b68f6f497881dbf5ba4e60d840
+msgid "dicos-ui06.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/resource_list.rst:141 b95a670c00004e94a3f7a246b7af35c2
+msgid "slurm-ui01.twgrid.org"
+msgstr ""
+
+#: ../../source/resource_list.rst:143 ../../source/resource_list.rst:146
+#: 327a90b6dc254840abc978ebaa4b832b d3730e97b18142ac8b3090b808eb00d8
+msgid "``slurm`` | Job submission, File download/upload"
+msgstr ""
+
+#: ../../source/resource_list.rst:144 af36559b4e4842eb93e661d0a5603ac4
+msgid "slurm-ui02.twgrid.org"
+msgstr ""
+
+#: ../../source/resource_list.rst:150 18ff5e327aa04b7eb163de951a6acb92
+msgid ""
+"The resources of the user interface node is limited, please don't run "
+"your jobs in the user interfaces, or your jobs will be killed without "
+"notice."
+msgstr ""
+
+#: ../../source/resource_list.rst:154 db1c626e8c0c4b929e109fb8f07b5946
+msgid "DiCOS in a Nutshell"
+msgstr ""
+
+#: ../../source/resource_list.rst:156 95fa1ac7c40b467383166ae9a20b45a5
+msgid ""
+"The image below is the whole scheme of current DiCOS system at ASGC. "
+"Various entry points are provided for the users with different "
+"requirements."
+msgstr ""
+
+#: ../../source/resource_list.rst:-1 9d0080c572f1480dad6b2c923361c725
+msgid "DiCOS System Scheme"
+msgstr ""
+

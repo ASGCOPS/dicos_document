@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/dicos_environment.rst:3 8b2c55fee6a542b0b11d40c517c5351c
+msgid "DiCOS Computing Environmet"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment.rst:7 30c3f83c12fd4d1cb1654b800ee07545
+msgid "Hardware"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment.rst:9 f911363386874eb9bab9e30776e111b1
+msgid ":doc:`Resources <dicos_environment/hardware>`"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment.rst:13 aa9c2cf016644898aef9477110e12142
+msgid "Software"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment.rst:15 3a442bdd4ba2465d8d82cc20e1a0c256
+msgid ":doc:`Software List <dicos_environment/software>`"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment.rst:16 0c0b83d4119f405da513cbc08ebc4c95
+msgid ":doc:`CVMFS <dicos_environment/cvmfs>`"
+msgstr ""
+
+#: ../../source/.bk/dicos_environment.rst:17 208c7cbb23ae42d79029c9724e3b3139
+msgid ""
+":doc:`MPI / Compilers / software & libraries "
+"<dicos_environment/available_software>`"
+msgstr ""
+

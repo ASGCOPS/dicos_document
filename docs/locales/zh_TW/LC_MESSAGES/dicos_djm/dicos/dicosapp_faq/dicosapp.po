@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:2
+#: 3a38605fa8ad4513af8fd281cc480bff
+msgid "DiCOSAPP Introduction"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:6
+#: 26b9eb51a082429f86a187eb669395ff
+msgid "DiCOSAPP introduction"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:8
+#: f3bd0916efd14c7f9af9f6d17a9d3d77
+msgid ""
+"DiCOSAPP is web based micro-service that handles different application "
+"individually. Here is the page to introduce its SPEC for each APP."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:12
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:14
+#: 2d6076c5952f4e73b985fd802c8a38d0 4c8ea7b182f8459a893084a767f22a7a
+msgid "CryoEM specific APPs"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:17
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:55
+#: ae1431c67e0b4c32b3214a8580d545d6 ba2db1ee47fe4ee99e0826505956bfd5
+msgid "APP name"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:18
+#: 8a6a1c923dea419ebc17e174c14aaf65
+msgid "CPU cores"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:19
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:57
+#: 549c983557284108b3b5154bb677b9ee ab39e075261742969908c10da86cb84e
+msgid "GPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:20
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:58
+#: 6c85dd5a862c4b28b7fbd361bddcb154 f222aa92867b4010993b1d600570e668
+msgid "Memory"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:21
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:59
+#: 87b536272e25492d933c993d4b794ae0 ce85735bb4bd4ce198967c2d038b9764
+msgid "SSD"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:22
+#: f537a9599a7944598dbd16e79560b2dc
+msgid "CisTEM"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:23
+#: dd57b32d0dc34694934f0fda04ec82a4
+msgid "32"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:24
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:39
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:62
+#: 365bf35361de4bc3b5f9050aacd7ecd4 e98143e7f8cf44f4ae7021783767b8e0
+#: f5c5eb6adf4b4da1af47b44cb052369b
+msgid "0"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:25
+#: 8077584e30f54401833acb6fa9f1bf5b
+msgid "100GB"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:26
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:41
+#: b79b4891857841e5aa9c18032760a07f d87f542039a0467ebfd0e52aeded7d9b
+msgid "no"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:27
+#: af01532be3fa4d169475e0c0ade9f1e4
+msgid "RELION3"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:28
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:33
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:43
+#: 686f7023a87a4230a245cdca6fabb169 6b7e15ff5312441b86ee08ce61bee763
+#: 6fb113f8023b44b98deaad3702d06786
+msgid "16"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:29
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:34
+#: c7b69fc6f1f442d7a675051e8d258b8f e7dcc4a4cb7e4300af72e2960526aae5
+msgid "4 (1080Ti)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:30
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:35
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:45
+#: 2c36512749df49feaa8eaa3544839b0d 9900a19f44784b8590c300f9e90172bb
+#: a93214ad68264ad98569f44d05bac6dd
+msgid "380GB"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:31
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:36
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:46
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:64
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:69
+#: 26761efa613e493889ae9ccda1d951b1 2cb88e755ee7427a9448e151fda09cce
+#: cfa7c5c778ef48bfa8295926c9f78504 e0f0029c3bf243549f77e46d7db01451
+#: f5fdce79d52546999cd4fb7c58e56dfd
+msgid "yes"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:32
+#: 723f0897b192489087d345fcb1093297
+msgid "RELION2"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:37
+#: fcad15d2343244dd84b51a6cbc361982
+msgid "CisTEM-cluster"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:38
+#: 3f9a3c0f5ce044438f230fa771ce6052
+msgid "40 per job, max to 600"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:40
+#: e90a19b4104248d4859d6f2c52e5a4ba
+msgid "256GB ~ 3840GB"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:42
+#: ba65dfee15584bdd93b56d57443cd6d5
+msgid "CryoSPARC(*no longer up2date*)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:44
+#: 08b44b6425ee462c9132df6d7593c608
+msgid "1 (1080Ti)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:50
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:52
+#: 7c25d6590cf442aca18c4cbf8bd39183 a2bf78d583e54d2e8318d05c29686ab3
+msgid "Jupyter Notebooks"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:56
+#: 8779dff28b7343158090760ea72fdd8f
+msgid "CPU coures"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:60
+#: 84c72275045a4e4e880567cdd68ef2fd
+msgid "JupyterLab(CPU)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:61
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:66
+#: b901de79073944fa9cc45965491902c1 fd941301828e459da9a41e5b322a3bf5
+msgid "12"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:63
+#: f9d19d1b19a045709756017664479e67
+msgid "64GB"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:65
+#: d0c9b2e5362c4006bad8298ed15809e3
+msgid "JupyterLab(GPU)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:67
+#: 5feb26e16df841bb87ac589aa1f6e195
+msgid "1 (P100)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/dicosapp_faq/dicosapp.rst:68
+#: df45543ad283449e9cfec12db038948f
+msgid "128GB"
+msgstr ""
+

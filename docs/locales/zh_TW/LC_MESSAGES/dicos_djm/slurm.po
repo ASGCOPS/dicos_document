@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/slurm.rst:3 9316dc7ffb034a66bedccfdae9ad075d
+msgid "Slurm"
+msgstr ""
+
+#: ../../source/dicos_djm/slurm.rst:6 d824cc8876244adab5101bfa6c8556c4
+msgid "Slurm Queues (QDR4)"
+msgstr ""
+
+#: ../../source/dicos_djm/slurm.rst:8 21444eaf5ece401b8eef37d45d43ae3c
+msgid ":doc:`Login<slurm/slurmui>`"
+msgstr ""
+
+#: ../../source/dicos_djm/slurm.rst:9 a992dbc3552346fdb11d510946a00470
+msgid ":doc:`Resources & Specifications<slurm/QDR4_intro>`"
+msgstr ""
+
+#: ../../source/dicos_djm/slurm.rst:12 0848dd992ccb45329a7d9a3679511c4d
+msgid "Slurm Tutorials"
+msgstr ""
+
+#: ../../source/dicos_djm/slurm.rst:14 0dbe75157ac94375aeae5526721a7f1e
+msgid ":doc:`Tutorial<slurm/slurm_docs>`"
+msgstr ""
+

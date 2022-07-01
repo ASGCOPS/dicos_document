@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/about_dicos.rst:3 d632178188604a5ba06da426d0cc4fc1
+msgid "About DiCOS"
+msgstr ""
+
+#: ../../source/about_dicos.rst:7 d31fbac87bdf4625867e1b5ae829920d
+msgid ""
+"`分散式雲端作業系統 DiCOS (Distributed Cloud Operatiing System) "
+"<https://dicos.grid.sinica.edu.tw>`_ is the operating system for the "
+"distributed Cloud environment, to provide scalable infrastructure, "
+"flexible platform as well as intelligent data and job tools for high "
+"performance scientific and generic computing purposes. DiCOS is developed"
+" and operated by `Academia Sinica Grid-computing Centre (ASGC) "
+"<https://www.twgrid.org>`_, and now supporting various of scientific "
+"computation jobs that made use of CPU and/or GPU resources. This document"
+" is trying to provide DiCOS users a sophsicated guide of how to using the"
+" DiCOS system and the resources provided by ASGC."
+msgstr ""
+

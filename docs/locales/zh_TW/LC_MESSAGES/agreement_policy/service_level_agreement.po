@@ -1,0 +1,348 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/agreement_policy/service_level_agreement.rst:3
+#: 9055bd1857f54f7a8e23e88747144fed
+msgid "ASGC Common Service Level Agreement"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:5
+#: 82d3902e1c664c17b7152f2b7a8a4952
+msgid "Document Status and Date: FINAL version on 28 Sep. 2019"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:8
+#: 72eb43beb3604660ad71307ee295a0a3
+msgid ""
+"This work by ASGC is licensed under a Creative Commons Attribution 4.0 "
+"International License"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:11
+#: 857c05b259604afab3be890aaac3cd85
+msgid ""
+"This template is based on work, which was released under a Creative "
+"Commons 4.0 Attribution License (CC BY 4.0). It is part of the FitSM "
+"Standard family for lightweight IT service management, freely available "
+"at www.fitsm.eu."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:15
+#: 08a6e48876084be39a85d34b5b751d84
+msgid ""
+"This Common Level Service Level Agreement (SLA), the Agreement, is valid "
+"for all ASGC services provided to support research applications, if no "
+"other agreements are in place. The Agreement may be extended or replaced "
+"by specific SLAs."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:19
+#: 429f474faa2a4ce9ba28041c56dc156d
+msgid "Service hours and exceptions"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:21
+#: f0f101b083ee4d8ab4241a2aa76b4d14
+msgid ""
+"All facilities and research applications provided by ASGC are in general "
+"delivered during 24 hours per day, 7 days per week basis (i.e. 365 days "
+"or 8,760 hours), to seamlessly support research operations. Planned and "
+"announced interruptions may reduce the effective operating time of a "
+"service. The following exceptions apply:"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:23
+#: f9f5c58541eb4678bc219d284cd6a3d4
+msgid ""
+"Customer will be notified via e-mail in a timely manner, (i.e. 24 hours "
+"before the start of the outage), about the planned maintenance windows or"
+" service interruptions (\"scheduled downtimes\")."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:25
+#: d187c32d2d0f40ddb532fcba030c72a5
+msgid "Downtime periods exceeding 24 hours need justification."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:27
+#: c2855b6066cf484a8cb5216c2cecb17a
+msgid "Human services are provided during support hours."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:31
+#: b526591a13a0489097c11a62bf776f59
+msgid "Support"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:33
+#: 01f5c362a23f4a5290332d11f1cfc3aa
+msgid ""
+"The services covered by the scope of this Agreement are provided with the"
+" following level of support. Support is provided via ASGC Service Desk. "
+"Access requires a valid SSO account. Support is available between:"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:35
+#: 02437c6a6faa474b860713019aea9253
+msgid "Monday and Friday."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:36
+#: 408aa128d34b465db635310a0d96d603
+msgid ""
+"9:00 and 18:00 CST (UTC/GMT+8 hours) time. This excludes public holidays "
+"at the same time in all organizations providing the service."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:40
+#: 82509b3edde24e04861202cd9e38154a
+msgid "Incident handling"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:42
+#: eb6dbf319d6343b885a45b394815c7ce
+msgid "The Quality of Support level is defined as follow:"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:44
+#: a6e920a9df8c4833ad46331d5ea95b00
+msgid "Medium level:"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:49
+#: 3598677c960e4904b8ce6171aafcb508
+msgid "Incident priority"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:50
+#: 55a4e1b8b5aa4076ab6ae2d43cd57a3c
+msgid "Response Time"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:51
+#: 446d9ce9abdc4c82abcb6caf95b1b53a
+msgid "Less urgent"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:52
+#: 2287d38707c44b4e8aff785708947f48
+msgid "3 working days"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:53
+#: 6931773fc1d741bdbb26ac9c234a4857
+msgid "Urgent"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:54
+#: 3b34428addf54652b69001b701e5ec3f
+msgid "2 working days"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:55
+#: 7c91b97b5f0a4b4ba3147f0a45515b1e
+msgid "Very urgent"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:56
+#: 12a58709dc5a41d6bc9c2fa77a574ae9
+msgid "1 working day"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:57
+#: 3793423fcc344c108bef14bc52e145a8
+msgid "Top priority"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:58
+#: 31c27e0df36d427e81541dceba02a44f
+msgid "< 1 working day"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:60
+#: 248fa15489cd48e7b86ac05738a18187
+msgid "Response time is provided as service level target."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:64
+#: 1ef5b33e1a82490181ad05b2a1b9d87a
+msgid "Service requests"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:66
+#: 39ed39fa984a4a4195870305b7ec288b
+msgid ""
+"In addition to resolving incidents, standard service requests will be "
+"fulfilled through the defined support channels in the same way as "
+"incidents. Service requests are classified as \"Less urgent\"."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:70
+#: e95187b24083479b95995ff89737d4a3
+msgid "Service level targets"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:73
+#: a53872a4bb43473c949eea4b1f383fe8
+msgid "Monthly Availability"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:75
+#: 60e1ef33a8764fb6b198ca233e4d55c8
+msgid ""
+"Defined as the ability of a service or service component to fulfill its "
+"intended function at a specific time or over a calendar month."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:76
+#: 0f1ad5a3b3a24943be0d0536d5f1ce63
+msgid "Average service level target (as a percentage per month): 90%"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:77
+#: 630baef57764410bacc604cdf51e386c
+msgid "Minimum (as a percentage per month): 80%"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:80
+#: 1b277140513a4c0682f8c5de5c43f11f
+msgid "Monthly Reliability"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:82
+#: 8f536c12951c4eb29c5d102db4f7bac8
+msgid ""
+"Defined as the ability of a service or service component to fulfil its "
+"intended function at a specific time or over a calendar month, excluding "
+"scheduled maintenance periods."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:83
+#: 0b535960038241a394dd0b4ac2761e52
+msgid "Average service level target (as a percentage per month): 95%"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:84
+#: 30c5848ee9e540ae8f81ae7cc161b03e
+msgid "Minimum (as a percentage per month): 85%"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:87
+#: 3396d33b379f48b6b4964ee89480e97e
+msgid "Quality of Support level"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:89
+#: 6c7ac884630a40988de50bc5ff91fb85
+msgid ""
+"Medium: The incidents, based on their priority, will be responded to with"
+" the response times described in section 2.1"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:93
+#: 55e2abc3f33c4cf7a7945f48b0fbfa83
+msgid "Limitations and constraints"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:95
+#: 35871eae085c4dd5bd73cab95b492323
+msgid ""
+"The provisioning of the service under the agreed service level targets is"
+" subject to the following limitations and constraints:"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:97
+#: 0f34c2dec05043798fe6bb68ea6267c4
+msgid "Support is provided in following language: Chinese and English"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:98
+#: bb6fab9977504fcda64ff8262cb5257b
+msgid ""
+"Downtimes caused due to upgrades for fixing critical security issues are "
+"not considered Agreement violations."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:99
+#: 9113a7faa5b54e9eb07cb0ccb16544d8
+msgid ""
+"Force Majeure. A party shall not be liable for any failure of or delay in"
+" the performance of this Agreement for the period that such failure or "
+"delay is due to causes beyond its reasonable control. Means any"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:101
+#: 2ca0cfe62fe14f34a47a3863d42392d0
+msgid "fire, flood, earthquake or natural phenomena,"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:102
+#: 3e8306c1c740487786a1af6ee50356f1
+msgid "war, embargo, riot, civil disorder, rebellion, revolution"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:104
+#: 1decf7f791fc4eb99771fb7c8e2df6fc
+msgid ""
+"which is beyond the ASGC's control, or any other causes beyond the ASGC's"
+" control."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:109
+#: 7f6b3fe6f3f9442184a944315dcfc336
+msgid "Violations"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:111
+#: 3eff08ba4ff94b16bba02bed51f1329f
+msgid ""
+"In case of violations of the agreed Services targets for three "
+"consecutive months, ASGC will investigate root cause of the violation. "
+"The Customer should notify the supporting Resource Centres in case of "
+"suspected violation via the ASGC Service Desk. The case will be analysed "
+"to identify the cause and verify the violation."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:115
+#: a1b7e8745ef94467a1ade3d3f59f8a62
+msgid "Information security and data protection"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:117
+#: 8de7355e322c4206b1bdda24a9c2345c
+msgid "The following rules for information security and data protection apply:"
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:119
+#: c431cdd35e724a31b6a7d1f3d413fb8a
+msgid ""
+"Assertion of absolute security in IT systems is impossible. ASGC is "
+"making every effort to maximize security level of users’ data and "
+"minimalize possible harm in the event of an incident."
+msgstr ""
+
+#: ../../source/agreement_policy/service_level_agreement.rst:120
+#: f1091a9582fe46b687561a2c9b24057d
+msgid ""
+"The Customer must meet all requirements of any relevant ASGC and AS "
+"policies or proceduresand also must be compliant with the relevant "
+"national legislation."
+msgstr ""
+

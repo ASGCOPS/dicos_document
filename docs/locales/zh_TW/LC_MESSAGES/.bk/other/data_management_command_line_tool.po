@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:2
+#: 1cfc8445400c48488ba5c0f0c0c92680
+msgid "Data Management Command Line Tool"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:4
+#: 5e4e4df3609f4ede95240de58e572a37
+msgid ""
+"**This document is only for the users from Institute of Physics, Academia"
+" Sinica**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:8
+#: d574b0f3bae64b3b81d5b1d927fce3c5
+msgid "Advance Preparation"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:10
+#: 624034d762b649a2a2af893ff08fa8d8
+msgid "SSH log in **pui01.phys.sinica.edu.tw** or **pui02.phys.sinica.edu.tw**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:11
+#: e3e824e81707499db15d7585685f5c82
+msgid ""
+"This user manual can also be found on "
+"pui01.phys.sinica.edu.tw:/cvmfs/cvmfs.grid.sinica.edu.tw/app/dicos/rucio/basic_rucio_commands.txt"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:15
+#: 45d6c53bc7434f18af6b3101ca5346c3
+msgid "Commands"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:19
+#: d9fd65c0ab7a4aabb55c3fe29f3771ce
+msgid "Ping"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:21
+#: 96ad6c4f058a4f439cb794453fb3ca94
+msgid ""
+"Connect to rucio server to see if it's alive. It will return rucio "
+"version if everything is OK."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:23
+#: aba1ac44447d43b28df307198789d12e
+msgid "**rucio ping**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:32
+#: e0f7afb060424fc0be0293079e599ac0
+msgid "Upload"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:34
+#: b0fd0bb99688440da8a6ecd9bab4271e
+msgid "Register and upload your files to the storage."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:36
+#: 466e2cdf352447a29ff26b4860a3520c
+msgid ""
+"**rucio upload --rse PHYS-EOS01_TWGRIDSCRATCHDISK --scope `<your scpoe>` "
+"--did `<your scope>:<dataset name>` --files `<your file path in local>`**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:42
+#: ../../source/.bk/other/data_management_command_line_tool.rst:60
+#: 025890556a61415687d097fb39d83d34 67eec401614f423dbfb65c2d0d7c6df0
+msgid "Note:"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:44
+#: f59de1773ce54fb4ad5211e6eb02e594
+msgid "``dataset name`` must be set."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:45
+#: ce821b31b3184ee7a382a8f7e08ff28d
+msgid ""
+"If the ``dataset name`` does not exist in your scope, the system will "
+"create it for you."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:46
+#: 87b6d7f9dda94fc7805ef6e79a4cda12
+msgid "The wildcard * can be used in ``your file path in local``."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:50
+#: 463c6bd5512d434faa379ad1415733b3
+msgid "Download"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:52
+#: 5e34c7e34fb945a3a6f939c52a3ae66f
+msgid "Download your files from the storage."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:54
+#: 3796588db74b4962be3c709fbd7fa922
+msgid ""
+"**rucio download `<your scope>:<file name>` --dir `<local directory to "
+"put your file>`**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:62
+#: e844f766c9444a469f3bfc3c597f1bcf
+msgid "``file name`` can be replaced with ``dataset name`` or ``container name``."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:63
+#: d003f8eaf83f4c25823d1df70ebe37d2
+msgid ""
+"When download a whole dataset or container, the files in it will all "
+"downloaded into a directory without any folder."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:64
+#: 6f6e92a28176416fa57f8c515873a9ef
+msgid ""
+"``local directory to put your file`` must be a directory, can not be a "
+"file name."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:65
+#: 1dfe7bb95f14493485d613fb3471328e
+msgid "Not support the wildcard * in ``your scope``:``file name``"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:69
+#: b51c41e8cf484db296b81bcb23d60191
+msgid "Query"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:71
+#: f1f405a6d26041a484018c0c78b37ddc
+msgid "List top-level directory structure in your scope."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:73
+#: 6f24817ef5a74d5c9bb94f2099f981fc
+msgid "**rucio list-dids --scope `<your scope>` [--recursive]**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:87
+#: 037e665475ce49c08a548dac599f364d
+msgid ""
+"you can also list the whole structure in your scope by using \"--"
+"recursive\""
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:94
+#: 52be0ba30c40419ca93d151849ff55c3
+msgid "List the directory structure under indented did."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:96
+#: 5def6f17994b4d77ac46c97a23fde9af
+msgid ""
+"**rucio list-dids --scope `<your scope>` `<your scope>:<Dataset/Container"
+" name>`**"
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:112
+#: 2191fa566786445c85e01d4d54a90a67
+msgid "List file information such as file size, checksum and file path."
+msgstr ""
+
+#: ../../source/.bk/other/data_management_command_line_tool.rst:114
+#: c7d6054c71434ebc82c3f563205d5f56
+msgid "**rucio list-replicas `<your scope>:<file name>`**"
+msgstr ""
+

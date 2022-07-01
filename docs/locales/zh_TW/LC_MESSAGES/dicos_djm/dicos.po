@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos.rst:3 5850a112a0064047ae9810df0ac805ad
+msgid "DiCOS"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:6 fb3dc0e1e4f84a928bcc9d813105cc89
+msgid "DiCOS Queues"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:8 83796896412b425892e43f5e0d6695fb
+msgid ":doc:`Resources<dicos/working_environment>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:11 1726f7d0ffcc47fbb0d8bfa35ea1bdf9
+msgid "DiCOS Apps"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:13 e768a306644349c89d37856de72e9723
+msgid ":doc:`DiCOS APP FAQ<dicos/dicosapp_faq>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:15 20ffb1d5fb8542278daeba348ff8135d
+msgid ":doc:`Introduction and Specs<dicos/dicosapp_faq/dicosapp>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:16 99202f3af4a24753a9d817bfe8e5002c
+msgid ""
+":doc:`Data handling with DiCOS "
+"Apps<dicos/dicosapp_faq/dicos_app_data_handling>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:17 f092d479f5a541e2b6af1c25b6c9e1cc
+msgid ""
+":doc:`RELION job "
+"configuration<dicos/dicosapp_faq/relion_job_configuration>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:20 268f9882abc24d4ca20f2f808845268c
+msgid "DiCOS Client Tools (Recommended)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:22 c55278200b3547eaafac3a9ba53c31e2
+msgid ":doc:`Tutorial<dicos/dicos_cli_tool_bridge>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:25 c0798a243c824f79b7c3e8259a126591
+msgid "DiCOS Client Tools (Certificates & VO required)(Deprecated)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:27 fb3ac79e085b495890dd723013f234f0
+msgid ":doc:`Tutorial<dicos/dicos_cli_tool>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:30 ec391accfb3b4b67b414a375510322c8
+msgid "DiCOS Web UI (Certificates & VO required)(Deprecated)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:32 3a99328a020b4bc089c2079b3faf65a5
+msgid ":doc:`Tutorial<dicos/dicos101>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:33 7f0bdb112e514995ab2bbc2a46fa2040
+msgid ":doc:`Use Case: Submit a general job<dicos/use_case>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:34 fce2b5befa634496a4384edf15c86b21
+msgid ":doc:`Use Case: Submit a mpi job<dicos/mpi>`"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos.rst:35 91bef819cbd240b383e99f777a1d0c33
+msgid ":doc:`Web Terminal<dicos/web_console>`"
+msgstr ""
+

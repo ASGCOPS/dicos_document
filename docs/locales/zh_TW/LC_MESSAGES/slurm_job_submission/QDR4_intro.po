@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:2
+#: 50793e91011a49b7bbe4f2285d9409a9
+msgid "Computing Resources and Specifications"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:6
+#: 115f87b725f74ab7aa71db64a8de94ee
+msgid "QDR4 Cluster"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:7
+#: df97b65a1bde44c19b1b0efd120521fb
+msgid "50 homogeneous worker nodes(1000 CPU cores) are available in QDR4."
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:8
+#: b10c80e58432425cbe5359a21b4f474c
+msgid ""
+"The Specifications per nodes: - CPU Model: Intel(R) Xeon(R) CPU E5-2650L "
+"v2 @ 1.70GHz - CPU Number: 20 (10 Core per socket, 2 sockets) - Memory "
+"Size: 125 GB - Disk Space: 1 TB (400 GB reserved for system)"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:13
+#: 035a3c6ab3f14836994f558c8c719af3
+msgid ""
+"The connections between each worker nodes and controller node - "
+"InfiniBand QDR standard, which provide high"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:15
+#: c9b5b5a50fc746f09e1c93efe287f514
+msgid "speed and low latency connections."
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:19
+#: f19dd395d7f84014ae61292b1915b511
+msgid "GPU Resources"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:23
+#: 0b7c640d344c4f6f8a8e51dd8ac1e32d
+msgid "# V100"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:25
+#: c649f08f105045a999b923b2bbb1392d
+msgid ""
+"Specifications - CPU Model : Intel(R) Xeon(R) Gold 6126 CPU - CPU MHz : "
+"2600 - CPU Cores: 24 - Memory Size: 755GB - Memory Spec: 32GB 2666 MT/s "
+"DDR4 - GPU Spec : NVIDIA Data center GPU V100 - Disk Space : 1TB (400 GB "
+"reserved for system)"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:36
+#: 46e34930c3354b6793e5b9c916121adf
+msgid "# A100"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:38
+#: a0155d69bc25499aad6336c4b4311435
+msgid ""
+"Specifications - CPU Model : AMD EPYC 7302 16-Core Processor - CPU MHz : "
+"2994.281 - CPU Cores: 32 - Memory Size : 1TB - Memory Spec : 64GB 3200 "
+"MT/s DDR4 - GPU Spec : HGX NVIDIA A100 * 8 - Disk Space : 1.1TB (400 GB "
+"reserved for system)"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:49
+#: 0a5c898491fc4752a4877a95b1447670
+msgid "SLURM Queue Policy"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:51
+#: 0efcbb81675f4a89b22ea1e24757164b
+msgid "Below is our current configuration of partitions"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:57
+#: a51e82ae5b2c4051b9822dd2aa8d1ba2
+msgid "System Topography"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:59
+#: 7889255db8504cd7a308bad660b25a05
+msgid ""
+"The system scheme could be found in Figure. 1. The network connection is "
+"majorly in 10G ethernet."
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:65
+#: 48a5513fa1594b6590f3519da725706a
+msgid "Software Repositories"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:74
+#: cdb01004a15e47318ff309d979b0d67e
+msgid "Ceph File System (掛載至QDR4: 1 PB)"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:84
+#: 6dd98c6fa7d4414ca84776caa6f8aeb6
+msgid "# User Interface for job management and data access"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:92
+#: d2affb956e0b4c20a32ce52b5c5beb57
+msgid "User working directories"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:96
+#: 66a11b4c1805485f86b50fbdf3f5f35c
+msgid "User Home"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:98
+#: ef1c5dc9efbc49959a721b8d5d5c4aa2
+msgid ""
+"It's your home directory in UI. Data access is be limited with NFS system"
+" 10Gb/s."
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:107
+#: 8b400a1c94444d7b956b4e5c49291858
+msgid "Ceph User Working Directory"
+msgstr ""
+
+#: ../../source/slurm_job_submission/QDR4_intro.rst:109
+#: 261ea874bd7a4f168176705f200abc57
+msgid ""
+"Strongly recommended for its high performance of data access for "
+"inputs/outputs. Please follow the first letter order to find your Ceph "
+"working directory. For example, username 'jack' will be in "
+"/ceph/sharedfs/users/j/jack."
+msgstr ""
+

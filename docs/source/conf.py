@@ -46,3 +46,9 @@ html_theme_options = {
 
 html_baseurl = "/static/docs/"
 html_show_sourcelink = False
+
+# multi-language docs
+language = 'en'
+locale_dirs = ['../locales/']   # path is example but recommended.
+gettext_compact = False  # optional.
+gettext_uuid = True  # optional.

@@ -1,0 +1,307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:2
+#: 72ea97b5f21a4a8a8d8a4ed775b67cad
+msgid "Slurm Job Management"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:6
+#: cd87b281218d43869ab908980c013c57
+msgid "Check Resources"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:8
+#: 77cd133cf1ef4edcb294d358158e65ad
+msgid ""
+"Use The 'Sinfo' Command To Display Information About Available Resources:"
+" If you use the command without any options, it will display all "
+"available partitions."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:23
+#: 319ca4da80f24135bac4dfb26da4aae4
+msgid "Scripts (Job submission file)"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:25
+#: 3744c053480c449e952473c4bdf550f6
+msgid ""
+"A job submission file can contain any of the commands that you would "
+"otherwise issue yourself from the command line. It is, for example "
+"possible to both compile and run a program and also to set any necessary "
+"environment values (though remember that SLURM exports the environment "
+"variables in your shell per default, so you can also just set them all "
+"there before submitting the job). The results from compiling or running "
+"your programs can generally be seen after the job has completed, though "
+"as SLURM will write to the output file during the run, some results will "
+"be available quicker."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:28
+#: 455b7a76841641c2b063ee9de25f3c17
+msgid ""
+"Outputs and any errors will per default be placed in the directory you "
+"are running from. Note that this directory should preferrably be placed "
+"under the parallel filesystem, since that is the only filesystem the "
+"batch system have access to easily. Both output and errors will, by "
+"default, be combined into a file named slurm-<jobid>.out. You can send "
+"them to other/separate files with these commands:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:36
+#: 0c11c19ad6044cac91590fde4e17e757
+msgid ""
+"These are prefixed with \"#SBATCH\" and otherwise use the same keywords "
+"and syntax as the command line options described for the sbatch command. "
+"The following script presents a minimal example: Example"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:49
+#: 4fd4a69d2e0d4266a8d022e012c6db91
+msgid "Simple Batch Script For Running MPI-Parallel Jobs"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:51
+#: ../../source/slurm_job_submission/slurm_docs.rst:86
+#: ../../source/slurm_job_submission/slurm_docs.rst:150
+#: 58c729e00cf7491495befe3ba326eaa2 85598523726d4f76aa6069f836888a4f
+#: ad09e33e1acb41b38486461375af1a7d
+msgid ""
+"Note: The following example script assumes that you submit the script "
+"from the directory where the code will be executed (the path to that "
+"directory is stored in the"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:57
+#: ../../source/slurm_job_submission/slurm_docs.rst:156
+#: 5fadb73b56d64f02b9ca04a845fcd706 e3a6c603b5274be4b8f3ea882a902dda
+msgid "environment variable, and is where SLURM will execute the script from)."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:84
+#: 48b8a491d8c64e04820fdc6bce231791
+msgid "Simple Batch Script For Jobs Using OpenMP Only"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:92
+#: 1162b372b7b6439baf00789c7bbd97b3
+msgid "environment variable). Note: By choosing"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:99
+#: ../../source/slurm_job_submission/slurm_docs.rst:111
+#: 6b3469e124694908a8c555c4d9958660 7b801e71d5b1463da62e0da504041627
+msgid "along with"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:105
+#: 6b15ad6fef354202b57c787820322b04
+msgid ""
+", you have assumed that your program will take advantage of hyper "
+"threading. If this is not the case, or you are uncertain, use"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:117
+#: dacae58568b64bc8afd400e6716ee9d0
+msgid ", and your program will be executed with 20 threads."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:148
+#: 33e6823f250c410ca96856aec0285429
+msgid "Hybrid MPI + OpenMP Batch Script:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:191
+#: 508c8a7ac4b44125a6d46cf134a50198
+msgid "Embarrassingly Parrallel Workload Examples"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:193
+#: ddfe4b3f0dfe459bb8106ff87fdde8bb
+msgid ""
+"This setup is useful for problems based on random draws (e.g. Monte-Carlo"
+" simulations). In such cases, you can have four programs drawing 1000 "
+"random samples and combining their output afterwards (with another "
+"program) you get the equivalent of drawing 4000 samples."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:195
+#: a40b0ba57c394cb3bf1c9baaf4c44ca9
+msgid ""
+"Another typical use of this setting is parameter sweep. In this case the "
+"same computation is carried on several times by a given code, differing "
+"only in the initial value of some high-level parameter for each run. An "
+"example could be the optimisation of an integer-valued parameter through "
+"range scanning:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:212
+#: 51a6eb6b9f3c404e8f6ce1f8ad174a37
+msgid ""
+"In that configuration, the command my_program.exe will be run eight "
+"times, creating eight distinct jobs, each time with a different argument "
+"passed with the environment variable defined by slurm SLURM_ARRAY_TASK_ID"
+" ranging from 1 to 8."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:214
+#: f5c07e33e2ef4b13b02b512e5faf19c0
+msgid ""
+"The same idea can be used to process several data files. To different "
+"instances of the program we must pass a different file to read, based "
+"upon the value set in the $SLURM_* environment variable. For instance, "
+"assuming there are exactly eight files in /path/to/data we can create the"
+" following script:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:233
+#: 520c5bdf50e047cab08bd7f8d6e5273b
+msgid ""
+"In this case, eight jobs will be submitted, each with a different "
+"filename given as an argument to my_program.exe defined in the array "
+"FILES[ ]. As the FILES[ ] Bash array is zero-indexed, the Slurm job array"
+" IDs must also start at 0 so the argument is --array=0-7. One pain point "
+"is that the number of files in the directory must match the number of "
+"jobs in the array."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:235
+#: 8a0e4e9b8bac49319c0748f7cd078fc7
+msgid ""
+"Note that the same recipe can be used with a numerical argument that is "
+"not simply an integer sequence, by defining a Bash array ARGS[ ] "
+"containing the desired values:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:243
+#: 62b02234d02849e389348a1509e7073d
+msgid ""
+"Here again, the Slurm job array numbering must start at 0 to make sure "
+"all items in the ARGS[ ] Bash array are processed."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:247
+#: a783a7fac1c74bf6a2f94fc62c363569
+msgid "Job Status"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:251
+#: a755ec73e40a4e2e82ba02d0311fbb39
+msgid "squeue"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:253
+#: 3fcea6d1b5bf4be195470fd6b49120fd
+msgid ""
+"Use The 'Squeue' command To display information about scheduled jobs, -u "
+"with username to see your jobs only"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:265
+#: a18ba1307a9546f1b954b6e9e9ab7d15
+msgid "queue"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:267
+#: c9067971dcd34079bb640f72dcd13efb
+msgid "To only view the jobs in the largemem partition on Kebnekaise"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:275
+#: 949cb667ed1c42859208f4d6972abb82
+msgid "scontrol"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:277
+#: cf2c81625a274a3ca7bc8a6a3b9a8d49
+msgid "Get the status of an individual job"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:285
+#: 67750fef61ca422e940125ce91aa405d
+msgid "Job Cancellation"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:287
+#: bd58efc567ca435bb52a24748982f129
+msgid ""
+"To cancel a job, use scancel. You need the running or pending jobid. It "
+"is only the job's owner and SLURM administrators that can cancel jobs."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:293
+#: c5f22acaaf1d4fb69e2fd0dda08b0f2b
+msgid "To cancel all your jobs (running and pending) you can run"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:299
+#: 4f8f452f179b4a44916b8f6050d52dff
+msgid "You get the job id when you submit the job"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:307
+#: 6b12b12347fd44809c4dac5b5de1d41e
+msgid "Or through squeue"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:313
+#: 13f5ab1684a54f6c88b6299b7b9a9108
+msgid ""
+"Alternatively, you can cancel a job submitted by srun or in an "
+"interactive shell, with salloc, by pressing Ctrl-C. In the example below,"
+" we have asked to start an interactive job, which we then cancel during "
+"waiting."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:323
+#: 2028a16193524e178c26df45ff43cf94
+msgid ""
+"Note Do not kill/skill srun to cancel a SLURM job! Doing so only "
+"terminates srun. The tasks continue to run, but not under SLURM "
+"management. If you do kill/skill an srun job, you can use squeue to get "
+"the job id and then either scancel the job, or use srun -p <partition> -a"
+" <jobid> -j, to reattach srun to the job and then you can use Ctrl-C to "
+"cancel it."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:327
+#: 20adfc3933da4821ac0f9c466bcc228a
+msgid "GPU Jobs"
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:329
+#: a92fb70d1cb745bda2f36c7de669fb47
+msgid ""
+"Microway gpu-burn is a free software of stress test for GPU clusters. "
+"Here we take it as an example to run jobs with gpu. gpu_burn.sh is the "
+"example of script to run gpu_burn. In the script, you need to specify "
+"--partition to V100 or A100 and --gres for numbers of your request gpu "
+"cards. Export the path of CUDA package to /usr/local/cuda in the GPU "
+"clusters."
+msgstr ""
+
+#: ../../source/slurm_job_submission/slurm_docs.rst:333
+#: d81351502ae8418ea05c9ac502ac42e4
+msgid ""
+"You may find this program and scripts in "
+"/ceph/astro_phys/user_document/gpu/"
+msgstr ""
+

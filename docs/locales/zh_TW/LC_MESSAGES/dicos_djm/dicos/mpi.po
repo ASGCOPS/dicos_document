@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/mpi.rst:2 b4befebd4be74c2b8a4bb1cc16c7c7c0
+msgid "MPI Job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:4 2b8cf0d53d96490cb9575b6259766ac2
+msgid "**Attention**:"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:6 90bc12700e3d4628b174c34bda7965a6
+msgid ""
+"If you want to submit a MPI job, the mode to complier and to execute is "
+"different from submit a general job. Just like exemple."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:8 f2ad333272b2455a9e6e9009cba0f3cb
+msgid ""
+"First to do is the same as :doc:`submit a general job <use_case>`. If you"
+" were confuse about it, just do like submit a general job to step2. And "
+"continue to do."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:10 e064931081be4e4bb828732e2749f04b
+msgid "First, login to the DiCOS and go to Data Management page."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:14 cb3a02aee0354b258ab9e09a69812498
+msgid "or .. image:: mpi/image/datamanage2.png"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:19 e47d3db04afb45e8bfd81eada9791a31
+msgid "1-1. Add your input data file, subroutine here."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:26 f12800b027634630832ab90f732b5268
+msgid "Second, move to the submission page."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:32 ff95ebbdab24464d9ed9c55f2097c366
+msgid "Fill in the information that request."
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:36 088e89b4f40840f49740807754f1a1c6
+msgid "(Remember to choose a site that contain mpi software.)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/mpi.rst:42 7b09dfeb6b9e4e299c35333098dc8208
+msgid ""
+"After submit, to see the result is fully same as :doc:`general job "
+"<use_case>`."
+msgstr ""
+

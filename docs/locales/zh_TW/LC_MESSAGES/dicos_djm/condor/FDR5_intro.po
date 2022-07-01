@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:2
+#: 09c1e9fcc49e41e8ba5f42ec1490114d
+msgid "FDR5 Resources and Specifications"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:6
+#: 6d173e10e9504a87a239b082acd57dba
+msgid "FDR5 Cluster"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:8
+#: 139c16a07aad4424977aa862057e0889
+msgid "92 homogeneous worker nodes(2208 CPU cores) are available in FDR5."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:12
+#: 6df058e343d54c56ba181f5e52b3233e
+msgid "## The Specifications per nodes:"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:14
+#: 6b9e3ff4e993474bb33d3daacec8bb3d
+msgid "CPU Model: Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:15
+#: e50cf99acb5643a8b908b290be89b0da
+msgid "CPU Number: 24 (12 Core per socket, 2 sockets)"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:16
+#: 26c03ed4f0214082ad2e865d46c6f52b
+msgid "Memory Size: 125 GB"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:17
+#: faf4ea570eea4630a5de37c8cb9f1d78
+msgid "Disk Space: 1.8 TB"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:21
+#: e7cb3ca32bdd4cc9a6c09699ecac4135
+msgid "# System Topography"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:22
+#: 69072198d6d54176aba742007ff87c1b
+msgid ""
+"The system scheme could be found in Figure. 1. The network connection is "
+"majorly in 10G ethernet."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:24
+#: 29b1a4af127b49a78f2a0fa5089cc1c9
+msgid "[image:108 align:left]"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:28
+#: 89f1b4467396486d9289d1372af68e4f
+msgid "## Software Repositories (same in DiCOS clusters)"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:36
+#: 1e58789578534ef9a10edab05f8757c1
+msgid "## Ceph File System"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:46
+#: 5a8f3c75ed0a4d49a8f6b85e7f9b057d
+msgid "# User Interface for job management and data access"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:54
+#: e87e9ef8abf34233b865071d784415af
+msgid "# User working directories"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:58
+#: 9c18ea1c1e7a4c23b3ef930c003fd386
+msgid ""
+"It's your home directory in UI. Data access is be limited with NFS system"
+" 10Gb/s."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:66
+#: c034164d6cdb47348540448a1aa8610a
+msgid ""
+"Strongly recommended for its high performance of data access for "
+"inputs/outputs. Please follow the first letter order to find your Ceph "
+"working directory. For example, username 'jack' will be in "
+"/ceph/sharedfs/users/j/jack."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:76
+#: 073d5bf3881045078a17291a3243d8e7
+msgid "# Condor Queue Policy"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/FDR5_intro.rst:78
+#: ecd3c7322bee4308a2b66e9ef43a5baf
+msgid ""
+"Below is our current configuration of partitions (Condor JobFlavour "
+"(queue) policy):"
+msgstr ""
+

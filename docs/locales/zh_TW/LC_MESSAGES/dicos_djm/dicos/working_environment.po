@@ -1,0 +1,653 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:2
+#: aae4fa26dc8b47549a718390fa269d94
+msgid "Working Environment"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:6
+#: efe96504c72241f2a5a521eae432e30f
+msgid "VO: TWgrid"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:8
+#: ../../source/dicos_djm/dicos/working_environment.rst:89
+#: ../../source/dicos_djm/dicos/working_environment.rst:186
+#: ../../source/dicos_djm/dicos/working_environment.rst:226
+#: ../../source/dicos_djm/dicos/working_environment.rst:251
+#: 07378fa50b00488db666e0ec02624017 193e813b0bcc490b884c9708d5c7e9f8
+#: 195ccee98a924aa8ad35b48ab70c1fcc 1df5c824ffbd4567ac9f479ff13385eb
+#: 35c9f3495e4144a39e7784ca3931a884
+msgid "CVMFS (CernVM File System)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:11
+#: ../../source/dicos_djm/dicos/working_environment.rst:92
+#: ../../source/dicos_djm/dicos/working_environment.rst:189
+#: ../../source/dicos_djm/dicos/working_environment.rst:229
+#: ../../source/dicos_djm/dicos/working_environment.rst:254
+#: 0d97169fd79848a39bcc20e136051f11 acc274b239634767b65a8287cb3995f8
+#: b522032af840460faaf1eeeb86123cce c180bf2bc20849b0899e523bdfef4f04
+#: d901b9bbe8264c3586cbad77af9fc445
+msgid "Computing Site Name"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:12
+#: ../../source/dicos_djm/dicos/working_environment.rst:93
+#: ../../source/dicos_djm/dicos/working_environment.rst:190
+#: ../../source/dicos_djm/dicos/working_environment.rst:230
+#: ../../source/dicos_djm/dicos/working_environment.rst:255
+#: 4dc13103340a4ec6b236aa62fdede352 5c968181b5674f73b4386db38de33bad
+#: 6974ec886f754af3a3f3022846280764 8fbea97eb50940c7b9af60b1ef6230f3
+#: ac52a0d3e48d412d9dd5ff8000c06d1c
+msgid "CPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:13
+#: ../../source/dicos_djm/dicos/working_environment.rst:94
+#: 3539c5236e5b46348bbcd61694e452fa 59dcf290e26645c590828bc507d50495
+msgid "number of core per node"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:14
+#: ../../source/dicos_djm/dicos/working_environment.rst:95
+#: 15f963d7be64479e89c9485532d9bd22 2c913f840cde4429b2518200454e9741
+msgid "memory of job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:15
+#: ../../source/dicos_djm/dicos/working_environment.rst:96
+#: 824b3c52b8ee40e092b7f6a1cb152914 de5c7d81414548bb8914625ade565930
+msgid "disk of job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:16
+#: ../../source/dicos_djm/dicos/working_environment.rst:97
+#: ../../source/dicos_djm/dicos/working_environment.rst:234
+#: ../../source/dicos_djm/dicos/working_environment.rst:259
+#: 0cc0395323bf4e31be80fc64ccadbb9f 34b757649a844ff5ad8b50b495a95cdc
+#: b21e0a496faa4634bee58b923827991d e97d313a0ef94ff5849e0158c6f9b3b9
+msgid "per core"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:17
+#: ../../source/dicos_djm/dicos/working_environment.rst:98
+#: 623983d28f8c468480e3587322cf8fe9 f89b0f8d4f9f4baa977e3f638b5cd4f6
+msgid "machine memory size"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:18
+#: ../../source/dicos_djm/dicos/working_environment.rst:102
+#: ../../source/dicos_djm/dicos/working_environment.rst:196
+#: ../../source/dicos_djm/dicos/working_environment.rst:236
+#: ../../source/dicos_djm/dicos/working_environment.rst:261
+#: 4eec8973683c47cf895b4ef8765d1a31 8e9bce06c56245a48ab656e24106c83a
+#: a0331978066f4677aa79ff67b6233352 d7746895e67847c38c79fe879a714a06
+#: e5b1292fdec54f449d9b9920bcb4637c
+msgid "OS"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:19
+#: b9194b2003f549d2b6b5c77bc817984e
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:20
+#: ../../source/dicos_djm/dicos/working_environment.rst:28
+#: ../../source/dicos_djm/dicos/working_environment.rst:36
+#: ../../source/dicos_djm/dicos/working_environment.rst:214
+#: ../../source/dicos_djm/dicos/working_environment.rst:238
+#: 087c24f788244b899767c5237de22518 6c0ac94be1264b82be092a847727d515
+#: 94497b8bb4b0450bb8796f31e14c0311 a5dab0390a08474d984680b2ffa3adc1
+#: c934d276b6ae435cafe1780d12cce786
+msgid "Intel(R) Xeon(R) CPU E5-2650L"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:21
+#: ../../source/dicos_djm/dicos/working_environment.rst:29
+#: ../../source/dicos_djm/dicos/working_environment.rst:37
+#: ../../source/dicos_djm/dicos/working_environment.rst:215
+#: ../../source/dicos_djm/dicos/working_environment.rst:239
+#: 0ed03e672fb54d82943a3e18f97766ee 3ec380f4beb54792b10d3142a05f9c6e
+#: 7211aab593124012b625d6608f35b0c1 9c1a1bfe1ab449a08ed34bfddcb21ded
+#: feee2f7ff62e4e6480bbf4d7fff41d46
+msgid "16"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:22
+#: ../../source/dicos_djm/dicos/working_environment.rst:70
+#: ../../source/dicos_djm/dicos/working_environment.rst:208
+#: ../../source/dicos_djm/dicos/working_environment.rst:240
+#: 4e64e30815984a379eededbd991830df 68617e82971a4b1284f7c4ebcfcd48a6
+#: a1a01d56f2b843ecab7c89c388e3e2e0 d3fd28d688d042f9b3482e6c9c260e57
+msgid "4000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:23
+#: ../../source/dicos_djm/dicos/working_environment.rst:217
+#: ../../source/dicos_djm/dicos/working_environment.rst:241
+#: ../../source/dicos_djm/dicos/working_environment.rst:274
+#: 5c8963f6aa174ce18a28cb6fc94d1d39 cbfd96a17e6443118e4337210bbc4ef1
+#: e6020c34a681409596735f6604aadbb9 fcdf685d74a84d5582d31562726951fa
+msgid "40960"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:25
+#: ../../source/dicos_djm/dicos/working_environment.rst:33
+#: ../../source/dicos_djm/dicos/working_environment.rst:41
+#: ../../source/dicos_djm/dicos/working_environment.rst:219
+#: ../../source/dicos_djm/dicos/working_environment.rst:243
+#: 4db3ed9f6b6f4008878b97e9495d2b69 66e8a19354624a1b9f89bb185e8bca62
+#: cb3b7c9645694c288c02910d6858a7e8 d47e86a135fb44c59ca8dc561c34d1f5
+#: e9cb023c4e8b4cf08559eca480d6ebf1
+msgid "64"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:26
+#: ../../source/dicos_djm/dicos/working_environment.rst:34
+#: ../../source/dicos_djm/dicos/working_environment.rst:42
+#: ../../source/dicos_djm/dicos/working_environment.rst:50
+#: ../../source/dicos_djm/dicos/working_environment.rst:135
+#: ../../source/dicos_djm/dicos/working_environment.rst:220
+#: ../../source/dicos_djm/dicos/working_environment.rst:244
+#: ../../source/dicos_djm/dicos/working_environment.rst:277
+#: 1f236a0127354db88dfaa9ed0176e10f 3420316038854c0b8be9e99160467653
+#: 4a56e7240d3d4f4082c2df6c85eac0cf 59cd2794d924494fb5bd5a6a87d32b6a
+#: 650eb2a4a0fb4fc9bf7b9f837ba75b45 79eb0e69cf814d029202f75115d9058a
+#: b47b2bf0f7354b5bacb12dd570d41a7b d508be08574c490a82ce709e9628fce0
+msgid "CentOS Linux release 7.5.1804 (Core)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:27
+#: 183ad1e9408449e885662fc9288d3ed2
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2_MCORE"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:30
+#: 30aa1d9d43bf4da08e4db1abb1f80d88
+msgid "64000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:31
+#: ../../source/dicos_djm/dicos/working_environment.rst:47
+#: ../../source/dicos_djm/dicos/working_environment.rst:201
+#: ../../source/dicos_djm/dicos/working_environment.rst:266
+#: 1aa634a0652c416c958c04aeb14ea8d5 a27c1109f0c24ca492586c87cd1c790a
+#: b8ebae34762044d79cb6a853f39b3fdf bcd431f365584e238059517bac041b96
+msgid "819200"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:32
+#: ../../source/dicos_djm/dicos/working_environment.rst:40
+#: ../../source/dicos_djm/dicos/working_environment.rst:56
+#: ../../source/dicos_djm/dicos/working_environment.rst:64
+#: ../../source/dicos_djm/dicos/working_environment.rst:72
+#: ../../source/dicos_djm/dicos/working_environment.rst:80
+#: ../../source/dicos_djm/dicos/working_environment.rst:108
+#: ../../source/dicos_djm/dicos/working_environment.rst:119
+#: ../../source/dicos_djm/dicos/working_environment.rst:123
+#: ../../source/dicos_djm/dicos/working_environment.rst:130
+#: ../../source/dicos_djm/dicos/working_environment.rst:141
+#: ../../source/dicos_djm/dicos/working_environment.rst:152
+#: ../../source/dicos_djm/dicos/working_environment.rst:163
+#: ../../source/dicos_djm/dicos/working_environment.rst:174
+#: ../../source/dicos_djm/dicos/working_environment.rst:210
+#: ../../source/dicos_djm/dicos/working_environment.rst:218
+#: ../../source/dicos_djm/dicos/working_environment.rst:242
+#: 03c0954386644c7d8a0e677a683b3704 1a88eb195b234e2b8967cb5874e83184
+#: 1ac6a87757fd4fa2bfe5da4d91d154d3 1ae91aa31d3e4f01aae65da48c7c5c52
+#: 21d7cd7526634569be30f586350ef4b7 3882c31ddd3348b2815ec17f1a92c4b0
+#: 609b844264b247b4a03be2c70f25cc7d 6f908a98f21d4cdbb2f1dd9933661474
+#: 75b73416e281473199ffa3f217be960d 8386e177fae347eea31f029120900749
+#: 8debaa811d98490e94b4669a07b9665e b6d3aea1bdde4716a96c66b6f8644c42
+#: cd40dd7a2ca147afbff5e5cd1dac96e4 e08f911aa3424d0c9ee51f073097111a
+#: e16547eb3a4b466eb48f70a890511803 fae759fe7e5347d58829cf221b85ce82
+#: fdb3b718cefe4c8aa3fc935e0d59d57b
+msgid "12"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:35
+#: 6ef7d55be261413d8edffcabf673a466
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR2_MPI"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:38
+#: ../../source/dicos_djm/dicos/working_environment.rst:200
+#: ../../source/dicos_djm/dicos/working_environment.rst:265
+#: 007868d867384becb6284319a2e5da39 647b58a0418a4a95857d25554c20e3c9
+#: a6a4aa5d68de4d84a810d15364c267f3
+msgid "0"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:39
+#: ../../source/dicos_djm/dicos/working_environment.rst:55
+#: ../../source/dicos_djm/dicos/working_environment.rst:63
+#: ../../source/dicos_djm/dicos/working_environment.rst:79
+#: 4f796009356e4a269e7315cae2c05dd3 999624fd4ce6408a863a78550f111025
+#: ac638e919b5643e28de2406aee1a5a02 eed95d66ad6a40e1af09ed14b94003f7
+msgid "1000000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:43
+#: 56739ed00a734c0d8f380ecfb31c5f46
+msgid "ANALY_TAIWAN_TWGRID_HPC_QDR5_MCORE"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:44
+#: ../../source/dicos_djm/dicos/working_environment.rst:271
+#: 4ff3b6c11dcb4ba1a1535043abdde4c3 92eaa7f438ba40638f7ea3d9c78c56cc
+msgid "Intel(R) Xeon(R) CPU E5-2650L v2"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:45
+#: ../../source/dicos_djm/dicos/working_environment.rst:48
+#: ../../source/dicos_djm/dicos/working_environment.rst:202
+#: ../../source/dicos_djm/dicos/working_environment.rst:267
+#: ../../source/dicos_djm/dicos/working_environment.rst:272
+#: ../../source/dicos_djm/dicos/working_environment.rst:275
+#: 17f719f140a44b4bb6bbdae0f808b0cf 599fab187aa94b7ca753cd73707c0ca3
+#: 5f99e9020fef4467a61f83e39aa6834d 90fee7b93f7f44c08380605f4c0e75f3
+#: f7fb6995941b49188e69b3792e74acd5 fdbf6e4cb1cb45f38ec0c4a428d6f63e
+msgid "20"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:46
+#: 9b6dd6bb61ca4c7cbdf47e0d0a96df07
+msgid "120000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:49
+#: ../../source/dicos_djm/dicos/working_environment.rst:57
+#: ../../source/dicos_djm/dicos/working_environment.rst:65
+#: ../../source/dicos_djm/dicos/working_environment.rst:73
+#: ../../source/dicos_djm/dicos/working_environment.rst:81
+#: ../../source/dicos_djm/dicos/working_environment.rst:211
+#: ../../source/dicos_djm/dicos/working_environment.rst:276
+#: 66557c27708b43f79ef88948bd454484 6fd0858935ae4a1fb5b00b524b98e4db
+#: 79cfab36f59144ce8a0386e132004666 8bf7a3da3d914ec69cfeb51c5d8ac45e
+#: 8d1668760af344a2924a32d07802c8e5 b96c49df269343ac81c3ed9813b354eb
+#: f54fe2f2e8e344d0a4e7c0fb481b6fb5
+msgid "128"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:51
+#: 5f84cab42a0e42c3b734cca6c6b98d4f
+msgid "ANALY_TAIWAN_TWGRID_HPC_FDR4_MCORE"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:52
+#: ../../source/dicos_djm/dicos/working_environment.rst:60
+#: ../../source/dicos_djm/dicos/working_environment.rst:206
+#: 29645cbc73504ccc91abf716dacb9622 6f773c4f15874cb387bba2bfce837ccc
+#: 8e14a9d14427457b9b6cbffae506dc46
+msgid "Intel(R) Xeon(R) CPU E5-2650L v3 @ 1.80GHz"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:53
+#: ../../source/dicos_djm/dicos/working_environment.rst:61
+#: ../../source/dicos_djm/dicos/working_environment.rst:69
+#: ../../source/dicos_djm/dicos/working_environment.rst:77
+#: ../../source/dicos_djm/dicos/working_environment.rst:207
+#: 74f674afe2ed4d2584c694db85a68e49 9dfdad882a2149a0b328e1cbc4127f0b
+#: b62272f515664810b4e0c2ee9ed3a90f c621e664d9284254a8e10be9d83ee244
+#: e353dc245269433da547c408e38ce27e
+msgid "24"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:54
+#: 1c04b1bce1dc4546b35a1e9ecf53985f
+msgid "94000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:58
+#: ../../source/dicos_djm/dicos/working_environment.rst:66
+#: ../../source/dicos_djm/dicos/working_environment.rst:124
+#: ../../source/dicos_djm/dicos/working_environment.rst:212
+#: 5042f4a61134449081fe4f9af882142d 8833d26f052840c5827a374b72698018
+#: 92926f4ba1a8474baccdcd902200b009 ce768a1ca4664e848092db144fe23544
+msgid "CentOS Linux release 7.6.1810 (Core)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:59
+#: fce9c25ec0ec43229b5cdf0cfe044dac
+msgid "ANALY_TAIWAN_TWGRID_HPC_FDR4_MPI"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:62
+#: ../../source/dicos_djm/dicos/working_environment.rst:78
+#: 883a34aaf05e43c6b2d8b5fc49d10f43 99eeea0f51a3487382fc39fa2d1ac8e4
+msgid "96000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:67
+#: 23721b322d2d48bbaeb0447849016e33
+msgid "ANALY_TAIWAN_TWGRID_HPC_FDR5"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:68
+#: ../../source/dicos_djm/dicos/working_environment.rst:76
+#: ../../source/dicos_djm/dicos/working_environment.rst:104
+#: ../../source/dicos_djm/dicos/working_environment.rst:115
+#: ../../source/dicos_djm/dicos/working_environment.rst:126
+#: 905575255a6842639b77562f234c9bfa b6a767988b8545f6b30ebc7854120eda
+#: e183d95faca84a4186245b4c2c3c4aab f6cfb98ff4e94605a85e1f8d19234495
+#: fbf74fd131af4176b6741fa7e823f488
+msgid "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:71
+#: ../../source/dicos_djm/dicos/working_environment.rst:209
+#: 305f1c2e4f494ac981967af0c7bdda49 4064b469fe9a48979b7ade8c1b8c3567
+msgid "35840"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:74
+#: ../../source/dicos_djm/dicos/working_environment.rst:82
+#: 88a3be58e07d4044b40536fe93b45acd f4020cf77f50416fa6a62c4ac00344ca
+msgid "CentOS Linux release 7.9.2009 (Core)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:75
+#: 707c7c1d65424c62a77451b143424b6f
+msgid "ANALY_TAIWAN_TWGRID_HPC_FDR5_MPI"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:87
+#: 9fea849bad954108b537f5bb443189dd
+msgid "GPU queue"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:99
+#: a3bb8aa2d9be4d0bb5d6a2f1ad1b1798
+msgid "GPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:100
+#: 91d0e763c6314caf8b2b78e3f1ca2b0b
+msgid "Max GPU per job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:101
+#: 268749ae71314948831baec460658e23
+msgid "Number of CPU per GPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:103
+#: 81225b6143724c789541abccdbb675f2
+msgid "ANALY_TAIWAN_TWGRID_AUTODOCK_GPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:105
+#: ../../source/dicos_djm/dicos/working_environment.rst:116
+#: ../../source/dicos_djm/dicos/working_environment.rst:127
+#: ../../source/dicos_djm/dicos/working_environment.rst:138
+#: ../../source/dicos_djm/dicos/working_environment.rst:149
+#: ../../source/dicos_djm/dicos/working_environment.rst:160
+#: ../../source/dicos_djm/dicos/working_environment.rst:171
+#: 3a2a147db3874e7cba6884706a7e1fdc 6abfe551aa734d9f9d681a5fbbfe497b
+#: 6bc282f389d5493cba36aec97c8daf2d 6cb1f449014e42b39b6fa201bc584efc
+#: 707fab6fca894be2808f51e044f8914c e6d321b5c60b4d1bae34c680c8e4f392
+#: ffe3188aff8449a983b2dcb9f3ed0380
+msgid "48"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:106
+#: ../../source/dicos_djm/dicos/working_environment.rst:117
+#: ../../source/dicos_djm/dicos/working_environment.rst:128
+#: ../../source/dicos_djm/dicos/working_environment.rst:139
+#: ../../source/dicos_djm/dicos/working_environment.rst:150
+#: ../../source/dicos_djm/dicos/working_environment.rst:161
+#: ../../source/dicos_djm/dicos/working_environment.rst:172
+#: 2bc70706cf4e49a890b071ed56d2b94c 464bf27426a346719530ffee69b76c7e
+#: a9019cb624fc49ccb7ddea1255eb888a ba689d0e9c9f49f1abb027a0ba2af3dc
+#: eb73b2d0101148a8861d6aef858a6da5 f60c0b4dff1b4601b66b33114f65ecbf
+#: fdb8bbcdfeb64af58c541e64ff12f96a
+msgid "32000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:107
+#: ../../source/dicos_djm/dicos/working_environment.rst:118
+#: ../../source/dicos_djm/dicos/working_environment.rst:129
+#: 2fe9f5447838423984026de3ece15bd0 431803edcdd54d67955d38c54b2dc959
+#: f43c07b5a6b745f89a815725471287a8
+msgid "50000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:109
+#: ../../source/dicos_djm/dicos/working_environment.rst:120
+#: ../../source/dicos_djm/dicos/working_environment.rst:131
+#: 034624a802984045a1012b9321d651dd 38fca27a0d2544fdb46984f113b51266
+#: ba3bb55f447543c78d4e5d102bdaadd2
+msgid "500"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:110
+#: ../../source/dicos_djm/dicos/working_environment.rst:121
+#: ../../source/dicos_djm/dicos/working_environment.rst:132
+#: 878feb0aa6574e57a380bf1efc9777d1 cd8f220bf17a465f98c64292564ff798
+#: da5475cb0bf349c9aca91caf7028f10f
+msgid "p100"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:111
+#: ../../source/dicos_djm/dicos/working_environment.rst:122
+#: ../../source/dicos_djm/dicos/working_environment.rst:133
+#: ../../source/dicos_djm/dicos/working_environment.rst:145
+#: 996faec2694f47f8b6a7b58528cae2c0 c4712e8fc9014f11ad0a3f3c788b0dd4
+#: df1a3a61c39648d28b810881acf03bbe ee747fef60554d69ab89a946e0510586
+msgid "4"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:112
+#: ../../source/dicos_djm/dicos/working_environment.rst:134
+#: ../../source/dicos_djm/dicos/working_environment.rst:156
+#: 10ad90c478a54ffba7d20ded7a9aa598 634778cc119d4419bcab112cb3cf9fb9
+#: b41b2728b2734375a64c83a497dad16f
+msgid "1"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:113
+#: ../../source/dicos_djm/dicos/working_environment.rst:146
+#: ../../source/dicos_djm/dicos/working_environment.rst:157
+#: ../../source/dicos_djm/dicos/working_environment.rst:168
+#: ../../source/dicos_djm/dicos/working_environment.rst:179
+#: 70aeb1eaf6fe442cb0a384c22f88fe59 cccd1a3c2fec4f32804251ff75d0a2ef
+#: d3fe4d54e71542b7a83d3f5c04e94a4b da4695399ba34a74809a814d9f479410
+#: ec76b071de124d448c481e9114e54922
+msgid "CentOS Linux release 7.7.1908 (Core)"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:114
+#: e87390e8b902470baabd87d7bf40d21d
+msgid "ANALY_TAIWAN_TWGRID_K8S_P100"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:125
+#: 1eae1ba558bb4779b3b692e5f3f73f26
+msgid "ANALY_TAIWAN_TWGRID_KAGRA_GPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:136
+#: 7cc0e9c081e84b19aafe1ac6aa004648
+msgid "ANALY_TAIWAN_TWGRID_ML_V100"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:137
+#: ../../source/dicos_djm/dicos/working_environment.rst:148
+#: ../../source/dicos_djm/dicos/working_environment.rst:159
+#: ../../source/dicos_djm/dicos/working_environment.rst:170
+#: 119e49ca0cbb4121852da9327a712209 4b3872d1709c44beac357e2963a7308e
+#: 7cbd6501ee404274b8a10d40ae6549e6 c23c50d79a754992b30271de57dacf38
+msgid "Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:140
+#: ../../source/dicos_djm/dicos/working_environment.rst:151
+#: ../../source/dicos_djm/dicos/working_environment.rst:162
+#: ../../source/dicos_djm/dicos/working_environment.rst:173
+#: 03b663294e054544b161aa649ef34298 2e0ae46d3713416d9d2b0bdff7acdb6e
+#: 400989d8d57e4f41a7f37aa7274a9b6d 4dbf3f173ded4c88b66d1c6b46c36669
+msgid "931000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:142
+#: ../../source/dicos_djm/dicos/working_environment.rst:153
+#: ../../source/dicos_djm/dicos/working_environment.rst:164
+#: ../../source/dicos_djm/dicos/working_environment.rst:175
+#: 077ad203edf8414e824a55f43dfb9f0e 3cdc19442a524320bc8567cd3a2a47ad
+#: 605b9e50c6204ad291d104b937269a09 b62b58d1121f4d9397100733bd5ae357
+msgid "750"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:143
+#: ../../source/dicos_djm/dicos/working_environment.rst:154
+#: ../../source/dicos_djm/dicos/working_environment.rst:165
+#: ../../source/dicos_djm/dicos/working_environment.rst:176
+#: 1f25fe18a41943e3abb436378bbe493b 465fb993ae4847a49f9af1382dd315d4
+#: e8978e3dc151490995d5e8ec140a9135 ef441d1374a449799e3f5002009e0765
+msgid "v100"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:144
+#: ../../source/dicos_djm/dicos/working_environment.rst:155
+#: ../../source/dicos_djm/dicos/working_environment.rst:166
+#: ../../source/dicos_djm/dicos/working_environment.rst:177
+#: 0c7f7ab5b98d4942bf94f02f9eb4f49d c73645fe96cf4c4aaec52f22afb09d21
+#: c8e80fa3190746f6a9eb5503b9000529 f34ec0d21ff543fbbd21f76de98be47c
+msgid "8"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:147
+#: 4b37ae6c3c754dcdace8f67396bc9d51
+msgid "ANALY_TAIWAN_TWGRID_SPECFEM3D_GPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:158
+#: 8aecbf5779cb45a6bd1e8bda1e910faf
+msgid "ANALY_TAIWAN_TWGRID_V100_GPU"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:167
+#: ../../source/dicos_djm/dicos/working_environment.rst:178
+#: 4e9e7ecd739847a188a17eaaea5e731b 86a686cb5de04a74a7840d15bca18df7
+msgid "2"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:169
+#: e8dcc3126e0a462391c06041519a23af
+msgid "ANALY_TAIWAN_TWGRID_V100_GPU_QCD"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:184
+#: 0b8ca0b862974b88b565549d10978aaf
+msgid "VO: ams02.cern.ch"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:191
+#: ../../source/dicos_djm/dicos/working_environment.rst:231
+#: ../../source/dicos_djm/dicos/working_environment.rst:256
+#: 00064613479541c28d0649fa7dcea947 7d690c333f58497bbdfd3177d4c9fed9
+#: d2ed2d15382e4def8cdeb3add0c21407
+msgid "Number of core per node"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:192
+#: ../../source/dicos_djm/dicos/working_environment.rst:232
+#: ../../source/dicos_djm/dicos/working_environment.rst:257
+#: 466ccd6a5c194d4ba9561b3dcb9b5c87 88cbc388b900406988d8e8b7c6cc6148
+#: a6bb8f8c13ca4c5c957d59099cd64a7d
+msgid "Memory of job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:193
+#: ../../source/dicos_djm/dicos/working_environment.rst:233
+#: ../../source/dicos_djm/dicos/working_environment.rst:258
+#: 68a15d5b93cf4d158ca1cb95bc36920c cff70984ab23416882cfff82dcccfb73
+#: f06c6e75a23d4668aecfd327796d1280
+msgid "Disk of job"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:194
+#: a57652a28f4d47aa9e3c1ca3b0d5d8be
+msgid "per Core"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:195
+#: ../../source/dicos_djm/dicos/working_environment.rst:235
+#: 0fa0d9193cd245978db998eb92333059 c6185a26d2ad435488fb77a3cd2dbc85
+msgid "Machine memory size"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:197
+#: 34a6932340b34554a5dcc4af09d1a0f4
+msgid "ANALY_TAIWAN_CLOUD_PROD"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:205
+#: 798129ccaa5b4baa9595e5da04416f3b
+msgid "ANALY_TAIWAN_HPC_FDR4"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:213
+#: 5b1d7919291b4098839c93882b0ba43b
+msgid "ANALY_TAIWAN_HPC_QDR2_HIMEM"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:216
+#: e5868eddc1a84e85af0492edd5b8a404
+msgid "10000"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:224
+#: 2b8160052f6d4ce98da0a7e9b975d7ca
+msgid "VO: ATLAS"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:237
+#: 289c33b189cf42129ccbbffa8fdf2c29
+msgid "ANALY_TAIWAN_ATLAS_HPC_QDR2"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:249
+#: 2357220d93334a26ae277a3ccde147ff
+msgid "VO: Bioinfo"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:260
+#: 2977a5caab204483a1144343a9637c43
+msgid "Machine mrmory size"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:262
+#: e982a05c3d174ebd97c6ee47965e139c
+msgid "ANALY_TAIWAN_BIOINFO_CLOUD_PROD"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:270
+#: efdb57a8747942579d7b04a7cc7f25ed
+msgid "ANALY_TAIWAN_BIOINFO_HPC_QDR5"
+msgstr ""
+
+#: ../../source/dicos_djm/dicos/working_environment.rst:273
+#: c353c1eeb3084afab02f1fc229d5a8a8
+msgid "6000"
+msgstr ""
+

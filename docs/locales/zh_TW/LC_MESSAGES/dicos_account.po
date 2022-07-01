@@ -1,0 +1,281 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_account.rst:3 e3fdd46ff3954ad180e66c1167c6ef8b
+msgid "DiCOS Account"
+msgstr ""
+
+#: ../../source/dicos_account.rst:9 cb63dac984dd4388be8836f0295902e5
+msgid "Apply for a DiCOS Account"
+msgstr ""
+
+#: ../../source/dicos_account.rst:12 d106fce91b854f5fb463527516578ae9
+msgid ""
+"Go to `DiCOS Account Page "
+"<http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_ to apply DiCOS "
+"account."
+msgstr ""
+
+#: ../../source/dicos_account.rst:19 19b29b13bd744166b995bc604bd3c82f
+msgid "Channel"
+msgstr ""
+
+#: ../../source/dicos_account.rst:20 d80268bb3b494ecaae6444324368a9aa
+msgid "Applicant"
+msgstr ""
+
+#: ../../source/dicos_account.rst:21 62ee3c1392ee421eb6dc072af039c58a
+msgid "Apply DiCOS Account"
+msgstr ""
+
+#: ../../source/dicos_account.rst:22 33a219e5206b44209b8e29912b0f727f
+msgid "Non-Academia Sinica Users"
+msgstr ""
+
+#: ../../source/dicos_account.rst:23 86d6acb74fb64c788643a585e15434ae
+msgid "Academia Sinica SSO"
+msgstr ""
+
+#: ../../source/dicos_account.rst:24 8def6ded75e7442993294b8b0fc560f3
+msgid "Academia Sinica Users"
+msgstr ""
+
+#: ../../source/dicos_account.rst:28 5c2ebe62234b4bbdafc2523f66b95f38
+msgid ""
+"If you are a member of Academia Sinica, please use AS-SSO (single sign-"
+"on) to register your DiCOS account."
+msgstr ""
+
+#: ../../source/dicos_account.rst:32 044319c579e840b4a889366465b31741
+msgid "Non-AS Users"
+msgstr ""
+
+#: ../../source/dicos_account.rst:35 a7aedfbc849f42f4a29d4b5c1f692e05
+msgid "Step 1: Personal Information"
+msgstr ""
+
+#: ../../source/dicos_account.rst:39 e43798d04b3c42cf88e14a5adf8842b5
+msgid "Fill in your personal information"
+msgstr ""
+
+#: ../../source/dicos_account.rst:40 ../../source/dicos_account.rst:112
+#: 089335ac8cae4a83adb252b4d936be3c 5dd78cf7a4bf40bb93dd20ae6d5cfc9d
+msgid "Select your research group. (Your PI will approve your application)"
+msgstr ""
+
+#: ../../source/dicos_account.rst:41 ../../source/dicos_account.rst:113
+#: 15a4d5168bb44b19997a41992d180760 82e5afbe6f2046309a137b404fc2a163
+msgid "Setup account / password in DiCOS"
+msgstr ""
+
+#: ../../source/dicos_account.rst:47 ../../source/dicos_account.rst:118
+#: 915d4905d0994b80960ed680ad8e2300 a0b3597e8e264907a1b478000aaa5cc7
+msgid ""
+"Please setup your password in a secure way (you may refer to `this link "
+"<https://security.web.cern.ch/recommendations/en/passwords.shtml>`_ for "
+"chooing a secure password), and don't share it to anyone. DiCOS users "
+"have the obligation to keep their DiCOS account safe. Any malicious "
+"activities will be logged and DiCOS administrators keep the right to "
+"suspend the suspicious account if necessary."
+msgstr ""
+
+#: ../../source/dicos_account.rst:50 9502fab48e5d4b8484e52aff6bf21320
+msgid "Step 2: Confirm your e-mail address"
+msgstr ""
+
+#: ../../source/dicos_account.rst:54 1dfa0584871745ce9e1e17e88f257f33
+msgid ""
+"Check your mailbox and find our confirmation email (see format as below)."
+" Verify by clicking the url in the e-mail."
+msgstr ""
+
+#: ../../source/dicos_account.rst:85 ../../source/dicos_account.rst:121
+#: 94431c2f22ec42e98dda95a2f457e8a8 95859278b5d8445a92c837ed21119657
+msgid "Step 3: PI's approval"
+msgstr ""
+
+#: ../../source/dicos_account.rst:89 ../../source/dicos_account.rst:123
+#: 11dad04848324a2dbb2af1f04b87a5cf 9ffd68065a0b468ea2087d8a114827a2
+msgid ""
+"Wait for your PI to approve the application. You will get a notification "
+"email when it's approved."
+msgstr ""
+
+#: ../../source/dicos_account.rst:92 ../../source/dicos_account.rst:126
+#: aed44abcb46347ceb07ddc0d3d1f822b e587bbde3cb541c8beefc3fb24349bb2
+msgid "Step 4: Start to use DiCOS services"
+msgstr ""
+
+#: ../../source/dicos_account.rst:96 ../../source/dicos_account.rst:130
+#: 9fa7a02f2b474268b1db6903da639807 d6d3f96e311a46e289a009ecf53e7b2d
+msgid "Congratulations! You could start using DiCOS services now!"
+msgstr ""
+
+#: ../../source/dicos_account.rst:100 13c477a6436c4253b7dbf4548db682f9
+msgid "AS Users (via SSO)"
+msgstr ""
+
+#: ../../source/dicos_account.rst:103 7dee541212e94f47830a3056f0cc794a
+msgid "Step 1: Sign-up with Academia Sinica SSO"
+msgstr ""
+
+#: ../../source/dicos_account.rst:108 0907d1bec57541568f5f0ed8790f284c
+msgid "Step 2: Fill in application form"
+msgstr ""
+
+#: ../../source/dicos_account.rst:117 495086803e36423e9e015d2140b925e5
+msgid ""
+"If you are logging with Academia Sinica SSO, the default DiCOS account "
+"will be the same to the AS-SSO account."
+msgstr ""
+
+#: ../../source/dicos_account.rst:134 a6b7402d65d04533a0a3063f88bd3939
+msgid "Edit DiCOS Account Password/Profile"
+msgstr ""
+
+#: ../../source/dicos_account.rst:136 d701421b7c554669aa738c4fec9e7384
+msgid ""
+"DiCOS user could change the password and update the information of the "
+"user profile through DiCOS web: "
+"https://dicos.grid.sinica.edu.tw/profile/info. Please follow the "
+"instruction on the webpage to finish the modification."
+msgstr ""
+
+#: ../../source/dicos_account.rst:141 8fe3352e93aa4dcfafd44f320d1bf655
+msgid "Action"
+msgstr ""
+
+#: ../../source/dicos_account.rst:142 0956d73e328d496297613e5a70ac1f4a
+msgid "Valid Time"
+msgstr ""
+
+#: ../../source/dicos_account.rst:143 b4d008852b1e44c98cf71c74a75b3b9e
+msgid "Edit password"
+msgstr ""
+
+#: ../../source/dicos_account.rst:144 ../../source/dicos_account.rst:146
+#: 0b07be86c2304892a0bcbe482b076ab0 7c112eba40214c37b49eadc35f974c8d
+msgid "Immediately after modification"
+msgstr ""
+
+#: ../../source/dicos_account.rst:145 36cace5b5da64584b51722b31d50155d
+msgid "Edit user information"
+msgstr ""
+
+#: ../../source/dicos_account.rst:147 4c242bfcd4ee4a109fd672fb4a232f00
+msgid "Change Group"
+msgstr ""
+
+#: ../../source/dicos_account.rst:148 ef02b8df95174d38bc16c5d839781d42
+msgid "Will need to wait for the approval of new group PI"
+msgstr ""
+
+#: ../../source/dicos_account.rst:152 adc4f41a90f0403a876c26681b2bf4cf
+msgid "DiCOS Account Lifetime"
+msgstr ""
+
+#: ../../source/dicos_account.rst:154 cc76026d17fb409caa65c4cb5f82a9cd
+msgid ""
+"The default lifetime of DiCOS account is **1 year**. The DiCOS system "
+"will send you a mail to extend your account lifetime **15 days prior to "
+"the expiration** of the account. The content of the reminder mail will be"
+" like the following paragraphs."
+msgstr ""
+
+#: ../../source/dicos_account.rst:172 e481a1bde6ca4fc69a93a584a654854f
+msgid ""
+"Please follow the procedure to extend the account lifetime if you would "
+"like to continuously use the DiCOS account. Once your account expired, "
+"you will receieve a mail to notify you the expiration of the account, the"
+" contents will be something like:"
+msgstr ""
+
+#: ../../source/dicos_account.rst:191 ef2b60cdf3684b23ba51bf1862a09f67
+msgid ""
+"The recovery of an expired DiCOS account could be only valid for a short "
+"period of time. The DiCOS administrator could delete the expired "
+"accounting for security reason without notifying the users. Please keep "
+"your account in valid state if you would like to use the DiCOS account "
+"continuously."
+msgstr ""
+
+#: ../../source/dicos_account.rst:196 72e6e9e52ce44b2580a5038743f0a1b2
+msgid "DiCOS Group"
+msgstr ""
+
+#: ../../source/dicos_account.rst:198 9af4dfbb33464315a08fbcf14f4cfab8
+msgid ""
+"If you would like to join DiCOS as a PI of a specific research group. "
+"Please e-mail to DiCOS-Support@twgrid.org and attached the following "
+"messages for application:"
+msgstr ""
+
+#: ../../source/dicos_account.rst:200 ../../source/dicos_account.rst:215
+#: 2ba1062d547f4e3dbbe72cc0e8d396af 74c7257f7aa6404c8c8f7243467440b4
+msgid "DiCOS Group Registration Fields"
+msgstr ""
+
+#: ../../source/dicos_account.rst:203 18344497e55e4f4085ffed206429cec7
+msgid "Group name"
+msgstr ""
+
+#: ../../source/dicos_account.rst:204 0c55f2e20c1b49ac8e375b443e18d252
+msgid ""
+"A name for UNIX identification, length no more than 40 characters, upper "
+"& lower cases allowed"
+msgstr ""
+
+#: ../../source/dicos_account.rst:205 81adc122ab5f432ca7689b594986538f
+msgid "PI Name"
+msgstr ""
+
+#: ../../source/dicos_account.rst:207 ../../source/dicos_account.rst:222
+#: 09be0583f9d64edeb714fccb1fb607a4 2bb71504ca8541c98f8789a4907361d5
+msgid "PI E-mail"
+msgstr ""
+
+#: ../../source/dicos_account.rst:209 25004029d6af4e4a9aac34674a84e1a5
+msgid "PI Institute"
+msgstr ""
+
+#: ../../source/dicos_account.rst:213 8fc7f0aa197d434bb53b5d9baec817df
+msgid "In Chinese:"
+msgstr ""
+
+#: ../../source/dicos_account.rst:218 d7561ec3f7804d45b45c433ef77e0cf7
+msgid "Group 名稱"
+msgstr ""
+
+#: ../../source/dicos_account.rst:219 78ae6e427b9b4b44b3a117a4cbd2b8c6
+msgid "需要一個不能含空格或特殊符號的 40 字以內簡稱"
+msgstr ""
+
+#: ../../source/dicos_account.rst:220 3ebefdee4d9149c884b60b93f668001f
+msgid "PI 名字"
+msgstr ""
+
+#: ../../source/dicos_account.rst:221 a083c8471ce44f769e1f354dccbb25ba
+msgid "含中英文"
+msgstr ""
+
+#: ../../source/dicos_account.rst:224 b7c92402a28e43ac9e4c476bb0b0efb1
+msgid "PI 所屬單位"
+msgstr ""
+

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/contact_us.rst:3 dc731b1369024b37a77259a4b141434d
+msgid "Contact Us"
+msgstr ""
+
+#: ../../source/contact_us.rst:7 83341bcbdf5a441b8577aa65b041765a
+msgid "There are channels to contact to ASGC/DiCOS staffs/administrators:"
+msgstr ""
+
+#: ../../source/contact_us.rst:9 dff75034ff96487888557cf9d2ba371d
+msgid "E-mail: DiCOS-Support@twgrid.org"
+msgstr ""
+
+#: ../../source/contact_us.rst:10 0caca5e3b5fe48a98ab301f1c2ba0ff4
+msgid "Web: https://dicos.grid.sinica.edu.tw/contact"
+msgstr ""
+
+#: ../../source/contact_us.rst:12 8df919e44e5340a9bee4ef652d11ef8f
+msgid ""
+"Please describe which subsystem you are using and what happened when you "
+"using it on the messages. We will reply you as soon as possible."
+msgstr ""
+

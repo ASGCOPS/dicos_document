@@ -1,0 +1,497 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_job_submission.rst:3 89b330c49dd74dc994c3d508db96be07
+msgid "DiCOS Job System"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:9 1e1453378da44404b14cf208c4a5e4d4
+msgid "DiCOS User Interfaces (UIs)"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:11 e443f348d30d422784868dd58160f8f7
+msgid ""
+"The available DiCOS UI are listed below. DiCOS users could login with the"
+" DiCOS account to access our resources."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:16 6094c68ecd454c0ab0acd05c0e753f05
+msgid "User Interface Node"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:17 4ec24c8fbcab472fadb3d82f1b161b1a
+msgid "OS"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:18 3c428022368e491b808b6a7bc44c28f5
+msgid "Purpose"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:19 e318c565c5ab411887a30c0e6e7b546d
+msgid "dicos-ui02.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:20 5079b169c80545d7be2bcaf7fd411072
+msgid "SLC 6"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:21
+#: ../../source/dicos_job_submission.rst:24 34a5acae2fd242eea576eb84d98e8dc7
+#: 725e88000e2042729dd2b56c910b2211
+msgid "File download/upload"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:22 01699d4584c447be938ad174219ad549
+msgid "dicos-ui04.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:23
+#: ../../source/dicos_job_submission.rst:26
+#: ../../source/dicos_job_submission.rst:29 4b4cf950aa0a42d1a616eb50a9ea57af
+#: 675e516409da4b3fb0d6dfb041680f31 f70cbf0bf0bd4b65bef45855c5e0a0d9
+msgid "CentOS 7"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:25 ced0b80f99dc467d99ddf5162555099b
+msgid "dicos-ui05.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:27
+#: ../../source/dicos_job_submission.rst:30 1b421c7b8e9441269575596ef9a980e0
+#: 340bbcda50ed42d896837fc3ba74fb85
+msgid "Job submission, File download/upload"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:28 04dd9c06007f42519c65320365495bf6
+msgid "dicos-ui06.grid.sinica.edu.tw"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:34 63ff90c46bfe40fdb3eb3f103db03399
+msgid ""
+"The resources of the user interface node is limited, please don't run "
+"your jobs in the user interfaces, or your jobs will be killed without "
+"notice."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:36 0131415526454ebba3c7a9e78a16b21d
+msgid ""
+"To avoid ssh password guessing attack, IP addresses with multiple login "
+"failures in a short time will be banned for hours."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:38 2667a56641cc4d26b9f80ce1d8c21578
+msgid ""
+"Installed GUI software in UIs for users to preview files. Please use, for"
+" example:"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:44 3543b2ad1dcf4e1493ddda78dfe6cccf
+msgid ""
+"to login in the UI with X11 forwarding enabled. If you are using Windows™"
+" system, please install and execute `Xming "
+"<https://sourceforge.net/projects/xming/>`_ before connect to the UI."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:49 56919bbc62b840b3a98f86d98dbd988a
+msgid "Software"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:50 3cdff9c775884198bb753323d6866c9c
+msgid "Filetype"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:51 1f9ffe3a880943f4afc708686f4abc96
+msgid "Type"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:52 ad6066fe62a247c8852465482820df5c
+msgid "`vim <https://www.vim.org/>`_ | `nano <https://www.nano-editor.org/>`_"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:53 289c5497deb041d1ac5fc3dff1e3c15d
+msgid "text editor"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:54 9df16f065d9b48b982204eec3c9679da
+msgid "CLI"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:55 0ecdd88ba9294533a6b283192ed075de
+msgid "`eog <https://wiki.gnome.org/Apps/EyeOfGnome>`_"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:56 a81744c21e4443d7bd1f44023c256de6
+msgid "images"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:57
+#: ../../source/dicos_job_submission.rst:60 4e5b0bd37a134a84a9288e9763785951
+#: a5b872cea9c840518de78d72f96a067d
+msgid "GUI"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:58 27f83c285b844ccb88d8472ad8719a70
+msgid "`xpdf <https://www.xpdfreader.com/>`_"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:59 73fe594bfc564507b878a9dd1e1e7770
+msgid "pdf files"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:65 067c6afb615d428280e68d98ebad5b9f
+msgid "DiCOS Queues"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:67 bd49755f62b84922b4d45b16fb87ee0f
+msgid ""
+"As of 2022-07-13, DiCOS job submission only support for batch GPU jobs. "
+"The available DiCOS queues could be found in the table below:"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:72 3ba79bc70bf04066b2c9e468c3168ce8
+msgid "Queue Name"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:73 3c157eea2cbf4ca4ba5ff6adcf0e5505
+msgid "GPU"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:74 6b426b09bacf40878446976039347b89
+msgid "ANALY_TAIWAN_TWGRID_V100_GPU_QCD"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:75
+#: ../../source/dicos_job_submission.rst:77
+#: ../../source/dicos_job_submission.rst:79
+#: ../../source/dicos_job_submission.rst:81
+#: ../../source/dicos_job_submission.rst:83 6195894c6a104e7b896e9abb155a84d0
+#: 8f685dda126a44c59f4e2e13e1583c86 a1b1920cffa24f4db38a64a36736c21d
+#: b2e1af4cb12b4f238c495db805e133d6 f09f245dba34459383a17c23afa5a98e
+msgid "V100"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:76 b498cf290ef445aca46142c250d6151b
+msgid "ANALY_TAIWAN_TWGRID_V100_GPU"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:78 58b3270e288344279947ae931cea903d
+msgid "ANALY_TAIWAN_TWGRID_SPECFEM3D_GPU"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:80 18e5344720c94dc784d44aaddef7f948
+msgid "ANALY_TAIWAN_TWGRID_KAGRA_GPU"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:82 a72e3a0feb3248b6b92564e42b9cd444
+msgid "ANALY_TAIWAN_TWGRID_AUTODOCK_GPU"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:87 acab74419c9d414a99fb41b4874e105f
+msgid "DiCOS Client Tools"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:90 3503a98b8a984214b2f838bf4e36c06c
+msgid "Before using DiCOS CLI Tool"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:93 5cd71668fb904e1aab1385e12582e391
+msgid "Preparation: Log in DiCOS command-line UI server"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:95 f809e3fe761b4f56b667e673920db4ea
+msgid "SSH login one of dicos UI server with your DiCOS account and password."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:97 df139a52dd7e4931b7e7d25616fa3468
+msgid "dicos-ui05 & dicos-ui06.grid.sinica.edu.tw (CentOS7)"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:107 4a5636b159e84ba88fb2da18afa9dba5
+msgid "You should login successfully."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:110 de356492ba9f47cda093c8de82c0b55f
+msgid "Quick Start Tutorial"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:112 8ca661aef7fd4ce699a86e01bc9b325d
+msgid "Here shows a simple example step by step to run job with DiCOS."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:114 c1b4dbc53306405ebdd0eab1981f1a1d
+msgid ""
+"Here is an example job, which will generate an output file "
+"*MyOutput.txt*, whose content is a string *Hello*. Please save the "
+"following content as a file and named it *PrintHello.sh*."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:122 681c9115d2c74d48a1eb5bc8a8dbdce9
+msgid "Next, check your file is in your home directory, type ``ls``: to check."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:129 a71e349f20f145ceaa92af5735b1fe4e
+msgid "Now, we will start to submit a job."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:135 bdcdbbbf7e2242c8a8c64f46106b8c93
+msgid ""
+"Command ``dicos`` is the only command to know. All command lines related "
+"to DiCOS begin with ``dicos``."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:136 4dd76e90517c42e79add0af1fa0afbcd
+msgid ""
+"Command ``job`` is one subcommand of ``dicos``, which means **do some "
+"operation about job**."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:137 68459b616a7d4f2fa4824d60ed640257
+msgid ""
+"Command ``submit`` is one subcommand of 'job', which means **to submit "
+"job(s)**."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:138 2e9f8a9fc8cc434d83b99bd04a9e9b66
+msgid ""
+"The option ``-i`` of ``submit`` is to specify input files of your job. "
+"Put your specified local file path after it."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:139 210d80899c5944148d69be84f2831601
+msgid ""
+"The option ``-N`` of ``submit`` is to specify the name of this task (job "
+"or jobs) to submit."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:140 08cdfef8b552480f9b93b4564cfee90a
+msgid ""
+"The option ``-c`` of ``submit`` is to specify the command to execute. In "
+"this example, \"./PrintHello.sh\" means 'just execute PrintHello.sh'"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:142 e4cd03903ec84b5d9b9c4aae504fc8c4
+msgid ""
+"After executing this command, you will get the JobID (aka PandaID) and "
+"TaskID (aka jobDefinitionID) of your job(s):"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:148 9f1ce0a733594e34bd2ccd93b46da265
+msgid "Next, you can check job status via command."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:154 6705c555dee04be786931489925c7141
+msgid "And you can see something like:"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:163 acb376645e894cebb26ad5a21381b926
+msgid "Then, wait patiently until the job finishes :)"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:165 bc0c36fb3a844c00a9f1fe47b6c018b1
+msgid "Now, check the job status again to make sure it is finished."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:175 f7ef8529418f4ab99287b09ed183b40d
+msgid "If the job status has become **finished**, it is time to get the output!"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:181 515dd7e916c64b358f7dd0529d0b6bee
+msgid "In this example. <YourJobID> is **9999999**."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:187 f59452b86ed5487a8a9d411bff405c6c
+msgid "And you will get a successful message."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:189 8cb4ff827f94467b91a5d46940a06053
+msgid "Got output of job 9999999 in ./DiCOS_job_9999999_NameOfJob_output"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:191 a718322efeef40f4b212832bcd1e694f
+msgid "where shows the directory containing the outputs of your job."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:193 cc025bdede894cccb9da21611cd77096
+msgid "Now, use ``ls`` command to check this directory ."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:200 5ca8a718d8784db3a8200d9f32c2395c
+msgid "And you can check if the output file is as expected:"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:207 2892cd7bff1f4f73834efdbeb17d381f
+msgid "Bravo!"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:209 71835e248181456c9c56420d33060009
+msgid ""
+"The quick start tutorial ends here. For more details, see the description"
+" below."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:212 234355de7298498faf4a4eedd6ac4c03
+msgid "How to use these dicos subcommands and options?"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:214 50e6b559bfdf420aaa23fb8eefa4d807
+msgid ""
+"You can use ``-h`` or ``--help`` after any command lines starting with "
+"``dicos`` to get the help message of the subcommands or options."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:216 9837b5dcd44f447992bf530a4befb1a9
+msgid "For example, to see what subcommands of ``dicos`` are available:"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:222 15570eae9eb24cbd949a88ff196946ac
+msgid "For example, to see what options of ``dicos job submit`` are available:"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:229 69336966d16749e1af4ae3457574453f
+msgid "More Tips about DiCOS Subcommands"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:233 d7374a4b1d4541c1b854e4bec68f1865
+msgid "ping"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:235 a4a59776e4c04dda8c344bc3b31e44e0
+msgid "Ping DiCOS server, check server status and connection."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:242 00be3f76a08d46f4b3c928f6651af827
+msgid "job"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:244 0bee93e10bbf4fcb809e7ecf78db4f37
+msgid ""
+"Operations about jobs. See its subcommands description below, or use "
+"`--help` to see details of options."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:248 fd0ec7130a79423aa423d7cad1d4a8f3
+msgid "submit"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:250 f0ad93c12e124b749e1c2a0e67598b59
+msgid "Submit job(s) to DiCOS server."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:256 ea73c34790af490cbb0a87a1b27a472b
+msgid ""
+"Or you can prepare one file list contain file name which you want to "
+"submit to DiCOS server."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:262 36bf11e432dc4977949efa8c75e5b55e
+msgid "You can also use -A to submit jobs with different arguments."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:268 b9d5ab4bda3b4a14a6a2f36f1a20a23b
+msgid "Specify the computing resource requirement of your job."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:275 e5cc82a080ec4df5ae02e7b8cf4ee22e
+msgid "status"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:277 327233948b934104bf3b14bc2c1f483d
+msgid ""
+"Check status of job. The default subcommand just shows jobs within 240 "
+"hours, and 15 jobs at most."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:283 002769b72b9a428599273506a99c6697
+msgid "Maybe You want to check a single job"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:289 2dc42240bdf14ad2a1a7e6751547cbc8
+msgid ""
+"You can get job status display in long format, and sort these result with"
+" specified column."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:297 ad7bed3edec1480ba905a2ddf5811ee9
+msgid "Of course you can sort by reverse order."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:304 61ffdf4ee9ad4c3d90ef1a92cd092d12
+msgid ""
+"Now usable <ColumnTitle> are 'TaskID', 'PandaID', 'Name', 'Queue', "
+"'Creation_Time', 'End_Time', 'Status'."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:306 5dc135c8efd74ca68ad1df5213b2ac33
+msgid "<ColumnTitle> can be found when you check display in long format."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:309 f1138994d1924529a63fdc4e95652755
+msgid ""
+"In default display format, all jobs that have been resubmitted will not "
+"appear. If you need to check the information of all jobs, add `-al` "
+"option after command."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:319 65c7386bdbce408bac0ae7fb3f1b7226
+msgid ""
+"If you want to check jobs submitted more than 240 hours ago or display "
+"more jobs, you can do it:"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:327 be9291f8a9bb4a7da4c98c50206f38d5
+msgid ""
+"Also, it is able to get job status by specifying <TaskID> (instead of "
+"<JobID>)."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:334 d2bea9a7cd884c56b1aebe8114cfbc42
+msgid "cancel"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:336 b3dcd535a3ee42bdace3fda4ba2546a7
+msgid "Cancel submitted job"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:343 a4c86d105d6747bc9226ad53ee6ac221
+msgid "resubmit"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:345 1c9d8915eea647629bf0c8368de3ea39
+msgid "Resubmit submitted job"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:352 46afd9d3d272483b90eb206dc57289b4
+msgid "getoutput"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:354 454bc6b0ac974cedbcc7d1cfde53b031
+msgid "Get output files of submitted job"
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:360 084151887435439083878ae768ca7da9
+msgid ""
+"Also, it is able to get output of all jobs in the same task by specifying"
+" <TaskID>."
+msgstr ""
+
+#: ../../source/dicos_job_submission.rst:367 85931e8d7edd4625acf4e52f95dfde28
+msgid "**Don't forget to use `-h` or `--help` for more information.**"
+msgstr ""
+

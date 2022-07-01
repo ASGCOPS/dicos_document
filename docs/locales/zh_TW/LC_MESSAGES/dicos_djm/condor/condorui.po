@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/dicos_djm/condor/condorui.rst:2
+#: 52a60148e15440d7a881503e24e2b18b
+msgid "Condor User Interface"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:6
+#: 9449e1fe525e4ead836be9628de3e962
+msgid "User Interface Node"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:8
+#: 8855c269b1634c2bb00260134ade22ca
+msgid "condor-ui01.twgrid.org"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:9
+#: a5da3a30e8a94fb68491d97f40809150
+msgid "condor-ui02.twgrid.org"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:11
+#: c9e708d2b8764a52aa82cc438f463789
+msgid "SSH Login with your DiCOS account & password"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:18
+#: a49d198bc7ec49f89b8e2fc7defe79a0
+msgid "You should login successfully."
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:22
+#: 3a2fcb1f43a24f2c8a3178dfef5008e9
+msgid "Documents"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:24
+#: 8e6c12d79b024a39ad85a4949e14d91c
+msgid "User documents for Condor are located in"
+msgstr ""
+
+#: ../../source/dicos_djm/condor/condorui.rst:30
+#: 7ad8be53f41241e3a6a2c3ee33bf333f
+msgid ""
+"Create a working directory, assume it as mpi_work in your HOME directory."
+" Copy all the scripts from the following directory to start."
+msgstr ""
+

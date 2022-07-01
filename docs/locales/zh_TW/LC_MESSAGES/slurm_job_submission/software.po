@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/slurm_job_submission/software.rst:3
+#: 891142ba75b04e438eec96e416ce8289
+msgid "Available Software"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:7
+#: 70df52e1ec6a4af4a10b72b42a021523
+msgid "Module toolkit to load software"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:9
+#: fb800a053c58437d9f4bcde30accbf46
+msgid "To check available modules(softwares) and its version"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:15
+#: 5e8ded3b66e24714ae7c4a800c6330a6
+msgid "To clear the environment from any previously loaded modules"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:21
+#: 6e9fa774271e4ff9bfa1c0b48a2eb66b
+msgid "To load intel or gcc compiler"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:32
+#: 3af93e9b1dad4dda96fc6979b550a658
+msgid "MPI"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:34
+#: 3d5e8b77baec4137b038ae8af78e0f2e
+msgid "User can always find MPI libraries in the following path:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:40
+#: e4685937423e4baa9a4c427666ff0eef
+msgid "To setup mpi environment, please source setup script at following path:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:46
+#: 4fa75f3015434347ad38ac106a8463b7
+msgid ""
+"You should be able to find various mpi version there. If you don't what "
+"you need, please contact us."
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:50
+#: d8a6062380d448ffae625b13d31be857
+msgid "Compilers"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:52
+#: a888728b061c41399e964e261f8590a8
+msgid "User can always find different compiler at following path:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:58
+#: ddd99865999b4bc28d746f0531d8ac6b
+msgid ""
+"To setup compiler environment, please source specific setup script at "
+"following path:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:67
+#: 9254cfce287d4274888759edc9299cf9
+msgid "Scientific Software and Libraries"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:69
+#: b7d24435d6b64952b3db913042d128c5
+msgid ""
+"Some specific scientific softwares and libraries will be installed at "
+"following path:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:75
+#: bf458c32943948679d1e704a8f9d7564
+msgid ""
+"User can always find a setup script: setup.sh at software directory "
+"respectively. To setup specific software/libraries environment, simply "
+"source those setup.sh to activate it:"
+msgstr ""
+
+#: ../../source/slurm_job_submission/software.rst:81
+#: 0db098250ff34c14b56da29291ac0050
+msgid ""
+"If you don't find software you need, please contact our dicos support "
+"team. We will try to install those software for you."
+msgstr ""
+

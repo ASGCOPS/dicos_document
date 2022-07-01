@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Academia Sinica Grid-computing Centre
+# This file is distributed under the same license as the DiCOS Document
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DiCOS Document 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/agreement_policy/terms_of_use.rst:3
+#: 8cc07b8a4112414699dda1de348794e6
+msgid "ASGC Terms of Use"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:5
+#: ae25c6b5d3a24a0e83877ff3d90165e7
+msgid "Revision: v1.0, 6 April 2020"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:7
+#: 430b93713c07402f8ef250e7d3d5d3b2
+msgid ""
+"The Terms of Use are applicable to all users of this website "
+"(\"Website\"). Users should read, understand and accept these Terms when "
+"creating an account on the Website or using any of the services provided "
+"via this Website. If a given user has not done this, or does not agree "
+"with the contents of these Terms of Use, that user should not create an "
+"account on the Website and should not make use of any of the services "
+"provided via this Website."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:9
+#: 5fba7e447028449a89484f3b0caf4214
+msgid ""
+"The Website is owned and operated by Academia Sinica Grid Computing "
+"Centre (\"ASGC\"). By accepting these Terms of Use, upon creation of an "
+"account on the Website, the user enters into an agreement with ASGC, made"
+" up by the contents of these Terms, in order to regulate the user’s "
+"access and use of the Website. Users which accept these Terms of Use "
+"hereby represent and warrant that:"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:11
+#: cd54ad288da54c33aac1037c0f06d246
+msgid ""
+"They accept to be bound by these Terms of Use, as registered Website "
+"users – either individually, or in representation of an organization;"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:13
+#: 83b3fa84471b4e82bb4354bd7e7d57fd
+msgid ""
+"They are capable, under the terms of the law applicable to them, to be "
+"legally bound by and comply with these Terms of Use."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:15
+#: 3cd89b677fab4e14b1a2e3f4a65bd77e
+msgid ""
+"Their use of the Website will be carried out in accordance with all "
+"applicable laws and regulations."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:17
+#: 9b3758560ae04495967af225229c11ef
+msgid ""
+"In the event of doubts concerning the Terms of Use, ASGC may be contacted"
+" at: DiCOS-Support@twgrid.org."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:19
+#: 79d2c0d667ed499fa504f99b40cc5704
+msgid ""
+"For information on the processing of personal data on users which is "
+"carried out via the Website, please see the Privacy Policy"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:22
+#: 0c6f1026c0a244d9820649eb9c089880
+msgid "Services provided from this Website"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:24
+#: d1e32b436bd44abfbeb93ae4313f7b20
+msgid ""
+"Access to services provided via the Website (“Services”) is, in part, "
+"restricted to registered users – i.e., users with a registered Website "
+"account – although some Services are open to all Website users. The "
+"creation of an account and access to the Website is generally free of "
+"charge."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:26
+#: 5c3c3da5d936453bab2797ec5731d70e
+msgid "Your iCOMCOT portal Account"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:28
+#: 6061ef7c24f04a9f907809229af1d83f
+msgid ""
+"If you create an account on the Website, you are responsible for "
+"maintaining the security of your account and you are fully responsible "
+"for all activities that occur under the account. You must immediately "
+"notify ASGC of any unauthorized uses of your account or any other "
+"breaches of security. ASGC will not be liable for any acts or omissions "
+"by you, including any damages of any kind incurred as a result of such "
+"acts or omissions."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:30
+#: a2c149ac3c864ef78aa99cdd43fde33e
+msgid "User support"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:32
+#: df98f91389a047dda1df797d572c58ef
+msgid ""
+"Any questions concerning the Website and its services in general can be "
+"addressed to https://icomcot.twgrid.org via the general enquiry channel: "
+"DiCOS-Support@twgrid.org. Registered users can address questions "
+"specifically referring to the operation and use of the Website by writing"
+" an email to DiCOS-Support@twgrid.org."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:34
+#: cbe57b9798da40fda26526795cfecbfa
+msgid "Responsibility of Website Users"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:36
+#: aa01ea7790ed42a9a7d6c148d797345a
+msgid ""
+"You are responsible for taking precautions as necessary to protect "
+"yourself and your computer systems from viruses, worms, Trojan horses, "
+"and other harmful or destructive content. The Website may contain "
+"technical inaccuracies, typographical mistakes, and other errors. ASGC "
+"disclaims any responsibility for any harm resulting from the use by "
+"visitors of the Website, or from any downloading by those visitors of "
+"content there posted."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:38
+#: 30310fe59a844f1dbbc12a02abe3c43d
+msgid "Copyright / Intellectual Property"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:40
+#: b1709702ac1a4ab580944588f0d3d952
+msgid ""
+"Users of the Website may download or print copies of any and all "
+"materials on the Website for personal use. None of the information on "
+"this Website may be copied, distributed or transmitted in any way for "
+"commercial use without ASGC written consent. For any materials downloaded"
+" from this Website, source and references must be acknowledged."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:42
+#: 118051b5f28443889fac989ffe74b4c3
+msgid "Liability"
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:44
+#: 15f8fb8449a444e099d6cc50daf0a102
+msgid ""
+"The material on this Website is provided for general information only. "
+"ASGC makes no representations or warranties as to the accuracy or "
+"completeness of any materials and information incorporated thereto and "
+"contained on this Website. ASGC has a policy of continuous improvement of"
+" its communication and reserves the right to make improvements or changes"
+" to the online content without notice."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:46
+#: 8c84a81fb1d44a8fab9ad204c9a5ddfa
+msgid ""
+"The use of the material (or any information incorporated thereto), in "
+"whole or in part, contained in this Website is the user’s sole "
+"responsibility. ASGC disclaims any liability for any damages whatsoever "
+"including, without limitation, direct, indirect, incidental and/or "
+"consequential damages resulting from access to the website and use of the"
+" materials provided therein."
+msgstr ""
+
+#: ../../source/agreement_policy/terms_of_use.rst:48
+#: 5a0cf78a10a94ef39486b98e556d30fe
+msgid ""
+"ASGC makes no representations about websites accessed through this "
+"Website which are not maintained, controlled or created by ASGC. ASGC "
+"does not endorse those sites and is not responsible for their content."
+msgstr ""
+
