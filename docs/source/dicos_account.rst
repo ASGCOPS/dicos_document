@@ -16,7 +16,7 @@ Apply for a DiCOS Account
 .. list-table::
    :header-rows: 1
 
-   * - Method
+   * - Channel
      - Applicant
    * - Apply DiCOS Account
      - Non-Academia Sinica Users 
@@ -31,16 +31,6 @@ Apply for a DiCOS Account
 Non-AS Users
 ------------------------
 
-..
-
-    Step 1: DiCOS Account Application
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    
-    * Go to `DiCOS Account Page <http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_ to apply DiCOS account.
-    
-    .. image:: image/dicos_apply_account_main.jpg
-
-
 Step 1: Personal Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -54,7 +44,6 @@ Step 1: Personal Information
 
 .. note::
 
-   * If you are logging with Academia Sinica SSO, the default DiCOS account will be the same to the AS-SSO account.
    * Please setup your password in a secure way (you may refer to `this link <https://security.web.cern.ch/recommendations/en/passwords.shtml>`_ for chooing a secure password), and don't share it to anyone. DiCOS users have the obligation to keep their DiCOS account safe. Any malicious activities will be logged and DiCOS administrators keep the right to suspend the suspicious account if necessary.
 
 Step 2: Confirm your e-mail address
@@ -104,6 +93,8 @@ Step 4: Start to use DiCOS services
 
 .. image:: image/Account_application_flow_no_SSO4.png
 
+* Congratulations! You could start using DiCOS services now!
+
 ------------------------
 AS Users (via SSO)
 ------------------------
@@ -121,6 +112,11 @@ Step 2: Fill in application form
 * Select your research group. (Your PI will approve your application)
 * Setup account / password in DiCOS
 
+.. note::
+
+   * If you are logging with Academia Sinica SSO, the default DiCOS account will be the same to the AS-SSO account.
+   * Please setup your password in a secure way (you may refer to `this link <https://security.web.cern.ch/recommendations/en/passwords.shtml>`_ for chooing a secure password), and don't share it to anyone. DiCOS users have the obligation to keep their DiCOS account safe. Any malicious activities will be logged and DiCOS administrators keep the right to suspend the suspicious account if necessary.
+
 Step 3: PI's approval
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -130,6 +126,8 @@ Step 4: Start to use DiCOS services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_ASSSO2.png
+
+* Congratulations! You could start using DiCOS services now!
 
 ==========================================
 Edit DiCOS Account Password/Profile
