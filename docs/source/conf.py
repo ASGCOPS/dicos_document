@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'DiCOS Document'
-copyright = '2022, ASGC'
+copyright = '2022, Academia Sinica Grid-computing Centre'
 author = 'Jing-Ya You, Felix Lee, Mandy Yang, Mike Yang, Chih-Ting Chao'
 
 release = '1'
