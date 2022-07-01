@@ -2,7 +2,7 @@
 DiCOS Account
 ****************
 
-.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>, Jing-Ya You <jingya.you@twgrid.org>
+.. sectionauthor:: Mike Yang <mike.yang@twgrid.org>, Mandy Yang <mandy.yang@twgrid.org>, Jing-Ya You <jingya.you@twgrid.org>
 
 ==========================
 Apply for a DiCOS Account
@@ -11,6 +11,8 @@ Apply for a DiCOS Account
 
 Step 1: DiCOS Account Application
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: image/Account_application_flow_no_SSO1.png
 
 * Go to `DiCOS Account Page <http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_ to apply DiCOS account.
 
@@ -34,6 +36,8 @@ Step 1: DiCOS Account Application
 Step 2: Personal Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: image/Account_application_flow_no_SSO2.png
+
 * Fill in your personal information,
 * Select your research group. (Your PI will approve your application)
 * Setup account / password in DiCOS
@@ -47,6 +51,8 @@ Step 2: Personal Information
 
 Step 3: Confirm your e-mail address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: image/Account_application_flow_no_SSO3.png
 
 * Check your mailbox and find our confirmation email (see format as below). Verify by clicking the url in the e-mail.
 
@@ -80,6 +86,8 @@ Step 3: Confirm your e-mail address
 
 Step 4: PI's approval
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: image/Account_application_flow_no_SSO4.png
 
 * Wait for your PI to approve the application. You will get a notification email when it's approved.
 
@@ -143,17 +151,6 @@ Please follow the procedure to extend the account lifetime if you would like to 
 .. note::
 
    The recovery of an expired DiCOS account could be only valid for a short period of time. The DiCOS administrator could delete the expired accounting for security reason without notifying the users. Please keep your account in valid state if you would like to use the DiCOS account continuously.
-
-
-==========================
-DiCOS Account Flowchart
-==========================
-
-The following flowchart presents the application of the DiCOS account and the flows of the state change of the DiCOS accounts. For your potential interests.
-
-.. image:: image/dicos_account.png
-   :width: 800
-   :alt: DiCOS Account Flowchart
 
 
 ==========================================
