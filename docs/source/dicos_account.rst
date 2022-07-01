@@ -8,12 +8,6 @@ DiCOS Account
 Apply for a DiCOS Account
 ==========================
 
-------------------------
-Non-AS Users
-------------------------
-
-Step 1: DiCOS Account Application
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Go to `DiCOS Account Page <http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_ to apply DiCOS account.
 
@@ -33,13 +27,26 @@ Step 1: DiCOS Account Application
 
    If you are a member of Academia Sinica, please use AS-SSO (single sign-on) to register your DiCOS account.
 
+------------------------
+Non-AS Users
+------------------------
 
-Step 2: Personal Information
+..
+
+    Step 1: DiCOS Account Application
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    
+    * Go to `DiCOS Account Page <http://canew.twgrid.org/ApplyAccount/ApplyAccount.php>`_ to apply DiCOS account.
+    
+    .. image:: image/dicos_apply_account_main.jpg
+
+
+Step 1: Personal Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_no_SSO1.png
 
-* Fill in your personal information,
+* Fill in your personal information
 * Select your research group. (Your PI will approve your application)
 * Setup account / password in DiCOS
 
@@ -50,7 +57,7 @@ Step 2: Personal Information
    * If you are logging with Academia Sinica SSO, the default DiCOS account will be the same to the AS-SSO account.
    * Please setup your password in a secure way (you may refer to `this link <https://security.web.cern.ch/recommendations/en/passwords.shtml>`_ for chooing a secure password), and don't share it to anyone. DiCOS users have the obligation to keep their DiCOS account safe. Any malicious activities will be logged and DiCOS administrators keep the right to suspend the suspicious account if necessary.
 
-Step 3: Confirm your e-mail address
+Step 2: Confirm your e-mail address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_no_SSO2.png
@@ -85,14 +92,14 @@ Step 3: Confirm your e-mail address
    ========================================================
 
 
-Step 4: PI's approval
+Step 3: PI's approval
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_no_SSO3.png
 
 * Wait for your PI to approve the application. You will get a notification email when it's approved.
 
-Step 5: Start to use DiCOS services
+Step 4: Start to use DiCOS services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_no_SSO4.png
@@ -114,7 +121,12 @@ Step 2: Fill in application form
 * Select your research group. (Your PI will approve your application)
 * Setup account / password in DiCOS
 
-Step 3: Start to use DiCOS services
+Step 3: PI's approval
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Wait for your PI to approve the application. You will get a notification email when it's approved.
+
+Step 4: Start to use DiCOS services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_ASSSO2.png
