@@ -8,6 +8,9 @@ DiCOS Account
 Apply for a DiCOS Account
 ==========================
 
+------------------------
+Non-AS Users
+------------------------
 
 Step 1: DiCOS Account Application
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -36,7 +39,7 @@ Step 1: DiCOS Account Application
 Step 2: Personal Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: image/Account_application_flow_no_SSO2.png
+.. image:: image/Account_application_flow_no_SSO1.png
 
 * Fill in your personal information,
 * Select your research group. (Your PI will approve your application)
@@ -52,7 +55,7 @@ Step 2: Personal Information
 Step 3: Confirm your e-mail address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: image/Account_application_flow_no_SSO3.png
+.. image:: image/Account_application_flow_no_SSO2.png
 
 * Check your mailbox and find our confirmation email (see format as below). Verify by clicking the url in the e-mail.
 
@@ -87,9 +90,28 @@ Step 3: Confirm your e-mail address
 Step 4: PI's approval
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: image/Account_application_flow_no_SSO4.png
+.. image:: image/Account_application_flow_no_SSO3.png
 
 * Wait for your PI to approve the application. You will get a notification email when it's approved.
+
+------------------------
+AS Users (via SSO)
+------------------------
+
+Step 1
+^^^^^^^^^
+
+.. image:: image/Account_application_flow_ASSSO0.png
+
+Step 2
+^^^^^^^^^
+
+.. image:: image/Account_application_flow_ASSSO1.png
+
+Step 3
+^^^^^^^^^
+
+.. image:: image/Account_application_flow_ASSSO2.png
 
 ==========================================
 Edit DiCOS Account Password/Profile
