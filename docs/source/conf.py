@@ -4,10 +4,10 @@
 
 project = 'DiCOS Document'
 copyright = '2022, ASGC'
-author = 'Jing-Ya You, Felix Lee, Mike Yang, Chih-Ting Chao'
+author = 'Jing-Ya You, Felix Lee, Mandy Yang, Mike Yang, Chih-Ting Chao'
 
 release = '1'
-version = '0.3.0'
+version = '0.4.0'
 
 # -- General configuration
 
@@ -45,3 +45,4 @@ html_theme_options = {
 }
 
 html_baseurl = "/docs/"
+html_show_sourcelink = False
