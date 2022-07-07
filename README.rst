@@ -5,4 +5,8 @@ ASGC DiCOS Documentation. Adopted from original DiCOS wiki. We modified a lot in
 
 The tentative workflow for the document release is like the following image:
 
+--------------------
+Setup Guide
+--------------------
+
 .. image:: docs/dicos_document_flowchart.png
