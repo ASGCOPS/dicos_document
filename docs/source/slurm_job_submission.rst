@@ -35,7 +35,7 @@ Slurm users need to login one of the following user interface nodes to use the s
 
         ssh -XY <your_account>@slurm-ui01.twgrid.org
 
-     to login in the UI with X11 forwarding enabled. If you are using Windows™ system, please install and execute `Xming <https://sourceforge.net/projects/xming/>`_ before connect to the UI.
+     to login in the UI with X11 forwarding enabled. If you are using Windows™ system, please install and execute `Xming <https://sourceforge.net/projects/xming/>`_ before connect to the UI. If you are using MacOS™, you will probably install `xauartz https://www.xquartz.org/`_ to have the capability of X11 in the MacOS™.
 
      .. list-table::
         :header-rows: 1
