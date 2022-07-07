@@ -109,20 +109,18 @@ Step 2: Fill in application form
 
 .. image:: image/Account_application_flow_ASSSO1.png
 
-* Select your research group. (Your PI will approve your application)
 * Setup account / password in DiCOS
+* Your PI will get the notification of your application
+
+.. image:: image/fill_application_form.png
 
 .. note::
 
    * If you are logging with Academia Sinica SSO, the default DiCOS account will be the same to the AS-SSO account.
-   * Please setup your password in a secure way (you may refer to `this link <https://security.web.cern.ch/recommendations/en/passwords.shtml>`_ for chooing a secure password), and don't share it to anyone. DiCOS users have the obligation to keep their DiCOS account safe. Any malicious activities will be logged and DiCOS administrators keep the right to suspend the suspicious account if necessary.
+   * After registration, your DiCOS account and the AS-SSO account will be independent. That is, the password of your DiCOS account is not necessary to be the same to that of AS-SSO account.
+   * Please setup your password in a secure way (you may refer to `this link <https://security.web.cern.ch/recommendations/en/passwords.shtml>`_ for chooing a secure password, and a password security check will be done while you setup the password), and don't share it to anyone. DiCOS users have the obligation to keep their DiCOS account safe. Any malicious activities will be logged and DiCOS administrators keep the right to suspend the suspicious account if necessary.
 
-Step 3: PI's approval
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* Wait for your PI to approve the application. You will get a notification email when it's approved.
-
-Step 4: Start to use DiCOS services
+Step 3: Start to use DiCOS services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: image/Account_application_flow_ASSSO2.png
@@ -133,7 +131,9 @@ Step 4: Start to use DiCOS services
 Edit DiCOS Account Password/Profile
 ==========================================
 
-DiCOS user could change the password and update the information of the user profile through DiCOS web: https://dicos.grid.sinica.edu.tw/profile/info. Please follow the instruction on the webpage to finish the modification.
+DiCOS user could change the research group, institute and the passwords via `this link <https://canew.twgrid.org/ApplyAccount/nocertModify.php>`_. Please input your registered e-mail and then follow the instructions of the e-mail to finish the modification.
+
+.. image:: image/password_change.png
 
 .. list-table::
    :header-rows: 1
@@ -142,16 +142,21 @@ DiCOS user could change the password and update the information of the user prof
      - Valid Time
    * - Edit password
      - Immediately after modification
-   * - Edit user information
+   * - Edit user institute
      - Immediately after modification
    * - Change Group
      - Will need to wait for the approval of new group PI
+
+.. note::
+
+   * Group change will need the approval of new proup PI to finish the process
+   * DiCOS user profile could be found in: https://dicos.grid.sinica.edu.tw/profile/info
 
 ==========================
 DiCOS Account Lifetime
 ==========================
 
-The default lifetime of DiCOS account is **1 year**. The DiCOS system will send you a mail to extend your account lifetime **15 days prior to the expiration** of the account. The content of the reminder mail will be like the following paragraphs.
+The default lifetime of DiCOS account is **1 year**. The DiCOS system will send you a mail to extend your account lifetime **30, 15, 7 days prior to the expiration** of the account. The content of the reminder mail will be like the following paragraphs.
 
 ::
 
@@ -169,27 +174,11 @@ The default lifetime of DiCOS account is **1 year**. The DiCOS system will send 
        DiCOS-Support
 
 
-Please follow the procedure to extend the account lifetime if you would like to continuously use the DiCOS account. Once your account expired, you will receieve a mail to notify you the expiration of the account, the contents will be something like:
-
-::
-
-   Dear User (<dicos_user>):
-   
-        Your DiCOS account is expired.
-        Please extend lifetime of your account and update user information.
-        through https://canew.twgrid.org/ApplyAccount/extendexpiry.php?dicos_user
-   
-        Note that if your account have been expired,
-        you will not be able to sign in to DiCOS UI or web page.
-        If you have more question, please email for us.
-   
-        Regards
-        DiCOS-Support
+Please follow the procedure to extend the account lifetime if you would like to continuously use the DiCOS account. 
 
 .. note::
 
    The recovery of an expired DiCOS account could be only valid for a short period of time. The DiCOS administrator could delete the expired accounting for security reason without notifying the users. Please keep your account in valid state if you would like to use the DiCOS account continuously.
-
 
 ==========================================
 DiCOS Group

@@ -126,7 +126,7 @@ You could login in one of the following UIs: dicos-ui02.grid.sinica.edu.tw, dico
 
 .. note::
 
-   Currently, for each DiCOS user, the quota limit is 2GB.
+   Currently, for each DiCOS user, the quota limit is 2TB.
 
 .. seealso::
 
