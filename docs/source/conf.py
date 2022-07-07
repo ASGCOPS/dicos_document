@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 #html_theme = 'furo'
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+# epub_show_urls = 'footnote'
 
 # ------ customize setting
 html_logo = 'image/dicos.png'
