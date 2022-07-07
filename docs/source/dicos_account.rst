@@ -181,7 +181,7 @@ Please follow the procedure to extend the account lifetime if you would like to 
    The recovery of an expired DiCOS account could be only valid for a short period of time. The DiCOS administrator could delete the expired accounting for security reason without notifying the users. Please keep your account in valid state if you would like to use the DiCOS account continuously.
 
 ==========================================
-DiCOS Group
+Apply for a DiCOS Group
 ==========================================
 
 If you would like to join DiCOS as a PI of a specific research group. Please e-mail to DiCOS-Support@twgrid.org and attached the following messages for application:
