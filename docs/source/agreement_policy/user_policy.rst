@@ -22,4 +22,4 @@ By registering as an ASGC user you shall be deemed to accept these conditions of
 
 9. The access-granting bodies and ASGC are entitled to regulate, suspend or terminate your access, within their domain of authority, and you shall immediately comply with their instructions.
 
-10.You are liable for the consequences of you violating any of these conditions of use.
+10. You are liable for the consequences of you violating any of these conditions of use.
