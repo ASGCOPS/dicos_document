@@ -140,7 +140,7 @@ Transfer Data from/to DiCOS
 scp (command line)
 -------------------
 
-If your are Linux or Mac users, just simply open a terminal with command line interface and use ``scp`` to copy the files/directories between the DiCOS UI and your computer. For users using newer Windows™ system, you could use `WSL2 <https://docs.microsoft.com/en-us/windows/wsl/install>` to open a terminal.
+If your are Linux or Mac users, just simply open a terminal with command line interface and use ``scp`` to copy the files/directories between the DiCOS UI and your computer. For users using newer Windows™ system, you could use `Windows Subsystem for Linux 2 (WSL2) <https://docs.microsoft.com/en-us/windows/wsl/install>`_ to open a terminal.
 
 For example:
 
@@ -151,6 +151,14 @@ For example:
 
    # Copy my_input.txt from my computer to DiCOS UI home
    scp my_input.txt jack@dicos-ui05.grid.sinica.edu.tw:
+
+.. note::
+
+   For the help of ``scp``, you could type the following command for the manual page:
+
+   .. code-block:: bash
+
+      man scp
 
 ----------------------------------
 FileZilla™ (Windows™/MacOS™/Linux)
