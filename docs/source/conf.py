@@ -7,7 +7,7 @@ copyright = '2022, Academia Sinica Grid-computing Centre'
 author = 'Jing-Ya You, Felix Lee, Mandy Yang, Mike Yang, Chih-Ting Chao'
 
 release = '1'
-version = '0.4.0'
+version = '20220708'
 
 # -- General configuration
 
