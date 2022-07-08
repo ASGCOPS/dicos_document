@@ -20,4 +20,6 @@ By registering as an ASGC user you shall be deemed to accept these conditions of
 
 8. Logged information, including information provided by you for registration purposes, is used for administrative, operational, accounting, monitoring and security purposes only. This information may be disclosed, via secured mechanisms, only for the same purposes and only as far as necessary to other organisations cooperating with ASGC. Although efforts aremade to maintain confidentiality, no guarantees are given.
 
-9. The access-granting bodies and ASGC are entitled to regulate, suspend or terminate your access, within their domain of authority, and you shall immediately comply with their instructions.10.You are liable for the consequences of you violating any of these conditions of use.
+9. The access-granting bodies and ASGC are entitled to regulate, suspend or terminate your access, within their domain of authority, and you shall immediately comply with their instructions.
+
+10.You are liable for the consequences of you violating any of these conditions of use.
