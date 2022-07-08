@@ -23,13 +23,13 @@ For information on the processing of personal data on users which is carried out
 
     Access to services provided via the Website (“Services”) is, in part, restricted to registered users – i.e., users with a registered Website account – although some Services are open to all Website users. The creation of an account and access to the Website is generally free of charge.
 
-2. Your DiCOS portal Account
+2. Your iCOMCOT portal Account
 
     If you create an account on the Website, you are responsible for maintaining the security of your account and you are fully responsible for all activities that occur under the account. You must immediately notify ASGC of any unauthorized uses of your account or any other breaches of security. ASGC will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
 
 3. User support
 
-    Any questions concerning the Website and its services in general can be addressed to https://dicos.grid.sinica.edu.tw via the general enquiry channel: DiCOS-Support@twgrid.org. Registered users can address questions specifically referring to the operation and use of the Website by writing an email to DiCOS-Support@twgrid.org.
+    Any questions concerning the Website and its services in general can be addressed to https://icomcot.twgrid.org via the general enquiry channel: DiCOS-Support@twgrid.org. Registered users can address questions specifically referring to the operation and use of the Website by writing an email to DiCOS-Support@twgrid.org.
 
 4. Responsibility of Website Users
 
