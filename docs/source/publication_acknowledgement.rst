@@ -48,6 +48,8 @@ Citation Reference
 
 If you woule like to cite the document for our DiCOS system, you could cite `the document <https://www.researchgate.net/publication/323894182_Distributed_Cloud_Operating_System_DiCOS_Development_at_Academia_Sinica>`_ as reference.
 
-::
+.. note::
+
+   Citation Example:
 
    Eric Yen, Hung-Te Lee, Weijen Chang, Cheng-Hsi Chao, Asa Hsu, Ming-Jyuan Yang, Zong-Tsung Wu, `Distributed Cloud Operating System (DiCOS) Development at Academia Sinica <https://www.researchgate.net/publication/323894182_Distributed_Cloud_Operating_System_DiCOS_Development_at_Academia_Sinica>`_, Conference: International Symposium on Grids and Clouds (ISGC) 2016 (2017/01)
